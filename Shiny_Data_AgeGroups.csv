@@ -1,1233 +1,1233 @@
-year,disease_type,data_type,agegrp,name,rate,lb,ub
-2007,IBD,Incidence,Elderly (65+),Canada,28.4,26.799999,30
-2008,IBD,Incidence,Elderly (65+),Canada,26.1,24.6,27.700001
-2009,IBD,Incidence,Elderly (65+),Canada,26.4,24.9,27.9
-2010,IBD,Incidence,Elderly (65+),Canada,26.799999,25.299999,28.299999
-2011,IBD,Incidence,Elderly (65+),Canada,28.5,27,30
-2012,IBD,Incidence,Elderly (65+),Canada,27.4,26,28.9
-2013,IBD,Incidence,Elderly (65+),Canada,27.6,26.1,29
-2014,IBD,Incidence,Elderly (65+),Canada,28.1,26.700001,29.5
-2015,IBD,Incidence,Elderly (65+),Canada,27.9,25.6,30.299999
-2016,IBD,Incidence,Elderly (65+),Canada,28,25.299999,30.799999
-2017,IBD,Incidence,Elderly (65+),Canada,28.200001,25.1,31.200001
-2018,IBD,Incidence,Elderly (65+),Canada,28.299999,24.799999,31.700001
-2019,IBD,Incidence,Elderly (65+),Canada,28.4,24.6,32.200001
-2020,IBD,Incidence,Elderly (65+),Canada,28.5,24.299999,32.700001
-2021,IBD,Incidence,Elderly (65+),Canada,28.6,24.1,33.200001
-2022,IBD,Incidence,Elderly (65+),Canada,28.700001,23.799999,33.599998
-2023,IBD,Incidence,Elderly (65+),Canada,28.799999,23.6,34.099998
-2024,IBD,Incidence,Elderly (65+),Canada,29,23.299999,34.599998
-2025,IBD,Incidence,Elderly (65+),Canada,29.1,23,35.099998
-2011,IBD,Incidence,Elderly (65+),Catalonia,48.700001,44.799999,52.5
-2012,IBD,Incidence,Elderly (65+),Catalonia,52.400002,48.5,56.400002
-2013,IBD,Incidence,Elderly (65+),Catalonia,50.299999,46.400002,54.099998
-2014,IBD,Incidence,Elderly (65+),Catalonia,55.400002,51.400002,59.400002
-2015,IBD,Incidence,Elderly (65+),Catalonia,50.700001,46.900002,54.5
-2016,IBD,Incidence,Elderly (65+),Catalonia,48.400002,44.700001,52
-2017,IBD,Incidence,Elderly (65+),Catalonia,62.299999,58.099998,66.400002
-2018,IBD,Incidence,Elderly (65+),Catalonia,61.599998,57.5,65.699997
-2019,IBD,Incidence,Elderly (65+),Catalonia,61.299999,57.200001,65.300003
-2020,IBD,Incidence,Elderly (65+),Catalonia,45.700001,42.299999,49.200001
-2021,IBD,Incidence,Elderly (65+),Catalonia,40.200001,36.900002,43.400002
-2022,IBD,Incidence,Elderly (65+),Catalonia,42.599998,39.299999,45.900002
-2023,IBD,Incidence,Elderly (65+),Catalonia,32.299999,29.5,35.200001
-2024,IBD,Incidence,Elderly (65+),Catalonia,35.099998,27.6,42.700001
-2025,IBD,Incidence,Elderly (65+),Catalonia,36.299999,23.700001,48.799999
-1990,IBD,Incidence,Elderly (65+),Denmark,19.299999,16.299999,22.4
-1991,IBD,Incidence,Elderly (65+),Denmark,18.5,15.5,21.4
-1992,IBD,Incidence,Elderly (65+),Denmark,23.200001,19.9,26.5
-1993,IBD,Incidence,Elderly (65+),Denmark,33.299999,29.299999,37.299999
-1994,IBD,Incidence,Elderly (65+),Denmark,32.400002,28.5,36.299999
-1995,IBD,Incidence,Elderly (65+),Denmark,29,25.200001,32.700001
-1996,IBD,Incidence,Elderly (65+),Denmark,31,27.200001,34.900002
-1997,IBD,Incidence,Elderly (65+),Denmark,38,33.700001,42.200001
-1998,IBD,Incidence,Elderly (65+),Denmark,39.799999,35.400002,44.200001
-1999,IBD,Incidence,Elderly (65+),Denmark,44.099998,39.5,48.799999
-2000,IBD,Incidence,Elderly (65+),Denmark,42.400002,37.900002,47
-2001,IBD,Incidence,Elderly (65+),Denmark,45.099998,40.400002,49.799999
-2002,IBD,Incidence,Elderly (65+),Denmark,50.400002,45.5,55.400002
-2003,IBD,Incidence,Elderly (65+),Denmark,51.5,46.5,56.400002
-2004,IBD,Incidence,Elderly (65+),Denmark,55.799999,50.599998,60.900002
-2005,IBD,Incidence,Elderly (65+),Denmark,53.700001,48.700001,58.799999
-2006,IBD,Incidence,Elderly (65+),Denmark,48.299999,43.5,53
-2007,IBD,Incidence,Elderly (65+),Denmark,52.900002,48,57.900002
-2008,IBD,Incidence,Elderly (65+),Denmark,56,51,61
-2009,IBD,Incidence,Elderly (65+),Denmark,57.5,52.599998,62.5
-2010,IBD,Incidence,Elderly (65+),Denmark,53.5,48.799999,58.200001
-2011,IBD,Incidence,Elderly (65+),Denmark,50.900002,46.400002,55.5
-2012,IBD,Incidence,Elderly (65+),Denmark,41.799999,37.799999,45.799999
-2013,IBD,Incidence,Elderly (65+),Denmark,38.700001,34.900002,42.599998
-2014,IBD,Incidence,Elderly (65+),Denmark,41.400002,37.5,45.299999
-2015,IBD,Incidence,Elderly (65+),Denmark,38.599998,34.900002,42.299999
-2016,IBD,Incidence,Elderly (65+),Denmark,40.5,36.700001,44.200001
-2017,IBD,Incidence,Elderly (65+),Denmark,34.400002,31,37.900002
-2018,IBD,Incidence,Elderly (65+),Denmark,35.799999,32.599998,38.900002
-2019,IBD,Incidence,Elderly (65+),Denmark,37,30.9,43.200001
-2020,IBD,Incidence,Elderly (65+),Denmark,38.200001,29.299999,47.200001
-2021,IBD,Incidence,Elderly (65+),Denmark,39.400002,27.700001,51.099998
-2022,IBD,Incidence,Elderly (65+),Denmark,40.5,26.200001,54.799999
-2023,IBD,Incidence,Elderly (65+),Denmark,41.599998,24.799999,58.400002
-2024,IBD,Incidence,Elderly (65+),Denmark,42.599998,23.5,61.799999
-2025,IBD,Incidence,Elderly (65+),Denmark,43.599998,22.200001,65.099998
-2005,IBD,Incidence,Elderly (65+),ISRAEL,32.299999,28,36.5
-2006,IBD,Incidence,Elderly (65+),ISRAEL,26.799999,23,30.6
-2007,IBD,Incidence,Elderly (65+),ISRAEL,28.4,24.5,32.299999
-2008,IBD,Incidence,Elderly (65+),ISRAEL,24.6,21,28.299999
-2009,IBD,Incidence,Elderly (65+),ISRAEL,26.6,22.799999,30.299999
-2010,IBD,Incidence,Elderly (65+),ISRAEL,26.9,23.200001,30.5
-2011,IBD,Incidence,Elderly (65+),ISRAEL,26.200001,22.6,29.700001
-2012,IBD,Incidence,Elderly (65+),ISRAEL,24.799999,21.4,28.200001
-2013,IBD,Incidence,Elderly (65+),ISRAEL,21,18,24.1
-2014,IBD,Incidence,Elderly (65+),ISRAEL,21.9,18.9,25
-2015,IBD,Incidence,Elderly (65+),ISRAEL,24.700001,21.6,27.9
-2016,IBD,Incidence,Elderly (65+),ISRAEL,23.6,20.6,26.700001
-2017,IBD,Incidence,Elderly (65+),ISRAEL,23,20,25.9
-2018,IBD,Incidence,Elderly (65+),ISRAEL,24.4,21.4,27.299999
-2019,IBD,Incidence,Elderly (65+),ISRAEL,24.5,21.6,27.5
-2020,IBD,Incidence,Elderly (65+),ISRAEL,20.6,18,23.299999
-2021,IBD,Incidence,Elderly (65+),ISRAEL,21.1,18.799999,23.5
-2022,IBD,Incidence,Elderly (65+),ISRAEL,20.700001,18.200001,23.200001
-2023,IBD,Incidence,Elderly (65+),ISRAEL,20.200001,17.5,23
-2024,IBD,Incidence,Elderly (65+),ISRAEL,19.799999,16.799999,22.700001
-2025,IBD,Incidence,Elderly (65+),ISRAEL,19.299999,16.200001,22.5
-2018,IBD,Incidence,Elderly (65+),NewZealand,19.9,10.4,29.4
-2019,IBD,Incidence,Elderly (65+),NewZealand,14.8,6.6999998,22.799999
-2020,IBD,Incidence,Elderly (65+),NewZealand,17.6,9,26.200001
-2021,IBD,Incidence,Elderly (65+),NewZealand,19.200001,10.3,28
-2022,IBD,Incidence,Elderly (65+),NewZealand,21.799999,12.5,31.1
-2023,IBD,Incidence,Elderly (65+),NewZealand,13.1,6,20.299999
-2024,IBD,Incidence,Elderly (65+),NewZealand,16.6,8.8000002,24.5
-2025,IBD,Incidence,Elderly (65+),NewZealand,16.299999,6.5,26.200001
-2009,IBD,Incidence,Elderly (65+),Scotland,56.799999,43.400002,70.199997
-2010,IBD,Incidence,Elderly (65+),Scotland,53.799999,40.799999,66.699997
-2011,IBD,Incidence,Elderly (65+),Scotland,60.900002,47.200001,74.599998
-2012,IBD,Incidence,Elderly (65+),Scotland,55.200001,42.400002,68
-2013,IBD,Incidence,Elderly (65+),Scotland,57,44.099998,69.800003
-2014,IBD,Incidence,Elderly (65+),Scotland,51.700001,39.599998,63.700001
-2015,IBD,Incidence,Elderly (65+),Scotland,49.299999,37.599998,61
-2016,IBD,Incidence,Elderly (65+),Scotland,44.200001,33.299999,55.200001
-2017,IBD,Incidence,Elderly (65+),Scotland,38.5,28.4,48.599998
-2018,IBD,Incidence,Elderly (65+),Scotland,42,32.900002,51.099998
-2019,IBD,Incidence,Elderly (65+),Scotland,40.299999,30.1,50.5
-2020,IBD,Incidence,Elderly (65+),Scotland,38.599998,27.4,49.900002
-2021,IBD,Incidence,Elderly (65+),Scotland,37.099998,24.9,49.299999
-2022,IBD,Incidence,Elderly (65+),Scotland,35.599998,22.5,48.700001
-2023,IBD,Incidence,Elderly (65+),Scotland,34.099998,20.200001,48
-2024,IBD,Incidence,Elderly (65+),Scotland,32.700001,18.1,47.400002
-2025,IBD,Incidence,Elderly (65+),Scotland,31.4,16,46.799999
-2004,IBD,Incidence,Elderly (65+),Sweden,25.6,22.6,28.700001
-2005,IBD,Incidence,Elderly (65+),Sweden,25.299999,22.299999,28.4
-2006,IBD,Incidence,Elderly (65+),Sweden,27,23.9,30.1
-2007,IBD,Incidence,Elderly (65+),Sweden,27.200001,24.1,30.299999
-2008,IBD,Incidence,Elderly (65+),Sweden,32.599998,29.200001,35.900002
-2009,IBD,Incidence,Elderly (65+),Sweden,31.4,28.1,34.599998
-2010,IBD,Incidence,Elderly (65+),Sweden,31.1,28,34.299999
-2011,IBD,Incidence,Elderly (65+),Sweden,31.200001,28.1,34.299999
-2012,IBD,Incidence,Elderly (65+),Sweden,29.5,26.5,32.400002
-2013,IBD,Incidence,Elderly (65+),Sweden,28.6,25.700001,31.5
-2014,IBD,Incidence,Elderly (65+),Sweden,27.6,24.799999,30.299999
-2015,IBD,Incidence,Elderly (65+),Sweden,29.4,26.6,32.200001
-2016,IBD,Incidence,Elderly (65+),Sweden,28.700001,25.9,31.4
-2017,IBD,Incidence,Elderly (65+),Sweden,28,25.299999,30.700001
-2018,IBD,Incidence,Elderly (65+),Sweden,27.200001,24.5,29.799999
-2019,IBD,Incidence,Elderly (65+),Sweden,29.1,26.4,31.799999
-2020,IBD,Incidence,Elderly (65+),Sweden,27.299999,24.6,29.9
-2021,IBD,Incidence,Elderly (65+),Sweden,25.700001,23.200001,28.299999
-2022,IBD,Incidence,Elderly (65+),Sweden,26.5,24.6,28.299999
-2023,IBD,Incidence,Elderly (65+),Sweden,26.9,23.799999,30.1
-2024,IBD,Incidence,Elderly (65+),Sweden,27.299999,23.1,31.4
-2025,IBD,Incidence,Elderly (65+),Sweden,27.5,22.6,32.299999
-2025,IBD,Incidence,Elderly (65+),Global,28.299999,21.9,35.799999
-2024,IBD,Incidence,Elderly (65+),Global,28.1,22.200001,34.900002
-2023,IBD,Incidence,Elderly (65+),Global,27.299999,21.1,34.900002
-2022,IBD,Incidence,Elderly (65+),Global,29.6,22,36.400002
-2021,IBD,Incidence,Elderly (65+),Global,29.200001,22.9,36.299999
-2020,IBD,Incidence,Elderly (65+),Global,30,23.299999,38.400002
-2019,IBD,Incidence,Elderly (65+),Global,31.299999,23.5,40.099998
-2018,IBD,Incidence,Elderly (65+),Global,32.299999,23.6,42.400002
-2017,IBD,Incidence,Elderly (65+),Global,34.700001,26.5,45
-2016,IBD,Incidence,Elderly (65+),Global,34.799999,27.6,43.700001
-2015,IBD,Incidence,Elderly (65+),Global,36,28.1,45.099998
-2014,IBD,Incidence,Elderly (65+),Global,36.400002,27.299999,47.299999
-2013,IBD,Incidence,Elderly (65+),Global,36.400002,25.4,49.799999
-2012,IBD,Incidence,Elderly (65+),Global,38.200001,29.1,48.799999
-2011,IBD,Incidence,Elderly (65+),Global,39.799999,29.200001,53.599998
-2010,IBD,Incidence,Elderly (65+),Global,37.400002,24.9,54.700001
-2009,IBD,Incidence,Elderly (65+),Global,37.299999,25.299999,53.299999
-2008,IBD,Incidence,Elderly (65+),Global,33.5,21.9,53.099998
-2007,IBD,Incidence,Elderly (65+),Global,33.099998,20.9,50.099998
-2007,IBD,Incidence,Adults (18 to 64),Canada,32.200001,31.4,32.900002
-2008,IBD,Incidence,Adults (18 to 64),Canada,34.099998,33.299999,34.900002
-2009,IBD,Incidence,Adults (18 to 64),Canada,33.799999,33,34.599998
-2010,IBD,Incidence,Adults (18 to 64),Canada,33.599998,32.799999,34.299999
-2011,IBD,Incidence,Adults (18 to 64),Canada,34.099998,33.299999,34.900002
-2012,IBD,Incidence,Adults (18 to 64),Canada,32.900002,32.099998,33.599998
-2013,IBD,Incidence,Adults (18 to 64),Canada,33.900002,33.099998,34.700001
-2014,IBD,Incidence,Adults (18 to 64),Canada,33.700001,32.900002,34.5
-2015,IBD,Incidence,Adults (18 to 64),Canada,33.799999,32.200001,35.400002
-2016,IBD,Incidence,Adults (18 to 64),Canada,33.799999,32.900002,34.700001
-2017,IBD,Incidence,Adults (18 to 64),Canada,33.900002,32.200001,35.5
-2018,IBD,Incidence,Adults (18 to 64),Canada,33.900002,32.400002,35.400002
-2019,IBD,Incidence,Adults (18 to 64),Canada,33.900002,32,35.900002
-2020,IBD,Incidence,Adults (18 to 64),Canada,34,32,36
-2021,IBD,Incidence,Adults (18 to 64),Canada,34,31.700001,36.299999
-2022,IBD,Incidence,Adults (18 to 64),Canada,34.099998,31.6,36.5
-2023,IBD,Incidence,Adults (18 to 64),Canada,34.099998,31.4,36.799999
-2024,IBD,Incidence,Adults (18 to 64),Canada,34.099998,31.299999,37
-2025,IBD,Incidence,Adults (18 to 64),Canada,34.200001,31.1,37.299999
-2011,IBD,Incidence,Adults (18 to 64),Catalonia,41.900002,40.099998,43.700001
-2012,IBD,Incidence,Adults (18 to 64),Catalonia,40.799999,39,42.599998
-2013,IBD,Incidence,Adults (18 to 64),Catalonia,41.200001,39.400002,43
-2014,IBD,Incidence,Adults (18 to 64),Catalonia,39.700001,37.900002,41.5
-2015,IBD,Incidence,Adults (18 to 64),Catalonia,37.900002,36.099998,39.599998
-2016,IBD,Incidence,Adults (18 to 64),Catalonia,37.200001,35.5,39
-2017,IBD,Incidence,Adults (18 to 64),Catalonia,48.200001,46.200001,50.099998
-2018,IBD,Incidence,Adults (18 to 64),Catalonia,42.299999,40.400002,44.099998
-2019,IBD,Incidence,Adults (18 to 64),Catalonia,41.599998,39.799999,43.400002
-2020,IBD,Incidence,Adults (18 to 64),Catalonia,32.5,30.9,34.099998
-2021,IBD,Incidence,Adults (18 to 64),Catalonia,36.599998,34.900002,38.299999
-2022,IBD,Incidence,Adults (18 to 64),Catalonia,35.799999,34.099998,37.5
-2023,IBD,Incidence,Adults (18 to 64),Catalonia,30.5,29,32.099998
-2024,IBD,Incidence,Adults (18 to 64),Catalonia,29.4,19.700001,39
-2025,IBD,Incidence,Adults (18 to 64),Catalonia,27.299999,14.7,39.900002
-1990,IBD,Incidence,Adults (18 to 64),Denmark,22.200001,20.6,23.799999
-1991,IBD,Incidence,Adults (18 to 64),Denmark,23.200001,21.6,24.9
-1992,IBD,Incidence,Adults (18 to 64),Denmark,25.4,23.6,27.1
-1993,IBD,Incidence,Adults (18 to 64),Denmark,36.700001,34.599998,38.700001
-1994,IBD,Incidence,Adults (18 to 64),Denmark,37.099998,35,39.099998
-1995,IBD,Incidence,Adults (18 to 64),Denmark,36.400002,34.299999,38.400002
-1996,IBD,Incidence,Adults (18 to 64),Denmark,39.5,37.400002,41.700001
-1997,IBD,Incidence,Adults (18 to 64),Denmark,38.900002,36.799999,41
-1998,IBD,Incidence,Adults (18 to 64),Denmark,42.5,40.299999,44.700001
-1999,IBD,Incidence,Adults (18 to 64),Denmark,44.200001,41.900002,46.400002
-2000,IBD,Incidence,Adults (18 to 64),Denmark,42.200001,40,44.400002
-2001,IBD,Incidence,Adults (18 to 64),Denmark,42.099998,39.900002,44.200001
-2002,IBD,Incidence,Adults (18 to 64),Denmark,47.599998,45.299999,49.900002
-2003,IBD,Incidence,Adults (18 to 64),Denmark,45.200001,43,47.5
-2004,IBD,Incidence,Adults (18 to 64),Denmark,48.299999,45.900002,50.599998
-2005,IBD,Incidence,Adults (18 to 64),Denmark,48.5,46.099998,50.799999
-2006,IBD,Incidence,Adults (18 to 64),Denmark,48.599998,46.299999,51
-2007,IBD,Incidence,Adults (18 to 64),Denmark,46.599998,44.299999,48.900002
-2008,IBD,Incidence,Adults (18 to 64),Denmark,52.400002,49.900002,54.799999
-2009,IBD,Incidence,Adults (18 to 64),Denmark,54,51.5,56.400002
-2010,IBD,Incidence,Adults (18 to 64),Denmark,54,51.5,56.400002
-2011,IBD,Incidence,Adults (18 to 64),Denmark,55.599998,53.099998,58.099998
-2012,IBD,Incidence,Adults (18 to 64),Denmark,55.599998,53.099998,58.099998
-2013,IBD,Incidence,Adults (18 to 64),Denmark,57.299999,54.799999,59.799999
-2014,IBD,Incidence,Adults (18 to 64),Denmark,56.299999,53.799999,58.900002
-2015,IBD,Incidence,Adults (18 to 64),Denmark,58.599998,56.099998,61.200001
-2016,IBD,Incidence,Adults (18 to 64),Denmark,59,56.400002,61.5
-2017,IBD,Incidence,Adults (18 to 64),Denmark,55.599998,53.099998,58.099998
-2018,IBD,Incidence,Adults (18 to 64),Denmark,58.900002,56.599998,61.200001
-2019,IBD,Incidence,Adults (18 to 64),Denmark,61.400002,57.599998,65.199997
-2020,IBD,Incidence,Adults (18 to 64),Denmark,63.400002,58.599998,68.300003
-2021,IBD,Incidence,Adults (18 to 64),Denmark,65.099998,59.5,70.699997
-2022,IBD,Incidence,Adults (18 to 64),Denmark,66.699997,60.5,72.800003
-2023,IBD,Incidence,Adults (18 to 64),Denmark,68.099998,61.400002,74.699997
-2024,IBD,Incidence,Adults (18 to 64),Denmark,69.400002,62.400002,76.400002
-2025,IBD,Incidence,Adults (18 to 64),Denmark,70.699997,63.299999,78
-2005,IBD,Incidence,Adults (18 to 64),ISRAEL,39.900002,38,41.900002
-2006,IBD,Incidence,Adults (18 to 64),ISRAEL,39.099998,37.200001,41.099998
-2007,IBD,Incidence,Adults (18 to 64),ISRAEL,37.900002,36,39.700001
-2008,IBD,Incidence,Adults (18 to 64),ISRAEL,39.599998,37.700001,41.5
-2009,IBD,Incidence,Adults (18 to 64),ISRAEL,35.799999,34,37.599998
-2010,IBD,Incidence,Adults (18 to 64),ISRAEL,39,37.099998,40.799999
-2011,IBD,Incidence,Adults (18 to 64),ISRAEL,35.599998,33.900002,37.400002
-2012,IBD,Incidence,Adults (18 to 64),ISRAEL,38.700001,36.900002,40.5
-2013,IBD,Incidence,Adults (18 to 64),ISRAEL,38.400002,36.599998,40.200001
-2014,IBD,Incidence,Adults (18 to 64),ISRAEL,37.799999,36.099998,39.599998
-2015,IBD,Incidence,Adults (18 to 64),ISRAEL,37.400002,35.700001,39.200001
-2016,IBD,Incidence,Adults (18 to 64),ISRAEL,37.099998,35.400002,38.799999
-2017,IBD,Incidence,Adults (18 to 64),ISRAEL,37.5,35.799999,39.299999
-2018,IBD,Incidence,Adults (18 to 64),ISRAEL,37.700001,36,39.400002
-2019,IBD,Incidence,Adults (18 to 64),ISRAEL,36.200001,34.5,37.900002
-2020,IBD,Incidence,Adults (18 to 64),ISRAEL,33.099998,31.5,34.700001
-2021,IBD,Incidence,Adults (18 to 64),ISRAEL,35.599998,33.799999,37.400002
-2022,IBD,Incidence,Adults (18 to 64),ISRAEL,35.400002,33.5,37.299999
-2023,IBD,Incidence,Adults (18 to 64),ISRAEL,35.200001,33.099998,37.200001
-2024,IBD,Incidence,Adults (18 to 64),ISRAEL,35,32.799999,37.099998
-2025,IBD,Incidence,Adults (18 to 64),ISRAEL,34.700001,32.400002,37
-2018,IBD,Incidence,Adults (18 to 64),NewZealand,41.900002,35.099998,48.700001
-2019,IBD,Incidence,Adults (18 to 64),NewZealand,36.700001,30.4,43
-2020,IBD,Incidence,Adults (18 to 64),NewZealand,42.200001,35.5,48.799999
-2021,IBD,Incidence,Adults (18 to 64),NewZealand,39.200001,32.799999,45.599998
-2022,IBD,Incidence,Adults (18 to 64),NewZealand,41.200001,34.700001,47.799999
-2023,IBD,Incidence,Adults (18 to 64),NewZealand,38.200001,32,44.5
-2024,IBD,Incidence,Adults (18 to 64),NewZealand,42.200001,40,44.299999
-2025,IBD,Incidence,Adults (18 to 64),NewZealand,38.900002,38,39.799999
-2009,IBD,Incidence,Adults (18 to 64),Scotland,54.700001,48.400002,60.900002
-2010,IBD,Incidence,Adults (18 to 64),Scotland,56.099998,49.799999,62.400002
-2011,IBD,Incidence,Adults (18 to 64),Scotland,59.099998,52.700001,65.5
-2012,IBD,Incidence,Adults (18 to 64),Scotland,61,54.5,67.5
-2013,IBD,Incidence,Adults (18 to 64),Scotland,54.299999,48.200001,60.5
-2014,IBD,Incidence,Adults (18 to 64),Scotland,64.400002,57.799999,71.099998
-2015,IBD,Incidence,Adults (18 to 64),Scotland,54.200001,48.099998,60.299999
-2016,IBD,Incidence,Adults (18 to 64),Scotland,46.200001,40.599998,51.799999
-2017,IBD,Incidence,Adults (18 to 64),Scotland,53.200001,47.200001,59.099998
-2018,IBD,Incidence,Adults (18 to 64),Scotland,52.5,41.900002,63.099998
-2019,IBD,Incidence,Adults (18 to 64),Scotland,51.799999,39.599998,64.099998
-2020,IBD,Incidence,Adults (18 to 64),Scotland,51.200001,37.299999,65.099998
-2021,IBD,Incidence,Adults (18 to 64),Scotland,50.599998,35,66.099998
-2022,IBD,Incidence,Adults (18 to 64),Scotland,49.900002,32.700001,67.199997
-2023,IBD,Incidence,Adults (18 to 64),Scotland,49.299999,30.4,68.199997
-2024,IBD,Incidence,Adults (18 to 64),Scotland,48.700001,28.1,69.300003
-2025,IBD,Incidence,Adults (18 to 64),Scotland,48.099998,25.9,70.300003
-2004,IBD,Incidence,Adults (18 to 64),Sweden,46.299999,44.5,48.099998
-2005,IBD,Incidence,Adults (18 to 64),Sweden,45.700001,43.900002,47.5
-2006,IBD,Incidence,Adults (18 to 64),Sweden,44.299999,42.5,46
-2007,IBD,Incidence,Adults (18 to 64),Sweden,45.099998,43.299999,46.900002
-2008,IBD,Incidence,Adults (18 to 64),Sweden,51.900002,50,53.799999
-2009,IBD,Incidence,Adults (18 to 64),Sweden,47.599998,45.799999,49.400002
-2010,IBD,Incidence,Adults (18 to 64),Sweden,44.900002,43.200001,46.599998
-2011,IBD,Incidence,Adults (18 to 64),Sweden,48.599998,46.799999,50.400002
-2012,IBD,Incidence,Adults (18 to 64),Sweden,46.599998,44.900002,48.400002
-2013,IBD,Incidence,Adults (18 to 64),Sweden,45.900002,44.099998,47.599998
-2014,IBD,Incidence,Adults (18 to 64),Sweden,46.700001,45,48.5
-2015,IBD,Incidence,Adults (18 to 64),Sweden,43.200001,41.5,44.799999
-2016,IBD,Incidence,Adults (18 to 64),Sweden,46,44.299999,47.700001
-2017,IBD,Incidence,Adults (18 to 64),Sweden,46.799999,45,48.5
-2018,IBD,Incidence,Adults (18 to 64),Sweden,46.299999,44.599998,48.099998
-2019,IBD,Incidence,Adults (18 to 64),Sweden,53.400002,51.599998,55.299999
-2020,IBD,Incidence,Adults (18 to 64),Sweden,45.900002,44.200001,47.599998
-2021,IBD,Incidence,Adults (18 to 64),Sweden,47.200001,45.5,49
-2022,IBD,Incidence,Adults (18 to 64),Sweden,47.599998,44.900002,50.299999
-2023,IBD,Incidence,Adults (18 to 64),Sweden,47.700001,44.799999,50.5
-2024,IBD,Incidence,Adults (18 to 64),Sweden,47.700001,44.599998,50.799999
-2025,IBD,Incidence,Adults (18 to 64),Sweden,47.799999,44.5,51.099998
-2025,IBD,Incidence,Adults (18 to 64),Global,41.099998,29.6,51.900002
-2024,IBD,Incidence,Adults (18 to 64),Global,42.5,33.599998,51.599998
-2023,IBD,Incidence,Adults (18 to 64),Global,41.700001,33.299999,52.599998
-2022,IBD,Incidence,Adults (18 to 64),Global,43.5,34.599998,52.599998
-2021,IBD,Incidence,Adults (18 to 64),Global,42.900002,35.400002,50.700001
-2020,IBD,Incidence,Adults (18 to 64),Global,42.099998,33.5,51.900002
-2019,IBD,Incidence,Adults (18 to 64),Global,44.200001,36.799999,53
-2018,IBD,Incidence,Adults (18 to 64),Global,44.200001,37.5,51.599998
-2017,IBD,Incidence,Adults (18 to 64),Global,45.299999,37.700001,54.200001
-2016,IBD,Incidence,Adults (18 to 64),Global,42.799999,35.200001,51.299999
-2015,IBD,Incidence,Adults (18 to 64),Global,43.5,35.799999,53.099998
-2014,IBD,Incidence,Adults (18 to 64),Global,45.400002,35.700001,55.099998
-2013,IBD,Incidence,Adults (18 to 64),Global,44.5,36,53.799999
-2012,IBD,Incidence,Adults (18 to 64),Global,45,35.599998,55
-2011,IBD,Incidence,Adults (18 to 64),Global,45.299999,35.799999,55.200001
-2010,IBD,Incidence,Adults (18 to 64),Global,44.799999,35.900002,55.099998
-2009,IBD,Incidence,Adults (18 to 64),Global,44.900002,34.799999,59.200001
-2008,IBD,Incidence,Adults (18 to 64),Global,44.5,32.5,70.300003
-2007,IBD,Incidence,Adults (18 to 64),Global,41,30.299999,61.099998
-2005,IBD,Incidence,Peds (<18),Canada,12.1,11.3,13
-2006,IBD,Incidence,Peds (<18),Canada,12.3,11.5,13.1
-2007,IBD,Incidence,Peds (<18),Canada,12.7,11.9,13.6
-2008,IBD,Incidence,Peds (<18),Canada,13.2,12.4,14.1
-2009,IBD,Incidence,Peds (<18),Canada,13.7,12.8,14.6
-2010,IBD,Incidence,Peds (<18),Canada,12.7,11.8,13.5
-2011,IBD,Incidence,Peds (<18),Canada,14.2,13.3,15.1
-2012,IBD,Incidence,Peds (<18),Canada,13.2,12.3,14.1
-2013,IBD,Incidence,Peds (<18),Canada,13.9,13,14.8
-2014,IBD,Incidence,Peds (<18),Canada,14.4,13.5,15.3
-2015,IBD,Incidence,Peds (<18),Canada,14.3,13.6,15
-2016,IBD,Incidence,Peds (<18),Canada,14.6,14.2,15.1
-2017,IBD,Incidence,Peds (<18),Canada,14.8,14.1,15.5
-2018,IBD,Incidence,Peds (<18),Canada,15,14.3,15.7
-2019,IBD,Incidence,Peds (<18),Canada,15.2,14.4,16.1
-2020,IBD,Incidence,Peds (<18),Canada,15.4,14.5,16.299999
-2021,IBD,Incidence,Peds (<18),Canada,15.6,14.6,16.6
-2022,IBD,Incidence,Peds (<18),Canada,15.8,14.8,16.9
-2023,IBD,Incidence,Peds (<18),Canada,16.1,14.9,17.200001
-2024,IBD,Incidence,Peds (<18),Canada,16.299999,15,17.5
-2025,IBD,Incidence,Peds (<18),Canada,16.5,15.1,17.799999
-2011,IBD,Incidence,Peds (<18),Catalonia,7.4000001,6,8.8999996
-2012,IBD,Incidence,Peds (<18),Catalonia,7.9000001,6.4000001,9.3999996
-2013,IBD,Incidence,Peds (<18),Catalonia,11.4,9.6999998,13.2
-2014,IBD,Incidence,Peds (<18),Catalonia,10.7,9,12.4
-2015,IBD,Incidence,Peds (<18),Catalonia,10.8,9,12.5
-2016,IBD,Incidence,Peds (<18),Catalonia,9.8999996,8.3000002,11.6
-2017,IBD,Incidence,Peds (<18),Catalonia,12.2,10.4,14
-2018,IBD,Incidence,Peds (<18),Catalonia,13.7,11.8,15.6
-2019,IBD,Incidence,Peds (<18),Catalonia,10.9,9.1999998,12.6
-2020,IBD,Incidence,Peds (<18),Catalonia,8.3999996,6.9000001,9.8999996
-2021,IBD,Incidence,Peds (<18),Catalonia,10.8,9.1000004,12.6
-2022,IBD,Incidence,Peds (<18),Catalonia,13.1,11.2,15.1
-2023,IBD,Incidence,Peds (<18),Catalonia,11.6,9.8000002,13.4
-2024,IBD,Incidence,Peds (<18),Catalonia,12.5,10.4,14.5
-2025,IBD,Incidence,Peds (<18),Catalonia,12.7,10.4,15
-1990,IBD,Incidence,Peds (<18),Denmark,5.9000001,4.5,7.3000002
-1991,IBD,Incidence,Peds (<18),Denmark,7,5.5,8.6000004
-1992,IBD,Incidence,Peds (<18),Denmark,8.1999998,6.5,9.8999996
-1993,IBD,Incidence,Peds (<18),Denmark,8.3000002,6.5999999,10
-1994,IBD,Incidence,Peds (<18),Denmark,10.8,8.8000002,12.7
-1995,IBD,Incidence,Peds (<18),Denmark,7.5999999,6,9.3000002
-1996,IBD,Incidence,Peds (<18),Denmark,10.1,8.1999998,11.9
-1997,IBD,Incidence,Peds (<18),Denmark,12.5,10.4,14.6
-1998,IBD,Incidence,Peds (<18),Denmark,14,11.8,16.200001
-1999,IBD,Incidence,Peds (<18),Denmark,14,11.9,16.200001
-2000,IBD,Incidence,Peds (<18),Denmark,12.5,10.5,14.6
-2001,IBD,Incidence,Peds (<18),Denmark,13.7,11.6,15.8
-2002,IBD,Incidence,Peds (<18),Denmark,15.5,13.3,17.799999
-2003,IBD,Incidence,Peds (<18),Denmark,14,11.8,16.1
-2004,IBD,Incidence,Peds (<18),Denmark,17.4,15,19.700001
-2005,IBD,Incidence,Peds (<18),Denmark,15.4,13.2,17.700001
-2006,IBD,Incidence,Peds (<18),Denmark,16.1,13.8,18.4
-2007,IBD,Incidence,Peds (<18),Denmark,16.1,13.9,18.4
-2008,IBD,Incidence,Peds (<18),Denmark,17.5,15.1,19.799999
-2009,IBD,Incidence,Peds (<18),Denmark,18.1,15.7,20.5
-2010,IBD,Incidence,Peds (<18),Denmark,18.299999,15.9,20.700001
-2011,IBD,Incidence,Peds (<18),Denmark,17.200001,14.9,19.6
-2012,IBD,Incidence,Peds (<18),Denmark,18.799999,16.4,21.299999
-2013,IBD,Incidence,Peds (<18),Denmark,22.1,19.4,24.799999
-2014,IBD,Incidence,Peds (<18),Denmark,20.799999,18.200001,23.4
-2015,IBD,Incidence,Peds (<18),Denmark,20,17.4,22.6
-2016,IBD,Incidence,Peds (<18),Denmark,19.4,16.9,22
-2017,IBD,Incidence,Peds (<18),Denmark,19.200001,16.700001,21.799999
-2018,IBD,Incidence,Peds (<18),Denmark,22.200001,21.200001,23.200001
-2019,IBD,Incidence,Peds (<18),Denmark,22.799999,21.700001,23.799999
-2020,IBD,Incidence,Peds (<18),Denmark,23.299999,22.200001,24.4
-2021,IBD,Incidence,Peds (<18),Denmark,23.799999,22.6,25
-2022,IBD,Incidence,Peds (<18),Denmark,24.299999,23.1,25.5
-2023,IBD,Incidence,Peds (<18),Denmark,24.9,23.6,26.1
-2024,IBD,Incidence,Peds (<18),Denmark,25.4,24,26.700001
-2025,IBD,Incidence,Peds (<18),Denmark,25.9,24.5,27.299999
-2005,IBD,Incidence,Peds (<18),ISRAEL,11.6,10.2,13
-2006,IBD,Incidence,Peds (<18),ISRAEL,10.9,9.6000004,12.2
-2007,IBD,Incidence,Peds (<18),ISRAEL,11.6,10.3,13
-2008,IBD,Incidence,Peds (<18),ISRAEL,11.4,10,12.7
-2009,IBD,Incidence,Peds (<18),ISRAEL,12.6,11.2,13.9
-2010,IBD,Incidence,Peds (<18),ISRAEL,11.8,10.5,13.1
-2011,IBD,Incidence,Peds (<18),ISRAEL,12.8,11.4,14.1
-2012,IBD,Incidence,Peds (<18),ISRAEL,11.8,10.5,13.1
-2013,IBD,Incidence,Peds (<18),ISRAEL,12.4,11,13.7
-2014,IBD,Incidence,Peds (<18),ISRAEL,13.5,12.2,14.9
-2015,IBD,Incidence,Peds (<18),ISRAEL,13.7,12.3,15.1
-2016,IBD,Incidence,Peds (<18),ISRAEL,15.4,14,16.9
-2017,IBD,Incidence,Peds (<18),ISRAEL,15.5,14.1,16.9
-2018,IBD,Incidence,Peds (<18),ISRAEL,14.3,12.9,15.6
-2019,IBD,Incidence,Peds (<18),ISRAEL,16.299999,14.8,17.700001
-2020,IBD,Incidence,Peds (<18),ISRAEL,16,14.6,17.4
-2021,IBD,Incidence,Peds (<18),ISRAEL,16.1,15.4,16.9
-2022,IBD,Incidence,Peds (<18),ISRAEL,16.5,15.6,17.299999
-2023,IBD,Incidence,Peds (<18),ISRAEL,16.799999,15.9,17.700001
-2024,IBD,Incidence,Peds (<18),ISRAEL,17.200001,16.200001,18.200001
-2025,IBD,Incidence,Peds (<18),ISRAEL,17.5,16.4,18.6
-2018,IBD,Incidence,Peds (<18),NewZealand,14.5,7.8000002,21.200001
-2019,IBD,Incidence,Peds (<18),NewZealand,28.200001,18.799999,37.599998
-2020,IBD,Incidence,Peds (<18),NewZealand,18.299999,10.8,25.9
-2021,IBD,Incidence,Peds (<18),NewZealand,20.700001,12.7,28.700001
-2022,IBD,Incidence,Peds (<18),NewZealand,16,9,23.1
-2023,IBD,Incidence,Peds (<18),NewZealand,19.1,11.5,26.700001
-2024,IBD,Incidence,Peds (<18),NewZealand,13.9,0,34
-2025,IBD,Incidence,Peds (<18),NewZealand,16.4,10.6,22.200001
-2009,IBD,Incidence,Peds (<18),Scotland,20,13.1,27
-2010,IBD,Incidence,Peds (<18),Scotland,27.4,19.200001,35.5
-2011,IBD,Incidence,Peds (<18),Scotland,19.6,12.8,26.5
-2012,IBD,Incidence,Peds (<18),Scotland,27.799999,19.6,35.900002
-2013,IBD,Incidence,Peds (<18),Scotland,10.6,5.5999999,15.6
-2014,IBD,Incidence,Peds (<18),Scotland,22.6,15.3,29.9
-2015,IBD,Incidence,Peds (<18),Scotland,24,15,32.900002
-2016,IBD,Incidence,Peds (<18),Scotland,23.700001,16.299999,31.1
-2017,IBD,Incidence,Peds (<18),Scotland,18.799999,12.2,25.299999
-2018,IBD,Incidence,Peds (<18),Scotland,21.700001,12,31.4
-2019,IBD,Incidence,Peds (<18),Scotland,19.9,13.2,26.6
-2020,IBD,Incidence,Peds (<18),Scotland,20.5,10.4,30.6
-2021,IBD,Incidence,Peds (<18),Scotland,19.799999,9.5,30.200001
-2022,IBD,Incidence,Peds (<18),Scotland,19.799999,7.6999998,31.9
-2023,IBD,Incidence,Peds (<18),Scotland,19.5,6.3000002,32.599998
-2024,IBD,Incidence,Peds (<18),Scotland,19.299999,4.8000002,33.900002
-2025,IBD,Incidence,Peds (<18),Scotland,19.1,3.3,34.799999
-2004,IBD,Incidence,Peds (<18),Sweden,18.5,16.6,20.4
-2005,IBD,Incidence,Peds (<18),Sweden,20.299999,18.299999,22.299999
-2006,IBD,Incidence,Peds (<18),Sweden,19.4,17.4,21.4
-2007,IBD,Incidence,Peds (<18),Sweden,19.6,17.6,21.6
-2008,IBD,Incidence,Peds (<18),Sweden,20.799999,18.799999,22.9
-2009,IBD,Incidence,Peds (<18),Sweden,21.700001,19.6,23.799999
-2010,IBD,Incidence,Peds (<18),Sweden,18.6,16.700001,20.6
-2011,IBD,Incidence,Peds (<18),Sweden,19.4,17.4,21.299999
-2012,IBD,Incidence,Peds (<18),Sweden,17.5,15.6,19.4
-2013,IBD,Incidence,Peds (<18),Sweden,19.700001,17.700001,21.6
-2014,IBD,Incidence,Peds (<18),Sweden,19.6,17.6,21.5
-2015,IBD,Incidence,Peds (<18),Sweden,21.5,19.4,23.5
-2016,IBD,Incidence,Peds (<18),Sweden,21.200001,19.200001,23.200001
-2017,IBD,Incidence,Peds (<18),Sweden,19.6,17.700001,21.5
-2018,IBD,Incidence,Peds (<18),Sweden,20.1,18.200001,22
-2019,IBD,Incidence,Peds (<18),Sweden,21.4,19.5,23.4
-2020,IBD,Incidence,Peds (<18),Sweden,20.700001,18.799999,22.6
-2021,IBD,Incidence,Peds (<18),Sweden,20.4,18.5,22.200001
-2022,IBD,Incidence,Peds (<18),Sweden,20.700001,19,22.4
-2023,IBD,Incidence,Peds (<18),Sweden,20.799999,18.9,22.6
-2024,IBD,Incidence,Peds (<18),Sweden,20.799999,18.799999,22.799999
-2025,IBD,Incidence,Peds (<18),Sweden,20.9,18.799999,23
-2025,IBD,Incidence,Peds (<18),Global,18.1,14.7,22
-2024,IBD,Incidence,Peds (<18),Global,17.5,13.6,21.9
-2023,IBD,Incidence,Peds (<18),Global,17.799999,13.7,22.1
-2022,IBD,Incidence,Peds (<18),Global,17.799999,14.4,21.799999
-2021,IBD,Incidence,Peds (<18),Global,17.6,13.7,21.700001
-2020,IBD,Incidence,Peds (<18),Global,17.200001,13.5,21.200001
-2019,IBD,Incidence,Peds (<18),Global,18.6,14.8,23.299999
-2018,IBD,Incidence,Peds (<18),Global,16.9,13.3,20.9
-2017,IBD,Incidence,Peds (<18),Global,16.5,12.6,21
-2016,IBD,Incidence,Peds (<18),Global,17.1,13,21.799999
-2015,IBD,Incidence,Peds (<18),Global,17,12.9,22.200001
-2014,IBD,Incidence,Peds (<18),Global,16.4,12.4,20.6
-2013,IBD,Incidence,Peds (<18),Global,14.8,10.4,19.700001
-2012,IBD,Incidence,Peds (<18),Global,15.2,10.1,20.700001
-2011,IBD,Incidence,Peds (<18),Global,15.2,11.3,21.4
-2010,IBD,Incidence,Peds (<18),Global,17,12.1,23
-2009,IBD,Incidence,Peds (<18),Global,16.9,12.3,22.700001
-2008,IBD,Incidence,Peds (<18),Global,15.7,10.9,22.9
-2007,IBD,Incidence,Peds (<18),Global,14.9,9.8999996,22.299999
-2002,IBD,Prevalence,Elderly (65+),Canada,454,448,461
-2003,IBD,Prevalence,Elderly (65+),Canada,490,483,497
-2004,IBD,Prevalence,Elderly (65+),Canada,524,517,531
-2005,IBD,Prevalence,Elderly (65+),Canada,557,550,564
-2006,IBD,Prevalence,Elderly (65+),Canada,590,583,597
-2007,IBD,Prevalence,Elderly (65+),Canada,625,618,633
-2008,IBD,Prevalence,Elderly (65+),Canada,658,651,666
-2009,IBD,Prevalence,Elderly (65+),Canada,691,684,699
-2010,IBD,Prevalence,Elderly (65+),Canada,726,718,733
-2011,IBD,Prevalence,Elderly (65+),Canada,768,760,776
-2012,IBD,Prevalence,Elderly (65+),Canada,798,790,806
-2013,IBD,Prevalence,Elderly (65+),Canada,831,823,839
-2014,IBD,Prevalence,Elderly (65+),Canada,865,857,873
-2015,IBD,Prevalence,Elderly (65+),Canada,902,893,910
-2016,IBD,Prevalence,Elderly (65+),Canada,936,926,947
-2017,IBD,Prevalence,Elderly (65+),Canada,971,959,983
-2018,IBD,Prevalence,Elderly (65+),Canada,1006,992,1020
-2019,IBD,Prevalence,Elderly (65+),Canada,1041,1025,1057
-2020,IBD,Prevalence,Elderly (65+),Canada,1076,1058,1093
-2021,IBD,Prevalence,Elderly (65+),Canada,1110,1091,1130
-2022,IBD,Prevalence,Elderly (65+),Canada,1145,1124,1167
-2023,IBD,Prevalence,Elderly (65+),Canada,1180,1156,1203
-2024,IBD,Prevalence,Elderly (65+),Canada,1215,1189,1240
-2025,IBD,Prevalence,Elderly (65+),Canada,1250,1222,1277
-2026,IBD,Prevalence,Elderly (65+),Canada,1284,1255,1314
-2027,IBD,Prevalence,Elderly (65+),Canada,1319,1288,1350
-2028,IBD,Prevalence,Elderly (65+),Canada,1354,1321,1387
-2029,IBD,Prevalence,Elderly (65+),Canada,1389,1354,1424
-2030,IBD,Prevalence,Elderly (65+),Canada,1423,1387,1460
-2031,IBD,Prevalence,Elderly (65+),Canada,1458,1419,1497
-2032,IBD,Prevalence,Elderly (65+),Canada,1493,1452,1534
-2033,IBD,Prevalence,Elderly (65+),Canada,1528,1485,1570
-2034,IBD,Prevalence,Elderly (65+),Canada,1563,1518,1607
-2035,IBD,Prevalence,Elderly (65+),Canada,1597,1551,1644
-2011,IBD,Prevalence,Elderly (65+),Catalonia,377,366,388
-2012,IBD,Prevalence,Elderly (65+),Catalonia,430,419,441
-2013,IBD,Prevalence,Elderly (65+),Catalonia,482,470,494
-2014,IBD,Prevalence,Elderly (65+),Catalonia,533,520,545
-2015,IBD,Prevalence,Elderly (65+),Catalonia,577,564,590
-2016,IBD,Prevalence,Elderly (65+),Catalonia,616,603,629
-2017,IBD,Prevalence,Elderly (65+),Catalonia,669,655,682
-2018,IBD,Prevalence,Elderly (65+),Catalonia,721,707,735
-2019,IBD,Prevalence,Elderly (65+),Catalonia,769,755,784
-2020,IBD,Prevalence,Elderly (65+),Catalonia,804,789,818
-2021,IBD,Prevalence,Elderly (65+),Catalonia,723,710,737
-2022,IBD,Prevalence,Elderly (65+),Catalonia,765,751,779
-2023,IBD,Prevalence,Elderly (65+),Catalonia,790,776,804
-2024,IBD,Prevalence,Elderly (65+),Catalonia,838,764,912
-2025,IBD,Prevalence,Elderly (65+),Catalonia,882,753,1011
-2026,IBD,Prevalence,Elderly (65+),Catalonia,923,752,1095
-2027,IBD,Prevalence,Elderly (65+),Catalonia,962,756,1168
-2028,IBD,Prevalence,Elderly (65+),Catalonia,1000,765,1234
-2029,IBD,Prevalence,Elderly (65+),Catalonia,1036,777,1296
-2030,IBD,Prevalence,Elderly (65+),Catalonia,1072,791,1354
-2031,IBD,Prevalence,Elderly (65+),Catalonia,1108,806,1410
-2032,IBD,Prevalence,Elderly (65+),Catalonia,1144,822,1465
-2033,IBD,Prevalence,Elderly (65+),Catalonia,1179,838,1519
-2034,IBD,Prevalence,Elderly (65+),Catalonia,1214,855,1573
-2035,IBD,Prevalence,Elderly (65+),Catalonia,1249,872,1626
-1990,IBD,Prevalence,Elderly (65+),Denmark,208,198,218
-1991,IBD,Prevalence,Elderly (65+),Denmark,228,218,239
-1992,IBD,Prevalence,Elderly (65+),Denmark,254,243,265
-1993,IBD,Prevalence,Elderly (65+),Denmark,289,278,301
-1994,IBD,Prevalence,Elderly (65+),Denmark,326,313,338
-1995,IBD,Prevalence,Elderly (65+),Denmark,359,345,372
-1996,IBD,Prevalence,Elderly (65+),Denmark,387,373,400
-1997,IBD,Prevalence,Elderly (65+),Denmark,423,408,437
-1998,IBD,Prevalence,Elderly (65+),Denmark,462,447,477
-1999,IBD,Prevalence,Elderly (65+),Denmark,507,492,523
-2000,IBD,Prevalence,Elderly (65+),Denmark,541,524,557
-2001,IBD,Prevalence,Elderly (65+),Denmark,582,565,598
-2002,IBD,Prevalence,Elderly (65+),Denmark,628,611,646
-2003,IBD,Prevalence,Elderly (65+),Denmark,672,654,690
-2004,IBD,Prevalence,Elderly (65+),Denmark,719,701,738
-2005,IBD,Prevalence,Elderly (65+),Denmark,769,749,788
-2006,IBD,Prevalence,Elderly (65+),Denmark,804,784,823
-2007,IBD,Prevalence,Elderly (65+),Denmark,837,818,857
-2008,IBD,Prevalence,Elderly (65+),Denmark,862,843,882
-2009,IBD,Prevalence,Elderly (65+),Denmark,907,887,927
-2010,IBD,Prevalence,Elderly (65+),Denmark,948,928,968
-2011,IBD,Prevalence,Elderly (65+),Denmark,988,969,1008
-2012,IBD,Prevalence,Elderly (65+),Denmark,1023,1003,1043
-2013,IBD,Prevalence,Elderly (65+),Denmark,1060,1040,1080
-2014,IBD,Prevalence,Elderly (65+),Denmark,1092,1072,1112
-2015,IBD,Prevalence,Elderly (65+),Denmark,1123,1103,1143
-2016,IBD,Prevalence,Elderly (65+),Denmark,1152,1132,1172
-2017,IBD,Prevalence,Elderly (65+),Denmark,1181,1161,1202
-2018,IBD,Prevalence,Elderly (65+),Denmark,1218,1210,1226
-2019,IBD,Prevalence,Elderly (65+),Denmark,1255,1240,1269
-2020,IBD,Prevalence,Elderly (65+),Denmark,1290,1271,1310
-2021,IBD,Prevalence,Elderly (65+),Denmark,1326,1302,1350
-2022,IBD,Prevalence,Elderly (65+),Denmark,1361,1333,1389
-2023,IBD,Prevalence,Elderly (65+),Denmark,1396,1364,1428
-2024,IBD,Prevalence,Elderly (65+),Denmark,1431,1396,1467
-2025,IBD,Prevalence,Elderly (65+),Denmark,1466,1427,1505
-2026,IBD,Prevalence,Elderly (65+),Denmark,1501,1459,1543
-2027,IBD,Prevalence,Elderly (65+),Denmark,1536,1490,1581
-2028,IBD,Prevalence,Elderly (65+),Denmark,1571,1522,1619
-2029,IBD,Prevalence,Elderly (65+),Denmark,1605,1554,1657
-2030,IBD,Prevalence,Elderly (65+),Denmark,1640,1585,1695
-2031,IBD,Prevalence,Elderly (65+),Denmark,1675,1617,1733
-2032,IBD,Prevalence,Elderly (65+),Denmark,1710,1648,1771
-2033,IBD,Prevalence,Elderly (65+),Denmark,1745,1680,1809
-2034,IBD,Prevalence,Elderly (65+),Denmark,1779,1712,1847
-2035,IBD,Prevalence,Elderly (65+),Denmark,1814,1743,1885
-2007,IBD,Prevalence,Elderly (65+),Hungary,299,262,336
-2008,IBD,Prevalence,Elderly (65+),Hungary,328,289,367
-2009,IBD,Prevalence,Elderly (65+),Hungary,353,312,393
-2010,IBD,Prevalence,Elderly (65+),Hungary,386,344,428
-2011,IBD,Prevalence,Elderly (65+),Hungary,429,384,473
-2012,IBD,Prevalence,Elderly (65+),Hungary,464,418,510
-2013,IBD,Prevalence,Elderly (65+),Hungary,499,451,546
-2014,IBD,Prevalence,Elderly (65+),Hungary,545,495,595
-2015,IBD,Prevalence,Elderly (65+),Hungary,589,537,641
-2016,IBD,Prevalence,Elderly (65+),Hungary,647,592,701
-2017,IBD,Prevalence,Elderly (65+),Hungary,671,616,726
-2018,IBD,Prevalence,Elderly (65+),Hungary,706,691,721
-2019,IBD,Prevalence,Elderly (65+),Hungary,743,718,768
-2020,IBD,Prevalence,Elderly (65+),Hungary,780,747,812
-2021,IBD,Prevalence,Elderly (65+),Hungary,817,779,856
-2022,IBD,Prevalence,Elderly (65+),Hungary,855,812,898
-2023,IBD,Prevalence,Elderly (65+),Hungary,893,845,940
-2024,IBD,Prevalence,Elderly (65+),Hungary,930,879,982
-2025,IBD,Prevalence,Elderly (65+),Hungary,968,913,1024
-2026,IBD,Prevalence,Elderly (65+),Hungary,1006,947,1065
-2027,IBD,Prevalence,Elderly (65+),Hungary,1044,981,1107
-2028,IBD,Prevalence,Elderly (65+),Hungary,1082,1015,1148
-2029,IBD,Prevalence,Elderly (65+),Hungary,1120,1049,1190
-2030,IBD,Prevalence,Elderly (65+),Hungary,1157,1083,1232
-2031,IBD,Prevalence,Elderly (65+),Hungary,1195,1117,1273
-2032,IBD,Prevalence,Elderly (65+),Hungary,1233,1152,1315
-2033,IBD,Prevalence,Elderly (65+),Hungary,1271,1186,1356
-2034,IBD,Prevalence,Elderly (65+),Hungary,1309,1220,1398
-2035,IBD,Prevalence,Elderly (65+),Hungary,1347,1254,1439
-2005,IBD,Prevalence,Elderly (65+),ISRAEL,506,489,523
-2006,IBD,Prevalence,Elderly (65+),ISRAEL,542,524,559
-2007,IBD,Prevalence,Elderly (65+),ISRAEL,579,561,597
-2008,IBD,Prevalence,Elderly (65+),ISRAEL,603,585,621
-2009,IBD,Prevalence,Elderly (65+),ISRAEL,640,621,658
-2010,IBD,Prevalence,Elderly (65+),ISRAEL,674,655,692
-2011,IBD,Prevalence,Elderly (65+),ISRAEL,711,693,730
-2012,IBD,Prevalence,Elderly (65+),ISRAEL,742,723,760
-2013,IBD,Prevalence,Elderly (65+),ISRAEL,771,752,789
-2014,IBD,Prevalence,Elderly (65+),ISRAEL,804,785,822
-2015,IBD,Prevalence,Elderly (65+),ISRAEL,830,812,849
-2016,IBD,Prevalence,Elderly (65+),ISRAEL,859,841,877
-2017,IBD,Prevalence,Elderly (65+),ISRAEL,884,866,903
-2018,IBD,Prevalence,Elderly (65+),ISRAEL,910,892,928
-2019,IBD,Prevalence,Elderly (65+),ISRAEL,936,918,954
-2020,IBD,Prevalence,Elderly (65+),ISRAEL,957,939,975
-2021,IBD,Prevalence,Elderly (65+),ISRAEL,988,984,993
-2022,IBD,Prevalence,Elderly (65+),ISRAEL,1015,1010,1020
-2023,IBD,Prevalence,Elderly (65+),ISRAEL,1041,1036,1047
-2024,IBD,Prevalence,Elderly (65+),ISRAEL,1068,1061,1075
-2025,IBD,Prevalence,Elderly (65+),ISRAEL,1095,1087,1102
-2026,IBD,Prevalence,Elderly (65+),ISRAEL,1121,1113,1129
-2027,IBD,Prevalence,Elderly (65+),ISRAEL,1148,1139,1157
-2028,IBD,Prevalence,Elderly (65+),ISRAEL,1174,1165,1184
-2029,IBD,Prevalence,Elderly (65+),ISRAEL,1201,1190,1211
-2030,IBD,Prevalence,Elderly (65+),ISRAEL,1227,1216,1238
-2031,IBD,Prevalence,Elderly (65+),ISRAEL,1254,1242,1266
-2032,IBD,Prevalence,Elderly (65+),ISRAEL,1280,1268,1293
-2033,IBD,Prevalence,Elderly (65+),ISRAEL,1307,1294,1320
-2034,IBD,Prevalence,Elderly (65+),ISRAEL,1334,1319,1348
-2035,IBD,Prevalence,Elderly (65+),ISRAEL,1360,1345,1375
-2009,IBD,Prevalence,Elderly (65+),Scotland,907,854,961
-2010,IBD,Prevalence,Elderly (65+),Scotland,960,905,1015
-2011,IBD,Prevalence,Elderly (65+),Scotland,1028,972,1084
-2012,IBD,Prevalence,Elderly (65+),Scotland,1078,1021,1135
-2013,IBD,Prevalence,Elderly (65+),Scotland,1111,1055,1168
-2014,IBD,Prevalence,Elderly (65+),Scotland,1149,1092,1206
-2015,IBD,Prevalence,Elderly (65+),Scotland,1179,1121,1236
-2016,IBD,Prevalence,Elderly (65+),Scotland,1213,1156,1271
-2017,IBD,Prevalence,Elderly (65+),Scotland,1239,1182,1297
-2018,IBD,Prevalence,Elderly (65+),Scotland,1285,1266,1304
-2019,IBD,Prevalence,Elderly (65+),Scotland,1329,1294,1364
-2020,IBD,Prevalence,Elderly (65+),Scotland,1372,1324,1420
-2021,IBD,Prevalence,Elderly (65+),Scotland,1415,1356,1475
-2022,IBD,Prevalence,Elderly (65+),Scotland,1458,1387,1528
-2023,IBD,Prevalence,Elderly (65+),Scotland,1500,1420,1580
-2024,IBD,Prevalence,Elderly (65+),Scotland,1542,1453,1631
-2025,IBD,Prevalence,Elderly (65+),Scotland,1584,1486,1681
-2026,IBD,Prevalence,Elderly (65+),Scotland,1625,1519,1731
-2027,IBD,Prevalence,Elderly (65+),Scotland,1667,1553,1781
-2028,IBD,Prevalence,Elderly (65+),Scotland,1708,1586,1830
-2029,IBD,Prevalence,Elderly (65+),Scotland,1750,1620,1880
-2030,IBD,Prevalence,Elderly (65+),Scotland,1791,1653,1929
-2031,IBD,Prevalence,Elderly (65+),Scotland,1833,1687,1978
-2032,IBD,Prevalence,Elderly (65+),Scotland,1874,1721,2028
-2033,IBD,Prevalence,Elderly (65+),Scotland,1916,1754,2077
-2034,IBD,Prevalence,Elderly (65+),Scotland,1957,1788,2126
-2035,IBD,Prevalence,Elderly (65+),Scotland,1998,1822,2175
-2004,IBD,Prevalence,Elderly (65+),Sweden,563,551,575
-2005,IBD,Prevalence,Elderly (65+),Sweden,602,590,615
-2006,IBD,Prevalence,Elderly (65+),Sweden,644,632,657
-2007,IBD,Prevalence,Elderly (65+),Sweden,686,673,699
-2008,IBD,Prevalence,Elderly (65+),Sweden,733,720,747
-2009,IBD,Prevalence,Elderly (65+),Sweden,787,773,800
-2010,IBD,Prevalence,Elderly (65+),Sweden,844,830,858
-2011,IBD,Prevalence,Elderly (65+),Sweden,896,882,910
-2012,IBD,Prevalence,Elderly (65+),Sweden,943,929,958
-2013,IBD,Prevalence,Elderly (65+),Sweden,993,979,1008
-2014,IBD,Prevalence,Elderly (65+),Sweden,1040,1026,1055
-2015,IBD,Prevalence,Elderly (65+),Sweden,1086,1071,1101
-2016,IBD,Prevalence,Elderly (65+),Sweden,1133,1118,1148
-2017,IBD,Prevalence,Elderly (65+),Sweden,1182,1166,1197
-2018,IBD,Prevalence,Elderly (65+),Sweden,1227,1212,1242
-2019,IBD,Prevalence,Elderly (65+),Sweden,1272,1256,1287
-2020,IBD,Prevalence,Elderly (65+),Sweden,1318,1302,1334
-2021,IBD,Prevalence,Elderly (65+),Sweden,1354,1338,1369
-2022,IBD,Prevalence,Elderly (65+),Sweden,1407,1398,1415
-2023,IBD,Prevalence,Elderly (65+),Sweden,1452,1442,1463
-2024,IBD,Prevalence,Elderly (65+),Sweden,1498,1486,1510
-2025,IBD,Prevalence,Elderly (65+),Sweden,1544,1530,1558
-2026,IBD,Prevalence,Elderly (65+),Sweden,1589,1574,1605
-2027,IBD,Prevalence,Elderly (65+),Sweden,1635,1618,1653
-2028,IBD,Prevalence,Elderly (65+),Sweden,1681,1661,1700
-2029,IBD,Prevalence,Elderly (65+),Sweden,1726,1705,1748
-2030,IBD,Prevalence,Elderly (65+),Sweden,1772,1749,1795
-2031,IBD,Prevalence,Elderly (65+),Sweden,1818,1793,1843
-2032,IBD,Prevalence,Elderly (65+),Sweden,1864,1837,1890
-2033,IBD,Prevalence,Elderly (65+),Sweden,1909,1881,1938
-2034,IBD,Prevalence,Elderly (65+),Sweden,1955,1925,1985
-2035,IBD,Prevalence,Elderly (65+),Sweden,2001,1968,2033
-2035,IBD,Prevalence,Elderly (65+),Global,1590,1422,1875
-2034,IBD,Prevalence,Elderly (65+),Global,1589,1433,1896
-2033,IBD,Prevalence,Elderly (65+),Global,1576,1306,1824
-2032,IBD,Prevalence,Elderly (65+),Global,1467,1296,1687
-2031,IBD,Prevalence,Elderly (65+),Global,1441,1295,1611
-2030,IBD,Prevalence,Elderly (65+),Global,1400,1202,1566
-2029,IBD,Prevalence,Elderly (65+),Global,1345,1200,1529
-2028,IBD,Prevalence,Elderly (65+),Global,1418,1242,1611
-2027,IBD,Prevalence,Elderly (65+),Global,1299,1083,1523
-2026,IBD,Prevalence,Elderly (65+),Global,1258,1115,1426
-2025,IBD,Prevalence,Elderly (65+),Global,1256,1090,1435
-2024,IBD,Prevalence,Elderly (65+),Global,1194,1026,1437
-2023,IBD,Prevalence,Elderly (65+),Global,1140,973,1330
-2022,IBD,Prevalence,Elderly (65+),Global,1135,978,1420
-2021,IBD,Prevalence,Elderly (65+),Global,1163,925,1521
-2020,IBD,Prevalence,Elderly (65+),Global,1026,866,1229
-2019,IBD,Prevalence,Elderly (65+),Global,1024,863,1240
-2018,IBD,Prevalence,Elderly (65+),Global,961,857,1077
-2017,IBD,Prevalence,Elderly (65+),Global,885,678,1080
-2016,IBD,Prevalence,Elderly (65+),Global,943,789,1120
-2015,IBD,Prevalence,Elderly (65+),Global,872,729,1071
-2014,IBD,Prevalence,Elderly (65+),Global,896,661,1166
-2013,IBD,Prevalence,Elderly (65+),Global,795,690,971
-2012,IBD,Prevalence,Elderly (65+),Global,806,639,1100
-2011,IBD,Prevalence,Elderly (65+),Global,719,558,938
-2010,IBD,Prevalence,Elderly (65+),Global,784,629,976
-2009,IBD,Prevalence,Elderly (65+),Global,759,584,1069
-2008,IBD,Prevalence,Elderly (65+),Global,598,434,911
-2007,IBD,Prevalence,Elderly (65+),Global,608,491,871
-2002,IBD,Prevalence,Adults (18 to 64),Canada,507,504,510
-2003,IBD,Prevalence,Adults (18 to 64),Canada,537,533,540
-2004,IBD,Prevalence,Adults (18 to 64),Canada,563,559,566
-2005,IBD,Prevalence,Adults (18 to 64),Canada,589,586,592
-2006,IBD,Prevalence,Adults (18 to 64),Canada,613,609,616
-2007,IBD,Prevalence,Adults (18 to 64),Canada,634,630,637
-2008,IBD,Prevalence,Adults (18 to 64),Canada,656,652,659
-2009,IBD,Prevalence,Adults (18 to 64),Canada,678,674,681
-2010,IBD,Prevalence,Adults (18 to 64),Canada,699,695,702
-2011,IBD,Prevalence,Adults (18 to 64),Canada,719,716,723
-2012,IBD,Prevalence,Adults (18 to 64),Canada,737,734,741
-2013,IBD,Prevalence,Adults (18 to 64),Canada,757,753,761
-2014,IBD,Prevalence,Adults (18 to 64),Canada,776,772,780
-2015,IBD,Prevalence,Adults (18 to 64),Canada,799,795,803
-2016,IBD,Prevalence,Adults (18 to 64),Canada,822,814,829
-2017,IBD,Prevalence,Adults (18 to 64),Canada,845,834,856
-2018,IBD,Prevalence,Adults (18 to 64),Canada,868,854,882
-2019,IBD,Prevalence,Adults (18 to 64),Canada,890,873,907
-2020,IBD,Prevalence,Adults (18 to 64),Canada,913,893,933
-2021,IBD,Prevalence,Adults (18 to 64),Canada,936,913,958
-2022,IBD,Prevalence,Adults (18 to 64),Canada,958,933,983
-2023,IBD,Prevalence,Adults (18 to 64),Canada,981,953,1008
-2024,IBD,Prevalence,Adults (18 to 64),Canada,1003,973,1033
-2025,IBD,Prevalence,Adults (18 to 64),Canada,1026,993,1058
-2026,IBD,Prevalence,Adults (18 to 64),Canada,1048,1014,1083
-2027,IBD,Prevalence,Adults (18 to 64),Canada,1071,1034,1108
-2028,IBD,Prevalence,Adults (18 to 64),Canada,1093,1054,1133
-2029,IBD,Prevalence,Adults (18 to 64),Canada,1116,1075,1157
-2030,IBD,Prevalence,Adults (18 to 64),Canada,1138,1095,1182
-2031,IBD,Prevalence,Adults (18 to 64),Canada,1161,1115,1206
-2032,IBD,Prevalence,Adults (18 to 64),Canada,1183,1136,1231
-2033,IBD,Prevalence,Adults (18 to 64),Canada,1206,1156,1256
-2034,IBD,Prevalence,Adults (18 to 64),Canada,1228,1177,1280
-2035,IBD,Prevalence,Adults (18 to 64),Canada,1251,1197,1304
-2011,IBD,Prevalence,Adults (18 to 64),Catalonia,292,288,297
-2012,IBD,Prevalence,Adults (18 to 64),Catalonia,326,321,331
-2013,IBD,Prevalence,Adults (18 to 64),Catalonia,359,354,365
-2014,IBD,Prevalence,Adults (18 to 64),Catalonia,394,388,399
-2015,IBD,Prevalence,Adults (18 to 64),Catalonia,424,419,430
-2016,IBD,Prevalence,Adults (18 to 64),Catalonia,452,446,458
-2017,IBD,Prevalence,Adults (18 to 64),Catalonia,487,481,493
-2018,IBD,Prevalence,Adults (18 to 64),Catalonia,513,506,519
-2019,IBD,Prevalence,Adults (18 to 64),Catalonia,535,528,541
-2020,IBD,Prevalence,Adults (18 to 64),Catalonia,542,536,549
-2021,IBD,Prevalence,Adults (18 to 64),Catalonia,528,522,535
-2022,IBD,Prevalence,Adults (18 to 64),Catalonia,544,538,551
-2023,IBD,Prevalence,Adults (18 to 64),Catalonia,547,541,554
-2024,IBD,Prevalence,Adults (18 to 64),Catalonia,554,527,580
-2025,IBD,Prevalence,Adults (18 to 64),Catalonia,559,527,591
-2026,IBD,Prevalence,Adults (18 to 64),Catalonia,564,527,602
-2027,IBD,Prevalence,Adults (18 to 64),Catalonia,570,526,613
-2028,IBD,Prevalence,Adults (18 to 64),Catalonia,575,526,624
-2029,IBD,Prevalence,Adults (18 to 64),Catalonia,580,526,635
-2030,IBD,Prevalence,Adults (18 to 64),Catalonia,586,525,646
-2031,IBD,Prevalence,Adults (18 to 64),Catalonia,591,525,657
-2032,IBD,Prevalence,Adults (18 to 64),Catalonia,596,524,669
-2033,IBD,Prevalence,Adults (18 to 64),Catalonia,602,524,680
-2034,IBD,Prevalence,Adults (18 to 64),Catalonia,607,524,691
-2035,IBD,Prevalence,Adults (18 to 64),Catalonia,613,523,702
-1990,IBD,Prevalence,Adults (18 to 64),Denmark,247,241,252
-1991,IBD,Prevalence,Adults (18 to 64),Denmark,266,260,271
-1992,IBD,Prevalence,Adults (18 to 64),Denmark,287,281,293
-1993,IBD,Prevalence,Adults (18 to 64),Denmark,319,313,325
-1994,IBD,Prevalence,Adults (18 to 64),Denmark,350,344,357
-1995,IBD,Prevalence,Adults (18 to 64),Denmark,382,375,389
-1996,IBD,Prevalence,Adults (18 to 64),Denmark,415,408,421
-1997,IBD,Prevalence,Adults (18 to 64),Denmark,446,439,453
-1998,IBD,Prevalence,Adults (18 to 64),Denmark,481,473,488
-1999,IBD,Prevalence,Adults (18 to 64),Denmark,516,508,523
-2000,IBD,Prevalence,Adults (18 to 64),Denmark,550,542,558
-2001,IBD,Prevalence,Adults (18 to 64),Denmark,583,574,591
-2002,IBD,Prevalence,Adults (18 to 64),Denmark,620,611,628
-2003,IBD,Prevalence,Adults (18 to 64),Denmark,654,646,663
-2004,IBD,Prevalence,Adults (18 to 64),Denmark,692,683,701
-2005,IBD,Prevalence,Adults (18 to 64),Denmark,731,722,740
-2006,IBD,Prevalence,Adults (18 to 64),Denmark,769,759,778
-2007,IBD,Prevalence,Adults (18 to 64),Denmark,804,794,813
-2008,IBD,Prevalence,Adults (18 to 64),Denmark,840,830,849
-2009,IBD,Prevalence,Adults (18 to 64),Denmark,878,868,888
-2010,IBD,Prevalence,Adults (18 to 64),Denmark,915,905,926
-2011,IBD,Prevalence,Adults (18 to 64),Denmark,953,942,963
-2012,IBD,Prevalence,Adults (18 to 64),Denmark,990,979,1000
-2013,IBD,Prevalence,Adults (18 to 64),Denmark,1026,1016,1037
-2014,IBD,Prevalence,Adults (18 to 64),Denmark,1060,1049,1071
-2015,IBD,Prevalence,Adults (18 to 64),Denmark,1095,1084,1106
-2016,IBD,Prevalence,Adults (18 to 64),Denmark,1130,1119,1141
-2017,IBD,Prevalence,Adults (18 to 64),Denmark,1163,1151,1174
-2018,IBD,Prevalence,Adults (18 to 64),Denmark,1199,1195,1203
-2019,IBD,Prevalence,Adults (18 to 64),Denmark,1235,1229,1242
-2020,IBD,Prevalence,Adults (18 to 64),Denmark,1272,1262,1281
-2021,IBD,Prevalence,Adults (18 to 64),Denmark,1308,1296,1320
-2022,IBD,Prevalence,Adults (18 to 64),Denmark,1344,1330,1358
-2023,IBD,Prevalence,Adults (18 to 64),Denmark,1380,1364,1396
-2024,IBD,Prevalence,Adults (18 to 64),Denmark,1416,1398,1434
-2025,IBD,Prevalence,Adults (18 to 64),Denmark,1452,1432,1471
-2026,IBD,Prevalence,Adults (18 to 64),Denmark,1488,1467,1509
-2027,IBD,Prevalence,Adults (18 to 64),Denmark,1524,1501,1547
-2028,IBD,Prevalence,Adults (18 to 64),Denmark,1560,1535,1584
-2029,IBD,Prevalence,Adults (18 to 64),Denmark,1596,1570,1621
-2030,IBD,Prevalence,Adults (18 to 64),Denmark,1631,1604,1659
-2031,IBD,Prevalence,Adults (18 to 64),Denmark,1667,1638,1696
-2032,IBD,Prevalence,Adults (18 to 64),Denmark,1703,1673,1734
-2033,IBD,Prevalence,Adults (18 to 64),Denmark,1739,1707,1771
-2034,IBD,Prevalence,Adults (18 to 64),Denmark,1775,1742,1808
-2035,IBD,Prevalence,Adults (18 to 64),Denmark,1811,1776,1846
-2007,IBD,Prevalence,Adults (18 to 64),Hungary,559,526,591
-2008,IBD,Prevalence,Adults (18 to 64),Hungary,575,541,608
-2009,IBD,Prevalence,Adults (18 to 64),Hungary,588,555,622
-2010,IBD,Prevalence,Adults (18 to 64),Hungary,609,575,643
-2011,IBD,Prevalence,Adults (18 to 64),Hungary,624,589,658
-2012,IBD,Prevalence,Adults (18 to 64),Hungary,641,606,676
-2013,IBD,Prevalence,Adults (18 to 64),Hungary,660,624,696
-2014,IBD,Prevalence,Adults (18 to 64),Hungary,672,636,708
-2015,IBD,Prevalence,Adults (18 to 64),Hungary,687,651,724
-2016,IBD,Prevalence,Adults (18 to 64),Hungary,687,650,723
-2017,IBD,Prevalence,Adults (18 to 64),Hungary,700,663,737
-2018,IBD,Prevalence,Adults (18 to 64),Hungary,717,709,726
-2019,IBD,Prevalence,Adults (18 to 64),Hungary,733,718,748
-2020,IBD,Prevalence,Adults (18 to 64),Hungary,749,729,768
-2021,IBD,Prevalence,Adults (18 to 64),Hungary,764,740,787
-2022,IBD,Prevalence,Adults (18 to 64),Hungary,778,751,806
-2023,IBD,Prevalence,Adults (18 to 64),Hungary,793,763,823
-2024,IBD,Prevalence,Adults (18 to 64),Hungary,808,774,841
-2025,IBD,Prevalence,Adults (18 to 64),Hungary,822,786,858
-2026,IBD,Prevalence,Adults (18 to 64),Hungary,837,798,876
-2027,IBD,Prevalence,Adults (18 to 64),Hungary,851,809,893
-2028,IBD,Prevalence,Adults (18 to 64),Hungary,866,821,910
-2029,IBD,Prevalence,Adults (18 to 64),Hungary,880,833,927
-2030,IBD,Prevalence,Adults (18 to 64),Hungary,894,845,944
-2031,IBD,Prevalence,Adults (18 to 64),Hungary,909,856,961
-2032,IBD,Prevalence,Adults (18 to 64),Hungary,923,868,979
-2033,IBD,Prevalence,Adults (18 to 64),Hungary,938,880,996
-2034,IBD,Prevalence,Adults (18 to 64),Hungary,952,891,1013
-2035,IBD,Prevalence,Adults (18 to 64),Hungary,967,903,1030
-2005,IBD,Prevalence,Adults (18 to 64),ISRAEL,472,465,478
-2006,IBD,Prevalence,Adults (18 to 64),ISRAEL,502,495,509
-2007,IBD,Prevalence,Adults (18 to 64),ISRAEL,531,523,538
-2008,IBD,Prevalence,Adults (18 to 64),ISRAEL,550,543,557
-2009,IBD,Prevalence,Adults (18 to 64),ISRAEL,574,567,581
-2010,IBD,Prevalence,Adults (18 to 64),ISRAEL,601,594,608
-2011,IBD,Prevalence,Adults (18 to 64),ISRAEL,624,616,631
-2012,IBD,Prevalence,Adults (18 to 64),ISRAEL,649,642,657
-2013,IBD,Prevalence,Adults (18 to 64),ISRAEL,674,666,681
-2014,IBD,Prevalence,Adults (18 to 64),ISRAEL,695,688,703
-2015,IBD,Prevalence,Adults (18 to 64),ISRAEL,719,711,726
-2016,IBD,Prevalence,Adults (18 to 64),ISRAEL,740,732,747
-2017,IBD,Prevalence,Adults (18 to 64),ISRAEL,761,753,769
-2018,IBD,Prevalence,Adults (18 to 64),ISRAEL,781,773,789
-2019,IBD,Prevalence,Adults (18 to 64),ISRAEL,799,791,807
-2020,IBD,Prevalence,Adults (18 to 64),ISRAEL,816,808,824
-2021,IBD,Prevalence,Adults (18 to 64),ISRAEL,838,835,841
-2022,IBD,Prevalence,Adults (18 to 64),ISRAEL,859,854,865
-2023,IBD,Prevalence,Adults (18 to 64),ISRAEL,881,873,888
-2024,IBD,Prevalence,Adults (18 to 64),ISRAEL,902,892,912
-2025,IBD,Prevalence,Adults (18 to 64),ISRAEL,923,911,934
-2026,IBD,Prevalence,Adults (18 to 64),ISRAEL,944,931,957
-2027,IBD,Prevalence,Adults (18 to 64),ISRAEL,965,950,980
-2028,IBD,Prevalence,Adults (18 to 64),ISRAEL,986,970,1002
-2029,IBD,Prevalence,Adults (18 to 64),ISRAEL,1007,989,1025
-2030,IBD,Prevalence,Adults (18 to 64),ISRAEL,1028,1009,1047
-2031,IBD,Prevalence,Adults (18 to 64),ISRAEL,1049,1028,1069
-2032,IBD,Prevalence,Adults (18 to 64),ISRAEL,1070,1048,1091
-2033,IBD,Prevalence,Adults (18 to 64),ISRAEL,1090,1067,1114
-2034,IBD,Prevalence,Adults (18 to 64),ISRAEL,1111,1087,1136
-2035,IBD,Prevalence,Adults (18 to 64),ISRAEL,1132,1106,1158
-2009,IBD,Prevalence,Adults (18 to 64),Scotland,717,695,740
-2010,IBD,Prevalence,Adults (18 to 64),Scotland,748,725,771
-2011,IBD,Prevalence,Adults (18 to 64),Scotland,773,750,797
-2012,IBD,Prevalence,Adults (18 to 64),Scotland,804,780,827
-2013,IBD,Prevalence,Adults (18 to 64),Scotland,829,805,853
-2014,IBD,Prevalence,Adults (18 to 64),Scotland,860,835,884
-2015,IBD,Prevalence,Adults (18 to 64),Scotland,886,862,911
-2016,IBD,Prevalence,Adults (18 to 64),Scotland,898,874,923
-2017,IBD,Prevalence,Adults (18 to 64),Scotland,917,893,942
-2018,IBD,Prevalence,Adults (18 to 64),Scotland,946,938,954
-2019,IBD,Prevalence,Adults (18 to 64),Scotland,973,959,987
-2020,IBD,Prevalence,Adults (18 to 64),Scotland,999,981,1018
-2021,IBD,Prevalence,Adults (18 to 64),Scotland,1025,1003,1048
-2022,IBD,Prevalence,Adults (18 to 64),Scotland,1051,1025,1077
-2023,IBD,Prevalence,Adults (18 to 64),Scotland,1076,1047,1105
-2024,IBD,Prevalence,Adults (18 to 64),Scotland,1102,1070,1133
-2025,IBD,Prevalence,Adults (18 to 64),Scotland,1127,1092,1162
-2026,IBD,Prevalence,Adults (18 to 64),Scotland,1152,1115,1190
-2027,IBD,Prevalence,Adults (18 to 64),Scotland,1178,1137,1218
-2028,IBD,Prevalence,Adults (18 to 64),Scotland,1203,1160,1246
-2029,IBD,Prevalence,Adults (18 to 64),Scotland,1228,1182,1274
-2030,IBD,Prevalence,Adults (18 to 64),Scotland,1253,1205,1302
-2031,IBD,Prevalence,Adults (18 to 64),Scotland,1279,1227,1330
-2032,IBD,Prevalence,Adults (18 to 64),Scotland,1304,1250,1358
-2033,IBD,Prevalence,Adults (18 to 64),Scotland,1329,1272,1386
-2034,IBD,Prevalence,Adults (18 to 64),Scotland,1354,1295,1414
-2035,IBD,Prevalence,Adults (18 to 64),Scotland,1380,1317,1442
-2004,IBD,Prevalence,Adults (18 to 64),Sweden,705,698,712
-2005,IBD,Prevalence,Adults (18 to 64),Sweden,738,730,745
-2006,IBD,Prevalence,Adults (18 to 64),Sweden,767,760,775
-2007,IBD,Prevalence,Adults (18 to 64),Sweden,793,785,800
-2008,IBD,Prevalence,Adults (18 to 64),Sweden,816,809,824
-2009,IBD,Prevalence,Adults (18 to 64),Sweden,845,838,853
-2010,IBD,Prevalence,Adults (18 to 64),Sweden,868,860,875
-2011,IBD,Prevalence,Adults (18 to 64),Sweden,889,881,897
-2012,IBD,Prevalence,Adults (18 to 64),Sweden,914,906,922
-2013,IBD,Prevalence,Adults (18 to 64),Sweden,935,927,943
-2014,IBD,Prevalence,Adults (18 to 64),Sweden,955,947,963
-2015,IBD,Prevalence,Adults (18 to 64),Sweden,973,965,981
-2016,IBD,Prevalence,Adults (18 to 64),Sweden,985,977,993
-2017,IBD,Prevalence,Adults (18 to 64),Sweden,996,988,1004
-2018,IBD,Prevalence,Adults (18 to 64),Sweden,1008,1000,1016
-2019,IBD,Prevalence,Adults (18 to 64),Sweden,1018,1010,1026
-2020,IBD,Prevalence,Adults (18 to 64),Sweden,1037,1029,1045
-2021,IBD,Prevalence,Adults (18 to 64),Sweden,1055,1047,1063
-2022,IBD,Prevalence,Adults (18 to 64),Sweden,1072,1065,1078
-2023,IBD,Prevalence,Adults (18 to 64),Sweden,1088,1077,1100
-2024,IBD,Prevalence,Adults (18 to 64),Sweden,1105,1089,1121
-2025,IBD,Prevalence,Adults (18 to 64),Sweden,1122,1101,1142
-2026,IBD,Prevalence,Adults (18 to 64),Sweden,1138,1114,1162
-2027,IBD,Prevalence,Adults (18 to 64),Sweden,1155,1127,1182
-2028,IBD,Prevalence,Adults (18 to 64),Sweden,1171,1140,1202
-2029,IBD,Prevalence,Adults (18 to 64),Sweden,1187,1153,1222
-2030,IBD,Prevalence,Adults (18 to 64),Sweden,1204,1167,1241
-2031,IBD,Prevalence,Adults (18 to 64),Sweden,1220,1180,1260
-2032,IBD,Prevalence,Adults (18 to 64),Sweden,1237,1194,1279
-2033,IBD,Prevalence,Adults (18 to 64),Sweden,1253,1207,1298
-2034,IBD,Prevalence,Adults (18 to 64),Sweden,1269,1221,1318
-2035,IBD,Prevalence,Adults (18 to 64),Sweden,1285,1234,1337
-2035,IBD,Prevalence,Adults (18 to 64),Global,1107,955,1325
-2034,IBD,Prevalence,Adults (18 to 64),Global,1185,1022,1392
-2033,IBD,Prevalence,Adults (18 to 64),Global,1151,963,1354
-2032,IBD,Prevalence,Adults (18 to 64),Global,1093,921,1305
-2031,IBD,Prevalence,Adults (18 to 64),Global,1034,920,1233
-2030,IBD,Prevalence,Adults (18 to 64),Global,1041,825,1294
-2029,IBD,Prevalence,Adults (18 to 64),Global,1079,882,1284
-2028,IBD,Prevalence,Adults (18 to 64),Global,1061,865,1286
-2027,IBD,Prevalence,Adults (18 to 64),Global,974,822,1149
-2026,IBD,Prevalence,Adults (18 to 64),Global,1017,880,1182
-2025,IBD,Prevalence,Adults (18 to 64),Global,920,785,1097
-2024,IBD,Prevalence,Adults (18 to 64),Global,931,748,1075
-2023,IBD,Prevalence,Adults (18 to 64),Global,935,790,1127
-2022,IBD,Prevalence,Adults (18 to 64),Global,901,765,1071
-2021,IBD,Prevalence,Adults (18 to 64),Global,849,713,1045
-2020,IBD,Prevalence,Adults (18 to 64),Global,842,734,954
-2019,IBD,Prevalence,Adults (18 to 64),Global,853,735,1031
-2018,IBD,Prevalence,Adults (18 to 64),Global,849,713,1006
-2017,IBD,Prevalence,Adults (18 to 64),Global,814,711,931
-2016,IBD,Prevalence,Adults (18 to 64),Global,813,706,951
-2015,IBD,Prevalence,Adults (18 to 64),Global,736,595,866
-2014,IBD,Prevalence,Adults (18 to 64),Global,752,605,953
-2013,IBD,Prevalence,Adults (18 to 64),Global,761,629,882
-2012,IBD,Prevalence,Adults (18 to 64),Global,696,580,828
-2011,IBD,Prevalence,Adults (18 to 64),Global,661,532,797
-2010,IBD,Prevalence,Adults (18 to 64),Global,725,636,831
-2009,IBD,Prevalence,Adults (18 to 64),Global,713,618,902
-2008,IBD,Prevalence,Adults (18 to 64),Global,693,597,850
-2007,IBD,Prevalence,Adults (18 to 64),Global,653,559,795
-2002,IBD,Prevalence,Peds (<18),Canada,48,47,50
-2003,IBD,Prevalence,Peds (<18),Canada,50,48,52
-2004,IBD,Prevalence,Peds (<18),Canada,51,49,53
-2005,IBD,Prevalence,Peds (<18),Canada,54,52,55
-2006,IBD,Prevalence,Peds (<18),Canada,56,54,58
-2007,IBD,Prevalence,Peds (<18),Canada,59,58,61
-2008,IBD,Prevalence,Peds (<18),Canada,61,59,63
-2009,IBD,Prevalence,Peds (<18),Canada,62,61,64
-2010,IBD,Prevalence,Peds (<18),Canada,63,61,65
-2011,IBD,Prevalence,Peds (<18),Canada,65,63,66
-2012,IBD,Prevalence,Peds (<18),Canada,65,64,67
-2013,IBD,Prevalence,Peds (<18),Canada,66,65,68
-2014,IBD,Prevalence,Peds (<18),Canada,67,65,69
-2015,IBD,Prevalence,Peds (<18),Canada,69,68,69
-2016,IBD,Prevalence,Peds (<18),Canada,69,69,70
-2017,IBD,Prevalence,Peds (<18),Canada,71,70,71
-2018,IBD,Prevalence,Peds (<18),Canada,72,71,72
-2019,IBD,Prevalence,Peds (<18),Canada,73,72,73
-2020,IBD,Prevalence,Peds (<18),Canada,74,73,74
-2021,IBD,Prevalence,Peds (<18),Canada,75,74,76
-2022,IBD,Prevalence,Peds (<18),Canada,76,75,77
-2023,IBD,Prevalence,Peds (<18),Canada,77,76,78
-2024,IBD,Prevalence,Peds (<18),Canada,78,77,79
-2025,IBD,Prevalence,Peds (<18),Canada,79,78,80
-2026,IBD,Prevalence,Peds (<18),Canada,80,79,81
-2027,IBD,Prevalence,Peds (<18),Canada,81,80,82
-2028,IBD,Prevalence,Peds (<18),Canada,82,81,84
-2029,IBD,Prevalence,Peds (<18),Canada,83,82,85
-2030,IBD,Prevalence,Peds (<18),Canada,84,83,86
-2031,IBD,Prevalence,Peds (<18),Canada,85,84,87
-2032,IBD,Prevalence,Peds (<18),Canada,86,85,88
-2033,IBD,Prevalence,Peds (<18),Canada,88,86,89
-2034,IBD,Prevalence,Peds (<18),Canada,89,87,90
-2035,IBD,Prevalence,Peds (<18),Canada,90,88,92
-2011,IBD,Prevalence,Peds (<18),Catalonia,26,24,29
-2012,IBD,Prevalence,Peds (<18),Catalonia,28,25,31
-2013,IBD,Prevalence,Peds (<18),Catalonia,35,31,38
-2014,IBD,Prevalence,Peds (<18),Catalonia,38,35,41
-2015,IBD,Prevalence,Peds (<18),Catalonia,41,38,45
-2016,IBD,Prevalence,Peds (<18),Catalonia,45,41,48
-2017,IBD,Prevalence,Peds (<18),Catalonia,50,46,53
-2018,IBD,Prevalence,Peds (<18),Catalonia,56,52,59
-2019,IBD,Prevalence,Peds (<18),Catalonia,57,53,61
-2020,IBD,Prevalence,Peds (<18),Catalonia,57,53,61
-2021,IBD,Prevalence,Peds (<18),Catalonia,46,43,50
-2022,IBD,Prevalence,Peds (<18),Catalonia,49,46,53
-2023,IBD,Prevalence,Peds (<18),Catalonia,50,46,53
-2024,IBD,Prevalence,Peds (<18),Catalonia,46,33,59
-2025,IBD,Prevalence,Peds (<18),Catalonia,44,28,61
-2026,IBD,Prevalence,Peds (<18),Catalonia,43,23,62
-2027,IBD,Prevalence,Peds (<18),Catalonia,41,18,64
-2028,IBD,Prevalence,Peds (<18),Catalonia,39,12,65
-2029,IBD,Prevalence,Peds (<18),Catalonia,37,7,67
-2030,IBD,Prevalence,Peds (<18),Catalonia,35,2,69
-2031,IBD,Prevalence,Peds (<18),Catalonia,34,0,70
-2032,IBD,Prevalence,Peds (<18),Catalonia,32,0,72
-2033,IBD,Prevalence,Peds (<18),Catalonia,30,0,73
-2034,IBD,Prevalence,Peds (<18),Catalonia,28,0,75
-2035,IBD,Prevalence,Peds (<18),Catalonia,26,0,76
-1990,IBD,Prevalence,Peds (<18),Denmark,24,22,27
-1991,IBD,Prevalence,Peds (<18),Denmark,26,23,29
-1992,IBD,Prevalence,Peds (<18),Denmark,27,24,31
-1993,IBD,Prevalence,Peds (<18),Denmark,29,26,33
-1994,IBD,Prevalence,Peds (<18),Denmark,33,30,36
-1995,IBD,Prevalence,Peds (<18),Denmark,34,31,38
-1996,IBD,Prevalence,Peds (<18),Denmark,36,33,40
-1997,IBD,Prevalence,Peds (<18),Denmark,40,36,43
-1998,IBD,Prevalence,Peds (<18),Denmark,45,41,49
-1999,IBD,Prevalence,Peds (<18),Denmark,49,45,53
-2000,IBD,Prevalence,Peds (<18),Denmark,52,48,56
-2001,IBD,Prevalence,Peds (<18),Denmark,55,51,60
-2002,IBD,Prevalence,Peds (<18),Denmark,61,56,65
-2003,IBD,Prevalence,Peds (<18),Denmark,63,59,68
-2004,IBD,Prevalence,Peds (<18),Denmark,68,63,73
-2005,IBD,Prevalence,Peds (<18),Denmark,67,63,72
-2006,IBD,Prevalence,Peds (<18),Denmark,70,65,74
-2007,IBD,Prevalence,Peds (<18),Denmark,71,67,76
-2008,IBD,Prevalence,Peds (<18),Denmark,73,68,78
-2009,IBD,Prevalence,Peds (<18),Denmark,74,70,79
-2010,IBD,Prevalence,Peds (<18),Denmark,77,72,82
-2011,IBD,Prevalence,Peds (<18),Denmark,75,70,80
-2012,IBD,Prevalence,Peds (<18),Denmark,78,73,83
-2013,IBD,Prevalence,Peds (<18),Denmark,81,76,86
-2014,IBD,Prevalence,Peds (<18),Denmark,83,78,89
-2015,IBD,Prevalence,Peds (<18),Denmark,85,80,91
-2016,IBD,Prevalence,Peds (<18),Denmark,85,80,90
-2017,IBD,Prevalence,Peds (<18),Denmark,85,80,90
-2018,IBD,Prevalence,Peds (<18),Denmark,87,86,89
-2019,IBD,Prevalence,Peds (<18),Denmark,90,88,92
-2020,IBD,Prevalence,Peds (<18),Denmark,92,89,96
-2021,IBD,Prevalence,Peds (<18),Denmark,95,90,99
-2022,IBD,Prevalence,Peds (<18),Denmark,97,92,103
-2023,IBD,Prevalence,Peds (<18),Denmark,100,93,106
-2024,IBD,Prevalence,Peds (<18),Denmark,102,95,110
-2025,IBD,Prevalence,Peds (<18),Denmark,105,96,113
-2026,IBD,Prevalence,Peds (<18),Denmark,107,98,116
-2027,IBD,Prevalence,Peds (<18),Denmark,110,99,120
-2028,IBD,Prevalence,Peds (<18),Denmark,112,101,123
-2029,IBD,Prevalence,Peds (<18),Denmark,114,103,126
-2030,IBD,Prevalence,Peds (<18),Denmark,117,104,129
-2031,IBD,Prevalence,Peds (<18),Denmark,119,106,133
-2032,IBD,Prevalence,Peds (<18),Denmark,121,107,136
-2033,IBD,Prevalence,Peds (<18),Denmark,124,109,139
-2034,IBD,Prevalence,Peds (<18),Denmark,126,110,142
-2035,IBD,Prevalence,Peds (<18),Denmark,128,112,145
-2007,IBD,Prevalence,Peds (<18),Hungary,82,61,103
-2008,IBD,Prevalence,Peds (<18),Hungary,98,75,121
-2009,IBD,Prevalence,Peds (<18),Hungary,84,63,106
-2010,IBD,Prevalence,Peds (<18),Hungary,84,62,105
-2011,IBD,Prevalence,Peds (<18),Hungary,88,66,110
-2012,IBD,Prevalence,Peds (<18),Hungary,86,65,108
-2013,IBD,Prevalence,Peds (<18),Hungary,86,64,108
-2014,IBD,Prevalence,Peds (<18),Hungary,92,70,115
-2015,IBD,Prevalence,Peds (<18),Hungary,94,71,117
-2016,IBD,Prevalence,Peds (<18),Hungary,97,74,120
-2017,IBD,Prevalence,Peds (<18),Hungary,94,72,117
-2018,IBD,Prevalence,Peds (<18),Hungary,95,82,108
-2019,IBD,Prevalence,Peds (<18),Hungary,96,82,111
-2020,IBD,Prevalence,Peds (<18),Hungary,97,81,114
-2021,IBD,Prevalence,Peds (<18),Hungary,98,80,116
-2022,IBD,Prevalence,Peds (<18),Hungary,99,79,119
-2023,IBD,Prevalence,Peds (<18),Hungary,100,78,122
-2024,IBD,Prevalence,Peds (<18),Hungary,101,77,125
-2025,IBD,Prevalence,Peds (<18),Hungary,102,76,128
-2026,IBD,Prevalence,Peds (<18),Hungary,103,75,131
-2027,IBD,Prevalence,Peds (<18),Hungary,104,74,134
-2028,IBD,Prevalence,Peds (<18),Hungary,104,73,136
-2029,IBD,Prevalence,Peds (<18),Hungary,105,72,139
-2030,IBD,Prevalence,Peds (<18),Hungary,106,71,142
-2031,IBD,Prevalence,Peds (<18),Hungary,107,70,145
-2032,IBD,Prevalence,Peds (<18),Hungary,108,68,148
-2033,IBD,Prevalence,Peds (<18),Hungary,109,67,151
-2034,IBD,Prevalence,Peds (<18),Hungary,110,66,154
-2035,IBD,Prevalence,Peds (<18),Hungary,111,65,156
-2005,IBD,Prevalence,Peds (<18),ISRAEL,46,44,49
-2006,IBD,Prevalence,Peds (<18),ISRAEL,48,45,51
-2007,IBD,Prevalence,Peds (<18),ISRAEL,50,47,53
-2008,IBD,Prevalence,Peds (<18),ISRAEL,51,48,54
-2009,IBD,Prevalence,Peds (<18),ISRAEL,53,50,55
-2010,IBD,Prevalence,Peds (<18),ISRAEL,52,49,55
-2011,IBD,Prevalence,Peds (<18),ISRAEL,54,51,57
-2012,IBD,Prevalence,Peds (<18),ISRAEL,54,51,56
-2013,IBD,Prevalence,Peds (<18),ISRAEL,54,51,57
-2014,IBD,Prevalence,Peds (<18),ISRAEL,56,53,59
-2015,IBD,Prevalence,Peds (<18),ISRAEL,56,53,59
-2016,IBD,Prevalence,Peds (<18),ISRAEL,60,57,63
-2017,IBD,Prevalence,Peds (<18),ISRAEL,62,60,65
-2018,IBD,Prevalence,Peds (<18),ISRAEL,64,61,67
-2019,IBD,Prevalence,Peds (<18),ISRAEL,67,64,70
-2020,IBD,Prevalence,Peds (<18),ISRAEL,68,65,70
-2021,IBD,Prevalence,Peds (<18),ISRAEL,69,67,70
-2022,IBD,Prevalence,Peds (<18),ISRAEL,70,67,72
-2023,IBD,Prevalence,Peds (<18),ISRAEL,71,67,74
-2024,IBD,Prevalence,Peds (<18),ISRAEL,72,68,77
-2025,IBD,Prevalence,Peds (<18),ISRAEL,73,68,79
-2026,IBD,Prevalence,Peds (<18),ISRAEL,75,69,81
-2027,IBD,Prevalence,Peds (<18),ISRAEL,76,70,83
-2028,IBD,Prevalence,Peds (<18),ISRAEL,77,70,85
-2029,IBD,Prevalence,Peds (<18),ISRAEL,79,71,87
-2030,IBD,Prevalence,Peds (<18),ISRAEL,80,72,89
-2031,IBD,Prevalence,Peds (<18),ISRAEL,82,72,91
-2032,IBD,Prevalence,Peds (<18),ISRAEL,83,73,93
-2033,IBD,Prevalence,Peds (<18),ISRAEL,84,74,95
-2034,IBD,Prevalence,Peds (<18),ISRAEL,86,75,97
-2035,IBD,Prevalence,Peds (<18),ISRAEL,87,76,98
-2009,IBD,Prevalence,Peds (<18),Scotland,87,73,102
-2010,IBD,Prevalence,Peds (<18),Scotland,75,62,89
-2011,IBD,Prevalence,Peds (<18),Scotland,76,62,89
-2012,IBD,Prevalence,Peds (<18),Scotland,75,62,89
-2013,IBD,Prevalence,Peds (<18),Scotland,65,53,77
-2014,IBD,Prevalence,Peds (<18),Scotland,64,51,76
-2015,IBD,Prevalence,Peds (<18),Scotland,67,55,80
-2016,IBD,Prevalence,Peds (<18),Scotland,66,54,79
-2017,IBD,Prevalence,Peds (<18),Scotland,70,57,83
-2018,IBD,Prevalence,Peds (<18),Scotland,61,55,68
-2019,IBD,Prevalence,Peds (<18),Scotland,59,52,67
-2020,IBD,Prevalence,Peds (<18),Scotland,57,49,66
-2021,IBD,Prevalence,Peds (<18),Scotland,55,45,65
-2022,IBD,Prevalence,Peds (<18),Scotland,53,42,64
-2023,IBD,Prevalence,Peds (<18),Scotland,51,39,63
-2024,IBD,Prevalence,Peds (<18),Scotland,49,36,62
-2025,IBD,Prevalence,Peds (<18),Scotland,47,33,61
-2026,IBD,Prevalence,Peds (<18),Scotland,45,29,60
-2027,IBD,Prevalence,Peds (<18),Scotland,43,26,59
-2028,IBD,Prevalence,Peds (<18),Scotland,40,23,58
-2029,IBD,Prevalence,Peds (<18),Scotland,38,20,57
-2030,IBD,Prevalence,Peds (<18),Scotland,36,17,56
-2031,IBD,Prevalence,Peds (<18),Scotland,34,13,55
-2032,IBD,Prevalence,Peds (<18),Scotland,32,10,54
-2033,IBD,Prevalence,Peds (<18),Scotland,30,7,53
-2034,IBD,Prevalence,Peds (<18),Scotland,28,4,52
-2035,IBD,Prevalence,Peds (<18),Scotland,26,0,51
-2004,IBD,Prevalence,Peds (<18),Sweden,67,63,71
-2005,IBD,Prevalence,Peds (<18),Sweden,70,66,74
-2006,IBD,Prevalence,Peds (<18),Sweden,75,72,79
-2007,IBD,Prevalence,Peds (<18),Sweden,78,74,82
-2008,IBD,Prevalence,Peds (<18),Sweden,81,77,85
-2009,IBD,Prevalence,Peds (<18),Sweden,83,79,87
-2010,IBD,Prevalence,Peds (<18),Sweden,86,81,90
-2011,IBD,Prevalence,Peds (<18),Sweden,84,80,89
-2012,IBD,Prevalence,Peds (<18),Sweden,82,78,86
-2013,IBD,Prevalence,Peds (<18),Sweden,78,74,82
-2014,IBD,Prevalence,Peds (<18),Sweden,75,71,79
-2015,IBD,Prevalence,Peds (<18),Sweden,77,73,81
-2016,IBD,Prevalence,Peds (<18),Sweden,79,75,83
-2017,IBD,Prevalence,Peds (<18),Sweden,78,74,82
-2018,IBD,Prevalence,Peds (<18),Sweden,78,74,82
-2019,IBD,Prevalence,Peds (<18),Sweden,79,75,83
-2020,IBD,Prevalence,Peds (<18),Sweden,81,77,85
-2021,IBD,Prevalence,Peds (<18),Sweden,83,79,87
-2022,IBD,Prevalence,Peds (<18),Sweden,84,81,87
-2023,IBD,Prevalence,Peds (<18),Sweden,85,79,90
-2024,IBD,Prevalence,Peds (<18),Sweden,86,78,93
-2025,IBD,Prevalence,Peds (<18),Sweden,86,76,97
-2026,IBD,Prevalence,Peds (<18),Sweden,87,75,100
-2027,IBD,Prevalence,Peds (<18),Sweden,88,74,102
-2028,IBD,Prevalence,Peds (<18),Sweden,89,73,105
-2029,IBD,Prevalence,Peds (<18),Sweden,90,72,108
-2030,IBD,Prevalence,Peds (<18),Sweden,91,71,110
-2031,IBD,Prevalence,Peds (<18),Sweden,92,70,113
-2032,IBD,Prevalence,Peds (<18),Sweden,92,70,115
-2033,IBD,Prevalence,Peds (<18),Sweden,93,69,118
-2034,IBD,Prevalence,Peds (<18),Sweden,94,68,120
-2035,IBD,Prevalence,Peds (<18),Sweden,95,68,122
-2035,IBD,Prevalence,Peds (<18),Global,65,43,100
-2034,IBD,Prevalence,Peds (<18),Global,67,44,104
-2033,IBD,Prevalence,Peds (<18),Global,70,48,99
-2032,IBD,Prevalence,Peds (<18),Global,70,50,101
-2031,IBD,Prevalence,Peds (<18),Global,71,51,102
-2030,IBD,Prevalence,Peds (<18),Global,73,50,107
-2029,IBD,Prevalence,Peds (<18),Global,70,50,93
-2028,IBD,Prevalence,Peds (<18),Global,72,53,99
-2027,IBD,Prevalence,Peds (<18),Global,71,53,95
-2026,IBD,Prevalence,Peds (<18),Global,73,55,96
-2025,IBD,Prevalence,Peds (<18),Global,73,59,92
-2024,IBD,Prevalence,Peds (<18),Global,73,56,93
-2023,IBD,Prevalence,Peds (<18),Global,73,59,93
-2022,IBD,Prevalence,Peds (<18),Global,73,62,89
-2021,IBD,Prevalence,Peds (<18),Global,72,59,87
-2020,IBD,Prevalence,Peds (<18),Global,73,62,86
-2019,IBD,Prevalence,Peds (<18),Global,73,62,84
-2018,IBD,Prevalence,Peds (<18),Global,71,60,83
-2017,IBD,Prevalence,Peds (<18),Global,72,59,85
-2016,IBD,Prevalence,Peds (<18),Global,69,57,82
-2015,IBD,Prevalence,Peds (<18),Global,66,50,81
-2014,IBD,Prevalence,Peds (<18),Global,65,53,82
-2013,IBD,Prevalence,Peds (<18),Global,63,49,77
-2012,IBD,Prevalence,Peds (<18),Global,64,49,80
-2011,IBD,Prevalence,Peds (<18),Global,65,48,88
-2010,IBD,Prevalence,Peds (<18),Global,72,60,86
-2009,IBD,Prevalence,Peds (<18),Global,74,61,89
-2008,IBD,Prevalence,Peds (<18),Global,71,57,95
-2007,IBD,Prevalence,Peds (<18),Global,67,53,82
+"year","disease_type","data_type","agegrp","name","rate","lb","ub","forecast"
+2007,"IBD","Incidence","Elderly (65+)","Canada",28.4,26.799999,30,"Observed"
+2008,"IBD","Incidence","Elderly (65+)","Canada",26.1,24.6,27.700001,"Observed"
+2009,"IBD","Incidence","Elderly (65+)","Canada",26.4,24.9,27.9,"Observed"
+2010,"IBD","Incidence","Elderly (65+)","Canada",26.799999,25.299999,28.299999,"Observed"
+2011,"IBD","Incidence","Elderly (65+)","Canada",28.5,27,30,"Observed"
+2012,"IBD","Incidence","Elderly (65+)","Canada",27.4,26,28.9,"Observed"
+2013,"IBD","Incidence","Elderly (65+)","Canada",27.6,26.1,29,"Observed"
+2014,"IBD","Incidence","Elderly (65+)","Canada",28.1,26.700001,29.5,"Observed"
+2015,"IBD","Incidence","Elderly (65+)","Canada",27.9,25.6,30.299999,"Forecasted"
+2016,"IBD","Incidence","Elderly (65+)","Canada",28,25.299999,30.799999,"Forecasted"
+2017,"IBD","Incidence","Elderly (65+)","Canada",28.200001,25.1,31.200001,"Forecasted"
+2018,"IBD","Incidence","Elderly (65+)","Canada",28.299999,24.799999,31.700001,"Forecasted"
+2019,"IBD","Incidence","Elderly (65+)","Canada",28.4,24.6,32.200001,"Forecasted"
+2020,"IBD","Incidence","Elderly (65+)","Canada",28.5,24.299999,32.700001,"Forecasted"
+2021,"IBD","Incidence","Elderly (65+)","Canada",28.6,24.1,33.200001,"Forecasted"
+2022,"IBD","Incidence","Elderly (65+)","Canada",28.700001,23.799999,33.599998,"Forecasted"
+2023,"IBD","Incidence","Elderly (65+)","Canada",28.799999,23.6,34.099998,"Forecasted"
+2024,"IBD","Incidence","Elderly (65+)","Canada",29,23.299999,34.599998,"Forecasted"
+2025,"IBD","Incidence","Elderly (65+)","Canada",29.1,23,35.099998,"Forecasted"
+2011,"IBD","Incidence","Elderly (65+)","Catalonia",48.700001,44.799999,52.5,"Observed"
+2012,"IBD","Incidence","Elderly (65+)","Catalonia",52.400002,48.5,56.400002,"Observed"
+2013,"IBD","Incidence","Elderly (65+)","Catalonia",50.299999,46.400002,54.099998,"Observed"
+2014,"IBD","Incidence","Elderly (65+)","Catalonia",55.400002,51.400002,59.400002,"Observed"
+2015,"IBD","Incidence","Elderly (65+)","Catalonia",50.700001,46.900002,54.5,"Observed"
+2016,"IBD","Incidence","Elderly (65+)","Catalonia",48.400002,44.700001,52,"Observed"
+2017,"IBD","Incidence","Elderly (65+)","Catalonia",62.299999,58.099998,66.400002,"Observed"
+2018,"IBD","Incidence","Elderly (65+)","Catalonia",61.599998,57.5,65.699997,"Observed"
+2019,"IBD","Incidence","Elderly (65+)","Catalonia",61.299999,57.200001,65.300003,"Observed"
+2020,"IBD","Incidence","Elderly (65+)","Catalonia",45.700001,42.299999,49.200001,"Observed"
+2021,"IBD","Incidence","Elderly (65+)","Catalonia",40.200001,36.900002,43.400002,"Observed"
+2022,"IBD","Incidence","Elderly (65+)","Catalonia",42.599998,39.299999,45.900002,"Observed"
+2023,"IBD","Incidence","Elderly (65+)","Catalonia",32.299999,29.5,35.200001,"Observed"
+2024,"IBD","Incidence","Elderly (65+)","Catalonia",35.099998,27.6,42.700001,"Forecasted"
+2025,"IBD","Incidence","Elderly (65+)","Catalonia",36.299999,23.700001,48.799999,"Forecasted"
+1990,"IBD","Incidence","Elderly (65+)","Denmark",19.299999,16.299999,22.4,"Observed"
+1991,"IBD","Incidence","Elderly (65+)","Denmark",18.5,15.5,21.4,"Observed"
+1992,"IBD","Incidence","Elderly (65+)","Denmark",23.200001,19.9,26.5,"Observed"
+1993,"IBD","Incidence","Elderly (65+)","Denmark",33.299999,29.299999,37.299999,"Observed"
+1994,"IBD","Incidence","Elderly (65+)","Denmark",32.400002,28.5,36.299999,"Observed"
+1995,"IBD","Incidence","Elderly (65+)","Denmark",29,25.200001,32.700001,"Observed"
+1996,"IBD","Incidence","Elderly (65+)","Denmark",31,27.200001,34.900002,"Observed"
+1997,"IBD","Incidence","Elderly (65+)","Denmark",38,33.700001,42.200001,"Observed"
+1998,"IBD","Incidence","Elderly (65+)","Denmark",39.799999,35.400002,44.200001,"Observed"
+1999,"IBD","Incidence","Elderly (65+)","Denmark",44.099998,39.5,48.799999,"Observed"
+2000,"IBD","Incidence","Elderly (65+)","Denmark",42.400002,37.900002,47,"Observed"
+2001,"IBD","Incidence","Elderly (65+)","Denmark",45.099998,40.400002,49.799999,"Observed"
+2002,"IBD","Incidence","Elderly (65+)","Denmark",50.400002,45.5,55.400002,"Observed"
+2003,"IBD","Incidence","Elderly (65+)","Denmark",51.5,46.5,56.400002,"Observed"
+2004,"IBD","Incidence","Elderly (65+)","Denmark",55.799999,50.599998,60.900002,"Observed"
+2005,"IBD","Incidence","Elderly (65+)","Denmark",53.700001,48.700001,58.799999,"Observed"
+2006,"IBD","Incidence","Elderly (65+)","Denmark",48.299999,43.5,53,"Observed"
+2007,"IBD","Incidence","Elderly (65+)","Denmark",52.900002,48,57.900002,"Observed"
+2008,"IBD","Incidence","Elderly (65+)","Denmark",56,51,61,"Observed"
+2009,"IBD","Incidence","Elderly (65+)","Denmark",57.5,52.599998,62.5,"Observed"
+2010,"IBD","Incidence","Elderly (65+)","Denmark",53.5,48.799999,58.200001,"Observed"
+2011,"IBD","Incidence","Elderly (65+)","Denmark",50.900002,46.400002,55.5,"Observed"
+2012,"IBD","Incidence","Elderly (65+)","Denmark",41.799999,37.799999,45.799999,"Observed"
+2013,"IBD","Incidence","Elderly (65+)","Denmark",38.700001,34.900002,42.599998,"Observed"
+2014,"IBD","Incidence","Elderly (65+)","Denmark",41.400002,37.5,45.299999,"Observed"
+2015,"IBD","Incidence","Elderly (65+)","Denmark",38.599998,34.900002,42.299999,"Observed"
+2016,"IBD","Incidence","Elderly (65+)","Denmark",40.5,36.700001,44.200001,"Observed"
+2017,"IBD","Incidence","Elderly (65+)","Denmark",34.400002,31,37.900002,"Observed"
+2018,"IBD","Incidence","Elderly (65+)","Denmark",35.799999,32.599998,38.900002,"Forecasted"
+2019,"IBD","Incidence","Elderly (65+)","Denmark",37,30.9,43.200001,"Forecasted"
+2020,"IBD","Incidence","Elderly (65+)","Denmark",38.200001,29.299999,47.200001,"Forecasted"
+2021,"IBD","Incidence","Elderly (65+)","Denmark",39.400002,27.700001,51.099998,"Forecasted"
+2022,"IBD","Incidence","Elderly (65+)","Denmark",40.5,26.200001,54.799999,"Forecasted"
+2023,"IBD","Incidence","Elderly (65+)","Denmark",41.599998,24.799999,58.400002,"Forecasted"
+2024,"IBD","Incidence","Elderly (65+)","Denmark",42.599998,23.5,61.799999,"Forecasted"
+2025,"IBD","Incidence","Elderly (65+)","Denmark",43.599998,22.200001,65.099998,"Forecasted"
+2005,"IBD","Incidence","Elderly (65+)","ISRAEL",32.299999,28,36.5,"Observed"
+2006,"IBD","Incidence","Elderly (65+)","ISRAEL",26.799999,23,30.6,"Observed"
+2007,"IBD","Incidence","Elderly (65+)","ISRAEL",28.4,24.5,32.299999,"Observed"
+2008,"IBD","Incidence","Elderly (65+)","ISRAEL",24.6,21,28.299999,"Observed"
+2009,"IBD","Incidence","Elderly (65+)","ISRAEL",26.6,22.799999,30.299999,"Observed"
+2010,"IBD","Incidence","Elderly (65+)","ISRAEL",26.9,23.200001,30.5,"Observed"
+2011,"IBD","Incidence","Elderly (65+)","ISRAEL",26.200001,22.6,29.700001,"Observed"
+2012,"IBD","Incidence","Elderly (65+)","ISRAEL",24.799999,21.4,28.200001,"Observed"
+2013,"IBD","Incidence","Elderly (65+)","ISRAEL",21,18,24.1,"Observed"
+2014,"IBD","Incidence","Elderly (65+)","ISRAEL",21.9,18.9,25,"Observed"
+2015,"IBD","Incidence","Elderly (65+)","ISRAEL",24.700001,21.6,27.9,"Observed"
+2016,"IBD","Incidence","Elderly (65+)","ISRAEL",23.6,20.6,26.700001,"Observed"
+2017,"IBD","Incidence","Elderly (65+)","ISRAEL",23,20,25.9,"Observed"
+2018,"IBD","Incidence","Elderly (65+)","ISRAEL",24.4,21.4,27.299999,"Observed"
+2019,"IBD","Incidence","Elderly (65+)","ISRAEL",24.5,21.6,27.5,"Observed"
+2020,"IBD","Incidence","Elderly (65+)","ISRAEL",20.6,18,23.299999,"Observed"
+2021,"IBD","Incidence","Elderly (65+)","ISRAEL",21.1,18.799999,23.5,"Forecasted"
+2022,"IBD","Incidence","Elderly (65+)","ISRAEL",20.700001,18.200001,23.200001,"Forecasted"
+2023,"IBD","Incidence","Elderly (65+)","ISRAEL",20.200001,17.5,23,"Forecasted"
+2024,"IBD","Incidence","Elderly (65+)","ISRAEL",19.799999,16.799999,22.700001,"Forecasted"
+2025,"IBD","Incidence","Elderly (65+)","ISRAEL",19.299999,16.200001,22.5,"Forecasted"
+2018,"IBD","Incidence","Elderly (65+)","NewZealand",19.9,10.4,29.4,"Observed"
+2019,"IBD","Incidence","Elderly (65+)","NewZealand",14.8,6.6999998,22.799999,"Observed"
+2020,"IBD","Incidence","Elderly (65+)","NewZealand",17.6,9,26.200001,"Observed"
+2021,"IBD","Incidence","Elderly (65+)","NewZealand",19.200001,10.3,28,"Observed"
+2022,"IBD","Incidence","Elderly (65+)","NewZealand",21.799999,12.5,31.1,"Observed"
+2023,"IBD","Incidence","Elderly (65+)","NewZealand",13.1,6,20.299999,"Observed"
+2024,"IBD","Incidence","Elderly (65+)","NewZealand",16.6,8.8000002,24.5,"Forecasted"
+2025,"IBD","Incidence","Elderly (65+)","NewZealand",16.299999,6.5,26.200001,"Forecasted"
+2009,"IBD","Incidence","Elderly (65+)","Scotland",56.799999,43.400002,70.199997,"Observed"
+2010,"IBD","Incidence","Elderly (65+)","Scotland",53.799999,40.799999,66.699997,"Observed"
+2011,"IBD","Incidence","Elderly (65+)","Scotland",60.900002,47.200001,74.599998,"Observed"
+2012,"IBD","Incidence","Elderly (65+)","Scotland",55.200001,42.400002,68,"Observed"
+2013,"IBD","Incidence","Elderly (65+)","Scotland",57,44.099998,69.800003,"Observed"
+2014,"IBD","Incidence","Elderly (65+)","Scotland",51.700001,39.599998,63.700001,"Observed"
+2015,"IBD","Incidence","Elderly (65+)","Scotland",49.299999,37.599998,61,"Observed"
+2016,"IBD","Incidence","Elderly (65+)","Scotland",44.200001,33.299999,55.200001,"Observed"
+2017,"IBD","Incidence","Elderly (65+)","Scotland",38.5,28.4,48.599998,"Observed"
+2018,"IBD","Incidence","Elderly (65+)","Scotland",42,32.900002,51.099998,"Forecasted"
+2019,"IBD","Incidence","Elderly (65+)","Scotland",40.299999,30.1,50.5,"Forecasted"
+2020,"IBD","Incidence","Elderly (65+)","Scotland",38.599998,27.4,49.900002,"Forecasted"
+2021,"IBD","Incidence","Elderly (65+)","Scotland",37.099998,24.9,49.299999,"Forecasted"
+2022,"IBD","Incidence","Elderly (65+)","Scotland",35.599998,22.5,48.700001,"Forecasted"
+2023,"IBD","Incidence","Elderly (65+)","Scotland",34.099998,20.200001,48,"Forecasted"
+2024,"IBD","Incidence","Elderly (65+)","Scotland",32.700001,18.1,47.400002,"Forecasted"
+2025,"IBD","Incidence","Elderly (65+)","Scotland",31.4,16,46.799999,"Forecasted"
+2004,"IBD","Incidence","Elderly (65+)","Sweden",25.6,22.6,28.700001,"Observed"
+2005,"IBD","Incidence","Elderly (65+)","Sweden",25.299999,22.299999,28.4,"Observed"
+2006,"IBD","Incidence","Elderly (65+)","Sweden",27,23.9,30.1,"Observed"
+2007,"IBD","Incidence","Elderly (65+)","Sweden",27.200001,24.1,30.299999,"Observed"
+2008,"IBD","Incidence","Elderly (65+)","Sweden",32.599998,29.200001,35.900002,"Observed"
+2009,"IBD","Incidence","Elderly (65+)","Sweden",31.4,28.1,34.599998,"Observed"
+2010,"IBD","Incidence","Elderly (65+)","Sweden",31.1,28,34.299999,"Observed"
+2011,"IBD","Incidence","Elderly (65+)","Sweden",31.200001,28.1,34.299999,"Observed"
+2012,"IBD","Incidence","Elderly (65+)","Sweden",29.5,26.5,32.400002,"Observed"
+2013,"IBD","Incidence","Elderly (65+)","Sweden",28.6,25.700001,31.5,"Observed"
+2014,"IBD","Incidence","Elderly (65+)","Sweden",27.6,24.799999,30.299999,"Observed"
+2015,"IBD","Incidence","Elderly (65+)","Sweden",29.4,26.6,32.200001,"Observed"
+2016,"IBD","Incidence","Elderly (65+)","Sweden",28.700001,25.9,31.4,"Observed"
+2017,"IBD","Incidence","Elderly (65+)","Sweden",28,25.299999,30.700001,"Observed"
+2018,"IBD","Incidence","Elderly (65+)","Sweden",27.200001,24.5,29.799999,"Observed"
+2019,"IBD","Incidence","Elderly (65+)","Sweden",29.1,26.4,31.799999,"Observed"
+2020,"IBD","Incidence","Elderly (65+)","Sweden",27.299999,24.6,29.9,"Observed"
+2021,"IBD","Incidence","Elderly (65+)","Sweden",25.700001,23.200001,28.299999,"Observed"
+2022,"IBD","Incidence","Elderly (65+)","Sweden",26.5,24.6,28.299999,"Forecasted"
+2023,"IBD","Incidence","Elderly (65+)","Sweden",26.9,23.799999,30.1,"Forecasted"
+2024,"IBD","Incidence","Elderly (65+)","Sweden",27.299999,23.1,31.4,"Forecasted"
+2025,"IBD","Incidence","Elderly (65+)","Sweden",27.5,22.6,32.299999,"Forecasted"
+2025,"IBD","Incidence","Elderly (65+)","Global",28.299999,21.9,35.799999,
+2024,"IBD","Incidence","Elderly (65+)","Global",28.1,22.200001,34.900002,
+2023,"IBD","Incidence","Elderly (65+)","Global",27.299999,21.1,34.900002,
+2022,"IBD","Incidence","Elderly (65+)","Global",29.6,22,36.400002,
+2021,"IBD","Incidence","Elderly (65+)","Global",29.200001,22.9,36.299999,
+2020,"IBD","Incidence","Elderly (65+)","Global",30,23.299999,38.400002,
+2019,"IBD","Incidence","Elderly (65+)","Global",31.299999,23.5,40.099998,
+2018,"IBD","Incidence","Elderly (65+)","Global",32.299999,23.6,42.400002,
+2017,"IBD","Incidence","Elderly (65+)","Global",34.700001,26.5,45,
+2016,"IBD","Incidence","Elderly (65+)","Global",34.799999,27.6,43.700001,
+2015,"IBD","Incidence","Elderly (65+)","Global",36,28.1,45.099998,
+2014,"IBD","Incidence","Elderly (65+)","Global",36.400002,27.299999,47.299999,
+2013,"IBD","Incidence","Elderly (65+)","Global",36.400002,25.4,49.799999,
+2012,"IBD","Incidence","Elderly (65+)","Global",38.200001,29.1,48.799999,
+2011,"IBD","Incidence","Elderly (65+)","Global",39.799999,29.200001,53.599998,
+2010,"IBD","Incidence","Elderly (65+)","Global",37.400002,24.9,54.700001,
+2009,"IBD","Incidence","Elderly (65+)","Global",37.299999,25.299999,53.299999,
+2008,"IBD","Incidence","Elderly (65+)","Global",33.5,21.9,53.099998,
+2007,"IBD","Incidence","Elderly (65+)","Global",33.099998,20.9,50.099998,
+2007,"IBD","Incidence","Adults (18 to 64)","Canada",32.200001,31.4,32.900002,"Observed"
+2008,"IBD","Incidence","Adults (18 to 64)","Canada",34.099998,33.299999,34.900002,"Observed"
+2009,"IBD","Incidence","Adults (18 to 64)","Canada",33.799999,33,34.599998,"Observed"
+2010,"IBD","Incidence","Adults (18 to 64)","Canada",33.599998,32.799999,34.299999,"Observed"
+2011,"IBD","Incidence","Adults (18 to 64)","Canada",34.099998,33.299999,34.900002,"Observed"
+2012,"IBD","Incidence","Adults (18 to 64)","Canada",32.900002,32.099998,33.599998,"Observed"
+2013,"IBD","Incidence","Adults (18 to 64)","Canada",33.900002,33.099998,34.700001,"Observed"
+2014,"IBD","Incidence","Adults (18 to 64)","Canada",33.700001,32.900002,34.5,"Observed"
+2015,"IBD","Incidence","Adults (18 to 64)","Canada",33.799999,32.200001,35.400002,"Forecasted"
+2016,"IBD","Incidence","Adults (18 to 64)","Canada",33.799999,32.900002,34.700001,"Forecasted"
+2017,"IBD","Incidence","Adults (18 to 64)","Canada",33.900002,32.200001,35.5,"Forecasted"
+2018,"IBD","Incidence","Adults (18 to 64)","Canada",33.900002,32.400002,35.400002,"Forecasted"
+2019,"IBD","Incidence","Adults (18 to 64)","Canada",33.900002,32,35.900002,"Forecasted"
+2020,"IBD","Incidence","Adults (18 to 64)","Canada",34,32,36,"Forecasted"
+2021,"IBD","Incidence","Adults (18 to 64)","Canada",34,31.700001,36.299999,"Forecasted"
+2022,"IBD","Incidence","Adults (18 to 64)","Canada",34.099998,31.6,36.5,"Forecasted"
+2023,"IBD","Incidence","Adults (18 to 64)","Canada",34.099998,31.4,36.799999,"Forecasted"
+2024,"IBD","Incidence","Adults (18 to 64)","Canada",34.099998,31.299999,37,"Forecasted"
+2025,"IBD","Incidence","Adults (18 to 64)","Canada",34.200001,31.1,37.299999,"Forecasted"
+2011,"IBD","Incidence","Adults (18 to 64)","Catalonia",41.900002,40.099998,43.700001,"Observed"
+2012,"IBD","Incidence","Adults (18 to 64)","Catalonia",40.799999,39,42.599998,"Observed"
+2013,"IBD","Incidence","Adults (18 to 64)","Catalonia",41.200001,39.400002,43,"Observed"
+2014,"IBD","Incidence","Adults (18 to 64)","Catalonia",39.700001,37.900002,41.5,"Observed"
+2015,"IBD","Incidence","Adults (18 to 64)","Catalonia",37.900002,36.099998,39.599998,"Observed"
+2016,"IBD","Incidence","Adults (18 to 64)","Catalonia",37.200001,35.5,39,"Observed"
+2017,"IBD","Incidence","Adults (18 to 64)","Catalonia",48.200001,46.200001,50.099998,"Observed"
+2018,"IBD","Incidence","Adults (18 to 64)","Catalonia",42.299999,40.400002,44.099998,"Observed"
+2019,"IBD","Incidence","Adults (18 to 64)","Catalonia",41.599998,39.799999,43.400002,"Observed"
+2020,"IBD","Incidence","Adults (18 to 64)","Catalonia",32.5,30.9,34.099998,"Observed"
+2021,"IBD","Incidence","Adults (18 to 64)","Catalonia",36.599998,34.900002,38.299999,"Observed"
+2022,"IBD","Incidence","Adults (18 to 64)","Catalonia",35.799999,34.099998,37.5,"Observed"
+2023,"IBD","Incidence","Adults (18 to 64)","Catalonia",30.5,29,32.099998,"Observed"
+2024,"IBD","Incidence","Adults (18 to 64)","Catalonia",29.4,19.700001,39,"Forecasted"
+2025,"IBD","Incidence","Adults (18 to 64)","Catalonia",27.299999,14.7,39.900002,"Forecasted"
+1990,"IBD","Incidence","Adults (18 to 64)","Denmark",22.200001,20.6,23.799999,"Observed"
+1991,"IBD","Incidence","Adults (18 to 64)","Denmark",23.200001,21.6,24.9,"Observed"
+1992,"IBD","Incidence","Adults (18 to 64)","Denmark",25.4,23.6,27.1,"Observed"
+1993,"IBD","Incidence","Adults (18 to 64)","Denmark",36.700001,34.599998,38.700001,"Observed"
+1994,"IBD","Incidence","Adults (18 to 64)","Denmark",37.099998,35,39.099998,"Observed"
+1995,"IBD","Incidence","Adults (18 to 64)","Denmark",36.400002,34.299999,38.400002,"Observed"
+1996,"IBD","Incidence","Adults (18 to 64)","Denmark",39.5,37.400002,41.700001,"Observed"
+1997,"IBD","Incidence","Adults (18 to 64)","Denmark",38.900002,36.799999,41,"Observed"
+1998,"IBD","Incidence","Adults (18 to 64)","Denmark",42.5,40.299999,44.700001,"Observed"
+1999,"IBD","Incidence","Adults (18 to 64)","Denmark",44.200001,41.900002,46.400002,"Observed"
+2000,"IBD","Incidence","Adults (18 to 64)","Denmark",42.200001,40,44.400002,"Observed"
+2001,"IBD","Incidence","Adults (18 to 64)","Denmark",42.099998,39.900002,44.200001,"Observed"
+2002,"IBD","Incidence","Adults (18 to 64)","Denmark",47.599998,45.299999,49.900002,"Observed"
+2003,"IBD","Incidence","Adults (18 to 64)","Denmark",45.200001,43,47.5,"Observed"
+2004,"IBD","Incidence","Adults (18 to 64)","Denmark",48.299999,45.900002,50.599998,"Observed"
+2005,"IBD","Incidence","Adults (18 to 64)","Denmark",48.5,46.099998,50.799999,"Observed"
+2006,"IBD","Incidence","Adults (18 to 64)","Denmark",48.599998,46.299999,51,"Observed"
+2007,"IBD","Incidence","Adults (18 to 64)","Denmark",46.599998,44.299999,48.900002,"Observed"
+2008,"IBD","Incidence","Adults (18 to 64)","Denmark",52.400002,49.900002,54.799999,"Observed"
+2009,"IBD","Incidence","Adults (18 to 64)","Denmark",54,51.5,56.400002,"Observed"
+2010,"IBD","Incidence","Adults (18 to 64)","Denmark",54,51.5,56.400002,"Observed"
+2011,"IBD","Incidence","Adults (18 to 64)","Denmark",55.599998,53.099998,58.099998,"Observed"
+2012,"IBD","Incidence","Adults (18 to 64)","Denmark",55.599998,53.099998,58.099998,"Observed"
+2013,"IBD","Incidence","Adults (18 to 64)","Denmark",57.299999,54.799999,59.799999,"Observed"
+2014,"IBD","Incidence","Adults (18 to 64)","Denmark",56.299999,53.799999,58.900002,"Observed"
+2015,"IBD","Incidence","Adults (18 to 64)","Denmark",58.599998,56.099998,61.200001,"Observed"
+2016,"IBD","Incidence","Adults (18 to 64)","Denmark",59,56.400002,61.5,"Observed"
+2017,"IBD","Incidence","Adults (18 to 64)","Denmark",55.599998,53.099998,58.099998,"Observed"
+2018,"IBD","Incidence","Adults (18 to 64)","Denmark",58.900002,56.599998,61.200001,"Forecasted"
+2019,"IBD","Incidence","Adults (18 to 64)","Denmark",61.400002,57.599998,65.199997,"Forecasted"
+2020,"IBD","Incidence","Adults (18 to 64)","Denmark",63.400002,58.599998,68.300003,"Forecasted"
+2021,"IBD","Incidence","Adults (18 to 64)","Denmark",65.099998,59.5,70.699997,"Forecasted"
+2022,"IBD","Incidence","Adults (18 to 64)","Denmark",66.699997,60.5,72.800003,"Forecasted"
+2023,"IBD","Incidence","Adults (18 to 64)","Denmark",68.099998,61.400002,74.699997,"Forecasted"
+2024,"IBD","Incidence","Adults (18 to 64)","Denmark",69.400002,62.400002,76.400002,"Forecasted"
+2025,"IBD","Incidence","Adults (18 to 64)","Denmark",70.699997,63.299999,78,"Forecasted"
+2005,"IBD","Incidence","Adults (18 to 64)","ISRAEL",39.900002,38,41.900002,"Observed"
+2006,"IBD","Incidence","Adults (18 to 64)","ISRAEL",39.099998,37.200001,41.099998,"Observed"
+2007,"IBD","Incidence","Adults (18 to 64)","ISRAEL",37.900002,36,39.700001,"Observed"
+2008,"IBD","Incidence","Adults (18 to 64)","ISRAEL",39.599998,37.700001,41.5,"Observed"
+2009,"IBD","Incidence","Adults (18 to 64)","ISRAEL",35.799999,34,37.599998,"Observed"
+2010,"IBD","Incidence","Adults (18 to 64)","ISRAEL",39,37.099998,40.799999,"Observed"
+2011,"IBD","Incidence","Adults (18 to 64)","ISRAEL",35.599998,33.900002,37.400002,"Observed"
+2012,"IBD","Incidence","Adults (18 to 64)","ISRAEL",38.700001,36.900002,40.5,"Observed"
+2013,"IBD","Incidence","Adults (18 to 64)","ISRAEL",38.400002,36.599998,40.200001,"Observed"
+2014,"IBD","Incidence","Adults (18 to 64)","ISRAEL",37.799999,36.099998,39.599998,"Observed"
+2015,"IBD","Incidence","Adults (18 to 64)","ISRAEL",37.400002,35.700001,39.200001,"Observed"
+2016,"IBD","Incidence","Adults (18 to 64)","ISRAEL",37.099998,35.400002,38.799999,"Observed"
+2017,"IBD","Incidence","Adults (18 to 64)","ISRAEL",37.5,35.799999,39.299999,"Observed"
+2018,"IBD","Incidence","Adults (18 to 64)","ISRAEL",37.700001,36,39.400002,"Observed"
+2019,"IBD","Incidence","Adults (18 to 64)","ISRAEL",36.200001,34.5,37.900002,"Observed"
+2020,"IBD","Incidence","Adults (18 to 64)","ISRAEL",33.099998,31.5,34.700001,"Observed"
+2021,"IBD","Incidence","Adults (18 to 64)","ISRAEL",35.599998,33.799999,37.400002,"Forecasted"
+2022,"IBD","Incidence","Adults (18 to 64)","ISRAEL",35.400002,33.5,37.299999,"Forecasted"
+2023,"IBD","Incidence","Adults (18 to 64)","ISRAEL",35.200001,33.099998,37.200001,"Forecasted"
+2024,"IBD","Incidence","Adults (18 to 64)","ISRAEL",35,32.799999,37.099998,"Forecasted"
+2025,"IBD","Incidence","Adults (18 to 64)","ISRAEL",34.700001,32.400002,37,"Forecasted"
+2018,"IBD","Incidence","Adults (18 to 64)","NewZealand",41.900002,35.099998,48.700001,"Observed"
+2019,"IBD","Incidence","Adults (18 to 64)","NewZealand",36.700001,30.4,43,"Observed"
+2020,"IBD","Incidence","Adults (18 to 64)","NewZealand",42.200001,35.5,48.799999,"Observed"
+2021,"IBD","Incidence","Adults (18 to 64)","NewZealand",39.200001,32.799999,45.599998,"Observed"
+2022,"IBD","Incidence","Adults (18 to 64)","NewZealand",41.200001,34.700001,47.799999,"Observed"
+2023,"IBD","Incidence","Adults (18 to 64)","NewZealand",38.200001,32,44.5,"Observed"
+2024,"IBD","Incidence","Adults (18 to 64)","NewZealand",42.200001,40,44.299999,"Forecasted"
+2025,"IBD","Incidence","Adults (18 to 64)","NewZealand",38.900002,38,39.799999,"Forecasted"
+2009,"IBD","Incidence","Adults (18 to 64)","Scotland",54.700001,48.400002,60.900002,"Observed"
+2010,"IBD","Incidence","Adults (18 to 64)","Scotland",56.099998,49.799999,62.400002,"Observed"
+2011,"IBD","Incidence","Adults (18 to 64)","Scotland",59.099998,52.700001,65.5,"Observed"
+2012,"IBD","Incidence","Adults (18 to 64)","Scotland",61,54.5,67.5,"Observed"
+2013,"IBD","Incidence","Adults (18 to 64)","Scotland",54.299999,48.200001,60.5,"Observed"
+2014,"IBD","Incidence","Adults (18 to 64)","Scotland",64.400002,57.799999,71.099998,"Observed"
+2015,"IBD","Incidence","Adults (18 to 64)","Scotland",54.200001,48.099998,60.299999,"Observed"
+2016,"IBD","Incidence","Adults (18 to 64)","Scotland",46.200001,40.599998,51.799999,"Observed"
+2017,"IBD","Incidence","Adults (18 to 64)","Scotland",53.200001,47.200001,59.099998,"Observed"
+2018,"IBD","Incidence","Adults (18 to 64)","Scotland",52.5,41.900002,63.099998,"Forecasted"
+2019,"IBD","Incidence","Adults (18 to 64)","Scotland",51.799999,39.599998,64.099998,"Forecasted"
+2020,"IBD","Incidence","Adults (18 to 64)","Scotland",51.200001,37.299999,65.099998,"Forecasted"
+2021,"IBD","Incidence","Adults (18 to 64)","Scotland",50.599998,35,66.099998,"Forecasted"
+2022,"IBD","Incidence","Adults (18 to 64)","Scotland",49.900002,32.700001,67.199997,"Forecasted"
+2023,"IBD","Incidence","Adults (18 to 64)","Scotland",49.299999,30.4,68.199997,"Forecasted"
+2024,"IBD","Incidence","Adults (18 to 64)","Scotland",48.700001,28.1,69.300003,"Forecasted"
+2025,"IBD","Incidence","Adults (18 to 64)","Scotland",48.099998,25.9,70.300003,"Forecasted"
+2004,"IBD","Incidence","Adults (18 to 64)","Sweden",46.299999,44.5,48.099998,"Observed"
+2005,"IBD","Incidence","Adults (18 to 64)","Sweden",45.700001,43.900002,47.5,"Observed"
+2006,"IBD","Incidence","Adults (18 to 64)","Sweden",44.299999,42.5,46,"Observed"
+2007,"IBD","Incidence","Adults (18 to 64)","Sweden",45.099998,43.299999,46.900002,"Observed"
+2008,"IBD","Incidence","Adults (18 to 64)","Sweden",51.900002,50,53.799999,"Observed"
+2009,"IBD","Incidence","Adults (18 to 64)","Sweden",47.599998,45.799999,49.400002,"Observed"
+2010,"IBD","Incidence","Adults (18 to 64)","Sweden",44.900002,43.200001,46.599998,"Observed"
+2011,"IBD","Incidence","Adults (18 to 64)","Sweden",48.599998,46.799999,50.400002,"Observed"
+2012,"IBD","Incidence","Adults (18 to 64)","Sweden",46.599998,44.900002,48.400002,"Observed"
+2013,"IBD","Incidence","Adults (18 to 64)","Sweden",45.900002,44.099998,47.599998,"Observed"
+2014,"IBD","Incidence","Adults (18 to 64)","Sweden",46.700001,45,48.5,"Observed"
+2015,"IBD","Incidence","Adults (18 to 64)","Sweden",43.200001,41.5,44.799999,"Observed"
+2016,"IBD","Incidence","Adults (18 to 64)","Sweden",46,44.299999,47.700001,"Observed"
+2017,"IBD","Incidence","Adults (18 to 64)","Sweden",46.799999,45,48.5,"Observed"
+2018,"IBD","Incidence","Adults (18 to 64)","Sweden",46.299999,44.599998,48.099998,"Observed"
+2019,"IBD","Incidence","Adults (18 to 64)","Sweden",53.400002,51.599998,55.299999,"Observed"
+2020,"IBD","Incidence","Adults (18 to 64)","Sweden",45.900002,44.200001,47.599998,"Observed"
+2021,"IBD","Incidence","Adults (18 to 64)","Sweden",47.200001,45.5,49,"Observed"
+2022,"IBD","Incidence","Adults (18 to 64)","Sweden",47.599998,44.900002,50.299999,"Forecasted"
+2023,"IBD","Incidence","Adults (18 to 64)","Sweden",47.700001,44.799999,50.5,"Forecasted"
+2024,"IBD","Incidence","Adults (18 to 64)","Sweden",47.700001,44.599998,50.799999,"Forecasted"
+2025,"IBD","Incidence","Adults (18 to 64)","Sweden",47.799999,44.5,51.099998,"Forecasted"
+2025,"IBD","Incidence","Adults (18 to 64)","Global",41.099998,29.6,51.900002,
+2024,"IBD","Incidence","Adults (18 to 64)","Global",42.5,33.599998,51.599998,
+2023,"IBD","Incidence","Adults (18 to 64)","Global",41.700001,33.299999,52.599998,
+2022,"IBD","Incidence","Adults (18 to 64)","Global",43.5,34.599998,52.599998,
+2021,"IBD","Incidence","Adults (18 to 64)","Global",42.900002,35.400002,50.700001,
+2020,"IBD","Incidence","Adults (18 to 64)","Global",42.099998,33.5,51.900002,
+2019,"IBD","Incidence","Adults (18 to 64)","Global",44.200001,36.799999,53,
+2018,"IBD","Incidence","Adults (18 to 64)","Global",44.200001,37.5,51.599998,
+2017,"IBD","Incidence","Adults (18 to 64)","Global",45.299999,37.700001,54.200001,
+2016,"IBD","Incidence","Adults (18 to 64)","Global",42.799999,35.200001,51.299999,
+2015,"IBD","Incidence","Adults (18 to 64)","Global",43.5,35.799999,53.099998,
+2014,"IBD","Incidence","Adults (18 to 64)","Global",45.400002,35.700001,55.099998,
+2013,"IBD","Incidence","Adults (18 to 64)","Global",44.5,36,53.799999,
+2012,"IBD","Incidence","Adults (18 to 64)","Global",45,35.599998,55,
+2011,"IBD","Incidence","Adults (18 to 64)","Global",45.299999,35.799999,55.200001,
+2010,"IBD","Incidence","Adults (18 to 64)","Global",44.799999,35.900002,55.099998,
+2009,"IBD","Incidence","Adults (18 to 64)","Global",44.900002,34.799999,59.200001,
+2008,"IBD","Incidence","Adults (18 to 64)","Global",44.5,32.5,70.300003,
+2007,"IBD","Incidence","Adults (18 to 64)","Global",41,30.299999,61.099998,
+2005,"IBD","Incidence","Peds (<18)","Canada",12.1,11.3,13,"Observed"
+2006,"IBD","Incidence","Peds (<18)","Canada",12.3,11.5,13.1,"Observed"
+2007,"IBD","Incidence","Peds (<18)","Canada",12.7,11.9,13.6,"Observed"
+2008,"IBD","Incidence","Peds (<18)","Canada",13.2,12.4,14.1,"Observed"
+2009,"IBD","Incidence","Peds (<18)","Canada",13.7,12.8,14.6,"Observed"
+2010,"IBD","Incidence","Peds (<18)","Canada",12.7,11.8,13.5,"Observed"
+2011,"IBD","Incidence","Peds (<18)","Canada",14.2,13.3,15.1,"Observed"
+2012,"IBD","Incidence","Peds (<18)","Canada",13.2,12.3,14.1,"Observed"
+2013,"IBD","Incidence","Peds (<18)","Canada",13.9,13,14.8,"Observed"
+2014,"IBD","Incidence","Peds (<18)","Canada",14.4,13.5,15.3,"Observed"
+2015,"IBD","Incidence","Peds (<18)","Canada",14.3,13.6,15,"Forecasted"
+2016,"IBD","Incidence","Peds (<18)","Canada",14.6,14.2,15.1,"Forecasted"
+2017,"IBD","Incidence","Peds (<18)","Canada",14.8,14.1,15.5,"Forecasted"
+2018,"IBD","Incidence","Peds (<18)","Canada",15,14.3,15.7,"Forecasted"
+2019,"IBD","Incidence","Peds (<18)","Canada",15.2,14.4,16.1,"Forecasted"
+2020,"IBD","Incidence","Peds (<18)","Canada",15.4,14.5,16.299999,"Forecasted"
+2021,"IBD","Incidence","Peds (<18)","Canada",15.6,14.6,16.6,"Forecasted"
+2022,"IBD","Incidence","Peds (<18)","Canada",15.8,14.8,16.9,"Forecasted"
+2023,"IBD","Incidence","Peds (<18)","Canada",16.1,14.9,17.200001,"Forecasted"
+2024,"IBD","Incidence","Peds (<18)","Canada",16.299999,15,17.5,"Forecasted"
+2025,"IBD","Incidence","Peds (<18)","Canada",16.5,15.1,17.799999,"Forecasted"
+2011,"IBD","Incidence","Peds (<18)","Catalonia",7.4000001,6,8.8999996,"Observed"
+2012,"IBD","Incidence","Peds (<18)","Catalonia",7.9000001,6.4000001,9.3999996,"Observed"
+2013,"IBD","Incidence","Peds (<18)","Catalonia",11.4,9.6999998,13.2,"Observed"
+2014,"IBD","Incidence","Peds (<18)","Catalonia",10.7,9,12.4,"Observed"
+2015,"IBD","Incidence","Peds (<18)","Catalonia",10.8,9,12.5,"Observed"
+2016,"IBD","Incidence","Peds (<18)","Catalonia",9.8999996,8.3000002,11.6,"Observed"
+2017,"IBD","Incidence","Peds (<18)","Catalonia",12.2,10.4,14,"Observed"
+2018,"IBD","Incidence","Peds (<18)","Catalonia",13.7,11.8,15.6,"Observed"
+2019,"IBD","Incidence","Peds (<18)","Catalonia",10.9,9.1999998,12.6,"Observed"
+2020,"IBD","Incidence","Peds (<18)","Catalonia",8.3999996,6.9000001,9.8999996,"Observed"
+2021,"IBD","Incidence","Peds (<18)","Catalonia",10.8,9.1000004,12.6,"Observed"
+2022,"IBD","Incidence","Peds (<18)","Catalonia",13.1,11.2,15.1,"Observed"
+2023,"IBD","Incidence","Peds (<18)","Catalonia",11.6,9.8000002,13.4,"Observed"
+2024,"IBD","Incidence","Peds (<18)","Catalonia",12.5,10.4,14.5,"Forecasted"
+2025,"IBD","Incidence","Peds (<18)","Catalonia",12.7,10.4,15,"Forecasted"
+1990,"IBD","Incidence","Peds (<18)","Denmark",5.9000001,4.5,7.3000002,"Observed"
+1991,"IBD","Incidence","Peds (<18)","Denmark",7,5.5,8.6000004,"Observed"
+1992,"IBD","Incidence","Peds (<18)","Denmark",8.1999998,6.5,9.8999996,"Observed"
+1993,"IBD","Incidence","Peds (<18)","Denmark",8.3000002,6.5999999,10,"Observed"
+1994,"IBD","Incidence","Peds (<18)","Denmark",10.8,8.8000002,12.7,"Observed"
+1995,"IBD","Incidence","Peds (<18)","Denmark",7.5999999,6,9.3000002,"Observed"
+1996,"IBD","Incidence","Peds (<18)","Denmark",10.1,8.1999998,11.9,"Observed"
+1997,"IBD","Incidence","Peds (<18)","Denmark",12.5,10.4,14.6,"Observed"
+1998,"IBD","Incidence","Peds (<18)","Denmark",14,11.8,16.200001,"Observed"
+1999,"IBD","Incidence","Peds (<18)","Denmark",14,11.9,16.200001,"Observed"
+2000,"IBD","Incidence","Peds (<18)","Denmark",12.5,10.5,14.6,"Observed"
+2001,"IBD","Incidence","Peds (<18)","Denmark",13.7,11.6,15.8,"Observed"
+2002,"IBD","Incidence","Peds (<18)","Denmark",15.5,13.3,17.799999,"Observed"
+2003,"IBD","Incidence","Peds (<18)","Denmark",14,11.8,16.1,"Observed"
+2004,"IBD","Incidence","Peds (<18)","Denmark",17.4,15,19.700001,"Observed"
+2005,"IBD","Incidence","Peds (<18)","Denmark",15.4,13.2,17.700001,"Observed"
+2006,"IBD","Incidence","Peds (<18)","Denmark",16.1,13.8,18.4,"Observed"
+2007,"IBD","Incidence","Peds (<18)","Denmark",16.1,13.9,18.4,"Observed"
+2008,"IBD","Incidence","Peds (<18)","Denmark",17.5,15.1,19.799999,"Observed"
+2009,"IBD","Incidence","Peds (<18)","Denmark",18.1,15.7,20.5,"Observed"
+2010,"IBD","Incidence","Peds (<18)","Denmark",18.299999,15.9,20.700001,"Observed"
+2011,"IBD","Incidence","Peds (<18)","Denmark",17.200001,14.9,19.6,"Observed"
+2012,"IBD","Incidence","Peds (<18)","Denmark",18.799999,16.4,21.299999,"Observed"
+2013,"IBD","Incidence","Peds (<18)","Denmark",22.1,19.4,24.799999,"Observed"
+2014,"IBD","Incidence","Peds (<18)","Denmark",20.799999,18.200001,23.4,"Observed"
+2015,"IBD","Incidence","Peds (<18)","Denmark",20,17.4,22.6,"Observed"
+2016,"IBD","Incidence","Peds (<18)","Denmark",19.4,16.9,22,"Observed"
+2017,"IBD","Incidence","Peds (<18)","Denmark",19.200001,16.700001,21.799999,"Observed"
+2018,"IBD","Incidence","Peds (<18)","Denmark",22.200001,21.200001,23.200001,"Forecasted"
+2019,"IBD","Incidence","Peds (<18)","Denmark",22.799999,21.700001,23.799999,"Forecasted"
+2020,"IBD","Incidence","Peds (<18)","Denmark",23.299999,22.200001,24.4,"Forecasted"
+2021,"IBD","Incidence","Peds (<18)","Denmark",23.799999,22.6,25,"Forecasted"
+2022,"IBD","Incidence","Peds (<18)","Denmark",24.299999,23.1,25.5,"Forecasted"
+2023,"IBD","Incidence","Peds (<18)","Denmark",24.9,23.6,26.1,"Forecasted"
+2024,"IBD","Incidence","Peds (<18)","Denmark",25.4,24,26.700001,"Forecasted"
+2025,"IBD","Incidence","Peds (<18)","Denmark",25.9,24.5,27.299999,"Forecasted"
+2005,"IBD","Incidence","Peds (<18)","ISRAEL",11.6,10.2,13,"Observed"
+2006,"IBD","Incidence","Peds (<18)","ISRAEL",10.9,9.6000004,12.2,"Observed"
+2007,"IBD","Incidence","Peds (<18)","ISRAEL",11.6,10.3,13,"Observed"
+2008,"IBD","Incidence","Peds (<18)","ISRAEL",11.4,10,12.7,"Observed"
+2009,"IBD","Incidence","Peds (<18)","ISRAEL",12.6,11.2,13.9,"Observed"
+2010,"IBD","Incidence","Peds (<18)","ISRAEL",11.8,10.5,13.1,"Observed"
+2011,"IBD","Incidence","Peds (<18)","ISRAEL",12.8,11.4,14.1,"Observed"
+2012,"IBD","Incidence","Peds (<18)","ISRAEL",11.8,10.5,13.1,"Observed"
+2013,"IBD","Incidence","Peds (<18)","ISRAEL",12.4,11,13.7,"Observed"
+2014,"IBD","Incidence","Peds (<18)","ISRAEL",13.5,12.2,14.9,"Observed"
+2015,"IBD","Incidence","Peds (<18)","ISRAEL",13.7,12.3,15.1,"Observed"
+2016,"IBD","Incidence","Peds (<18)","ISRAEL",15.4,14,16.9,"Observed"
+2017,"IBD","Incidence","Peds (<18)","ISRAEL",15.5,14.1,16.9,"Observed"
+2018,"IBD","Incidence","Peds (<18)","ISRAEL",14.3,12.9,15.6,"Observed"
+2019,"IBD","Incidence","Peds (<18)","ISRAEL",16.299999,14.8,17.700001,"Observed"
+2020,"IBD","Incidence","Peds (<18)","ISRAEL",16,14.6,17.4,"Observed"
+2021,"IBD","Incidence","Peds (<18)","ISRAEL",16.1,15.4,16.9,"Forecasted"
+2022,"IBD","Incidence","Peds (<18)","ISRAEL",16.5,15.6,17.299999,"Forecasted"
+2023,"IBD","Incidence","Peds (<18)","ISRAEL",16.799999,15.9,17.700001,"Forecasted"
+2024,"IBD","Incidence","Peds (<18)","ISRAEL",17.200001,16.200001,18.200001,"Forecasted"
+2025,"IBD","Incidence","Peds (<18)","ISRAEL",17.5,16.4,18.6,"Forecasted"
+2018,"IBD","Incidence","Peds (<18)","NewZealand",14.5,7.8000002,21.200001,"Observed"
+2019,"IBD","Incidence","Peds (<18)","NewZealand",28.200001,18.799999,37.599998,"Observed"
+2020,"IBD","Incidence","Peds (<18)","NewZealand",18.299999,10.8,25.9,"Observed"
+2021,"IBD","Incidence","Peds (<18)","NewZealand",20.700001,12.7,28.700001,"Observed"
+2022,"IBD","Incidence","Peds (<18)","NewZealand",16,9,23.1,"Observed"
+2023,"IBD","Incidence","Peds (<18)","NewZealand",19.1,11.5,26.700001,"Observed"
+2024,"IBD","Incidence","Peds (<18)","NewZealand",13.9,0,34,"Forecasted"
+2025,"IBD","Incidence","Peds (<18)","NewZealand",16.4,10.6,22.200001,"Forecasted"
+2009,"IBD","Incidence","Peds (<18)","Scotland",20,13.1,27,"Observed"
+2010,"IBD","Incidence","Peds (<18)","Scotland",27.4,19.200001,35.5,"Observed"
+2011,"IBD","Incidence","Peds (<18)","Scotland",19.6,12.8,26.5,"Observed"
+2012,"IBD","Incidence","Peds (<18)","Scotland",27.799999,19.6,35.900002,"Observed"
+2013,"IBD","Incidence","Peds (<18)","Scotland",10.6,5.5999999,15.6,"Observed"
+2014,"IBD","Incidence","Peds (<18)","Scotland",22.6,15.3,29.9,"Observed"
+2015,"IBD","Incidence","Peds (<18)","Scotland",24,15,32.900002,"Observed"
+2016,"IBD","Incidence","Peds (<18)","Scotland",23.700001,16.299999,31.1,"Observed"
+2017,"IBD","Incidence","Peds (<18)","Scotland",18.799999,12.2,25.299999,"Observed"
+2018,"IBD","Incidence","Peds (<18)","Scotland",21.700001,12,31.4,"Forecasted"
+2019,"IBD","Incidence","Peds (<18)","Scotland",19.9,13.2,26.6,"Forecasted"
+2020,"IBD","Incidence","Peds (<18)","Scotland",20.5,10.4,30.6,"Forecasted"
+2021,"IBD","Incidence","Peds (<18)","Scotland",19.799999,9.5,30.200001,"Forecasted"
+2022,"IBD","Incidence","Peds (<18)","Scotland",19.799999,7.6999998,31.9,"Forecasted"
+2023,"IBD","Incidence","Peds (<18)","Scotland",19.5,6.3000002,32.599998,"Forecasted"
+2024,"IBD","Incidence","Peds (<18)","Scotland",19.299999,4.8000002,33.900002,"Forecasted"
+2025,"IBD","Incidence","Peds (<18)","Scotland",19.1,3.3,34.799999,"Forecasted"
+2004,"IBD","Incidence","Peds (<18)","Sweden",18.5,16.6,20.4,"Observed"
+2005,"IBD","Incidence","Peds (<18)","Sweden",20.299999,18.299999,22.299999,"Observed"
+2006,"IBD","Incidence","Peds (<18)","Sweden",19.4,17.4,21.4,"Observed"
+2007,"IBD","Incidence","Peds (<18)","Sweden",19.6,17.6,21.6,"Observed"
+2008,"IBD","Incidence","Peds (<18)","Sweden",20.799999,18.799999,22.9,"Observed"
+2009,"IBD","Incidence","Peds (<18)","Sweden",21.700001,19.6,23.799999,"Observed"
+2010,"IBD","Incidence","Peds (<18)","Sweden",18.6,16.700001,20.6,"Observed"
+2011,"IBD","Incidence","Peds (<18)","Sweden",19.4,17.4,21.299999,"Observed"
+2012,"IBD","Incidence","Peds (<18)","Sweden",17.5,15.6,19.4,"Observed"
+2013,"IBD","Incidence","Peds (<18)","Sweden",19.700001,17.700001,21.6,"Observed"
+2014,"IBD","Incidence","Peds (<18)","Sweden",19.6,17.6,21.5,"Observed"
+2015,"IBD","Incidence","Peds (<18)","Sweden",21.5,19.4,23.5,"Observed"
+2016,"IBD","Incidence","Peds (<18)","Sweden",21.200001,19.200001,23.200001,"Observed"
+2017,"IBD","Incidence","Peds (<18)","Sweden",19.6,17.700001,21.5,"Observed"
+2018,"IBD","Incidence","Peds (<18)","Sweden",20.1,18.200001,22,"Observed"
+2019,"IBD","Incidence","Peds (<18)","Sweden",21.4,19.5,23.4,"Observed"
+2020,"IBD","Incidence","Peds (<18)","Sweden",20.700001,18.799999,22.6,"Observed"
+2021,"IBD","Incidence","Peds (<18)","Sweden",20.4,18.5,22.200001,"Observed"
+2022,"IBD","Incidence","Peds (<18)","Sweden",20.700001,19,22.4,"Forecasted"
+2023,"IBD","Incidence","Peds (<18)","Sweden",20.799999,18.9,22.6,"Forecasted"
+2024,"IBD","Incidence","Peds (<18)","Sweden",20.799999,18.799999,22.799999,"Forecasted"
+2025,"IBD","Incidence","Peds (<18)","Sweden",20.9,18.799999,23,"Forecasted"
+2025,"IBD","Incidence","Peds (<18)","Global",18.1,14.7,22,
+2024,"IBD","Incidence","Peds (<18)","Global",17.5,13.6,21.9,
+2023,"IBD","Incidence","Peds (<18)","Global",17.799999,13.7,22.1,
+2022,"IBD","Incidence","Peds (<18)","Global",17.799999,14.4,21.799999,
+2021,"IBD","Incidence","Peds (<18)","Global",17.6,13.7,21.700001,
+2020,"IBD","Incidence","Peds (<18)","Global",17.200001,13.5,21.200001,
+2019,"IBD","Incidence","Peds (<18)","Global",18.6,14.8,23.299999,
+2018,"IBD","Incidence","Peds (<18)","Global",16.9,13.3,20.9,
+2017,"IBD","Incidence","Peds (<18)","Global",16.5,12.6,21,
+2016,"IBD","Incidence","Peds (<18)","Global",17.1,13,21.799999,
+2015,"IBD","Incidence","Peds (<18)","Global",17,12.9,22.200001,
+2014,"IBD","Incidence","Peds (<18)","Global",16.4,12.4,20.6,
+2013,"IBD","Incidence","Peds (<18)","Global",14.8,10.4,19.700001,
+2012,"IBD","Incidence","Peds (<18)","Global",15.2,10.1,20.700001,
+2011,"IBD","Incidence","Peds (<18)","Global",15.2,11.3,21.4,
+2010,"IBD","Incidence","Peds (<18)","Global",17,12.1,23,
+2009,"IBD","Incidence","Peds (<18)","Global",16.9,12.3,22.700001,
+2008,"IBD","Incidence","Peds (<18)","Global",15.7,10.9,22.9,
+2007,"IBD","Incidence","Peds (<18)","Global",14.9,9.8999996,22.299999,
+2002,"IBD","Prevalence","Elderly (65+)","Canada",454,448,461,"Observed"
+2003,"IBD","Prevalence","Elderly (65+)","Canada",490,483,497,"Observed"
+2004,"IBD","Prevalence","Elderly (65+)","Canada",524,517,531,"Observed"
+2005,"IBD","Prevalence","Elderly (65+)","Canada",557,550,564,"Observed"
+2006,"IBD","Prevalence","Elderly (65+)","Canada",590,583,597,"Observed"
+2007,"IBD","Prevalence","Elderly (65+)","Canada",625,618,633,"Observed"
+2008,"IBD","Prevalence","Elderly (65+)","Canada",658,651,666,"Observed"
+2009,"IBD","Prevalence","Elderly (65+)","Canada",691,684,699,"Observed"
+2010,"IBD","Prevalence","Elderly (65+)","Canada",726,718,733,"Observed"
+2011,"IBD","Prevalence","Elderly (65+)","Canada",768,760,776,"Observed"
+2012,"IBD","Prevalence","Elderly (65+)","Canada",798,790,806,"Observed"
+2013,"IBD","Prevalence","Elderly (65+)","Canada",831,823,839,"Observed"
+2014,"IBD","Prevalence","Elderly (65+)","Canada",865,857,873,"Observed"
+2015,"IBD","Prevalence","Elderly (65+)","Canada",902,893,910,"Forecasted"
+2016,"IBD","Prevalence","Elderly (65+)","Canada",936,926,947,"Forecasted"
+2017,"IBD","Prevalence","Elderly (65+)","Canada",971,959,983,"Forecasted"
+2018,"IBD","Prevalence","Elderly (65+)","Canada",1006,992,1020,"Forecasted"
+2019,"IBD","Prevalence","Elderly (65+)","Canada",1041,1025,1057,"Forecasted"
+2020,"IBD","Prevalence","Elderly (65+)","Canada",1076,1058,1093,"Forecasted"
+2021,"IBD","Prevalence","Elderly (65+)","Canada",1110,1091,1130,"Forecasted"
+2022,"IBD","Prevalence","Elderly (65+)","Canada",1145,1124,1167,"Forecasted"
+2023,"IBD","Prevalence","Elderly (65+)","Canada",1180,1156,1203,"Forecasted"
+2024,"IBD","Prevalence","Elderly (65+)","Canada",1215,1189,1240,"Forecasted"
+2025,"IBD","Prevalence","Elderly (65+)","Canada",1250,1222,1277,"Forecasted"
+2026,"IBD","Prevalence","Elderly (65+)","Canada",1284,1255,1314,"Forecasted"
+2027,"IBD","Prevalence","Elderly (65+)","Canada",1319,1288,1350,"Forecasted"
+2028,"IBD","Prevalence","Elderly (65+)","Canada",1354,1321,1387,"Forecasted"
+2029,"IBD","Prevalence","Elderly (65+)","Canada",1389,1354,1424,"Forecasted"
+2030,"IBD","Prevalence","Elderly (65+)","Canada",1423,1387,1460,"Forecasted"
+2031,"IBD","Prevalence","Elderly (65+)","Canada",1458,1419,1497,"Forecasted"
+2032,"IBD","Prevalence","Elderly (65+)","Canada",1493,1452,1534,"Forecasted"
+2033,"IBD","Prevalence","Elderly (65+)","Canada",1528,1485,1570,"Forecasted"
+2034,"IBD","Prevalence","Elderly (65+)","Canada",1563,1518,1607,"Forecasted"
+2035,"IBD","Prevalence","Elderly (65+)","Canada",1597,1551,1644,"Forecasted"
+2011,"IBD","Prevalence","Elderly (65+)","Catalonia",377,366,388,"Observed"
+2012,"IBD","Prevalence","Elderly (65+)","Catalonia",430,419,441,"Observed"
+2013,"IBD","Prevalence","Elderly (65+)","Catalonia",482,470,494,"Observed"
+2014,"IBD","Prevalence","Elderly (65+)","Catalonia",533,520,545,"Observed"
+2015,"IBD","Prevalence","Elderly (65+)","Catalonia",577,564,590,"Observed"
+2016,"IBD","Prevalence","Elderly (65+)","Catalonia",616,603,629,"Observed"
+2017,"IBD","Prevalence","Elderly (65+)","Catalonia",669,655,682,"Observed"
+2018,"IBD","Prevalence","Elderly (65+)","Catalonia",721,707,735,"Observed"
+2019,"IBD","Prevalence","Elderly (65+)","Catalonia",769,755,784,"Observed"
+2020,"IBD","Prevalence","Elderly (65+)","Catalonia",804,789,818,"Observed"
+2021,"IBD","Prevalence","Elderly (65+)","Catalonia",723,710,737,"Observed"
+2022,"IBD","Prevalence","Elderly (65+)","Catalonia",765,751,779,"Observed"
+2023,"IBD","Prevalence","Elderly (65+)","Catalonia",790,776,804,"Observed"
+2024,"IBD","Prevalence","Elderly (65+)","Catalonia",838,764,912,"Forecasted"
+2025,"IBD","Prevalence","Elderly (65+)","Catalonia",882,753,1011,"Forecasted"
+2026,"IBD","Prevalence","Elderly (65+)","Catalonia",923,752,1095,"Forecasted"
+2027,"IBD","Prevalence","Elderly (65+)","Catalonia",962,756,1168,"Forecasted"
+2028,"IBD","Prevalence","Elderly (65+)","Catalonia",1000,765,1234,"Forecasted"
+2029,"IBD","Prevalence","Elderly (65+)","Catalonia",1036,777,1296,"Forecasted"
+2030,"IBD","Prevalence","Elderly (65+)","Catalonia",1072,791,1354,"Forecasted"
+2031,"IBD","Prevalence","Elderly (65+)","Catalonia",1108,806,1410,"Forecasted"
+2032,"IBD","Prevalence","Elderly (65+)","Catalonia",1144,822,1465,"Forecasted"
+2033,"IBD","Prevalence","Elderly (65+)","Catalonia",1179,838,1519,"Forecasted"
+2034,"IBD","Prevalence","Elderly (65+)","Catalonia",1214,855,1573,"Forecasted"
+2035,"IBD","Prevalence","Elderly (65+)","Catalonia",1249,872,1626,"Forecasted"
+1990,"IBD","Prevalence","Elderly (65+)","Denmark",208,198,218,"Observed"
+1991,"IBD","Prevalence","Elderly (65+)","Denmark",228,218,239,"Observed"
+1992,"IBD","Prevalence","Elderly (65+)","Denmark",254,243,265,"Observed"
+1993,"IBD","Prevalence","Elderly (65+)","Denmark",289,278,301,"Observed"
+1994,"IBD","Prevalence","Elderly (65+)","Denmark",326,313,338,"Observed"
+1995,"IBD","Prevalence","Elderly (65+)","Denmark",359,345,372,"Observed"
+1996,"IBD","Prevalence","Elderly (65+)","Denmark",387,373,400,"Observed"
+1997,"IBD","Prevalence","Elderly (65+)","Denmark",423,408,437,"Observed"
+1998,"IBD","Prevalence","Elderly (65+)","Denmark",462,447,477,"Observed"
+1999,"IBD","Prevalence","Elderly (65+)","Denmark",507,492,523,"Observed"
+2000,"IBD","Prevalence","Elderly (65+)","Denmark",541,524,557,"Observed"
+2001,"IBD","Prevalence","Elderly (65+)","Denmark",582,565,598,"Observed"
+2002,"IBD","Prevalence","Elderly (65+)","Denmark",628,611,646,"Observed"
+2003,"IBD","Prevalence","Elderly (65+)","Denmark",672,654,690,"Observed"
+2004,"IBD","Prevalence","Elderly (65+)","Denmark",719,701,738,"Observed"
+2005,"IBD","Prevalence","Elderly (65+)","Denmark",769,749,788,"Observed"
+2006,"IBD","Prevalence","Elderly (65+)","Denmark",804,784,823,"Observed"
+2007,"IBD","Prevalence","Elderly (65+)","Denmark",837,818,857,"Observed"
+2008,"IBD","Prevalence","Elderly (65+)","Denmark",862,843,882,"Observed"
+2009,"IBD","Prevalence","Elderly (65+)","Denmark",907,887,927,"Observed"
+2010,"IBD","Prevalence","Elderly (65+)","Denmark",948,928,968,"Observed"
+2011,"IBD","Prevalence","Elderly (65+)","Denmark",988,969,1008,"Observed"
+2012,"IBD","Prevalence","Elderly (65+)","Denmark",1023,1003,1043,"Observed"
+2013,"IBD","Prevalence","Elderly (65+)","Denmark",1060,1040,1080,"Observed"
+2014,"IBD","Prevalence","Elderly (65+)","Denmark",1092,1072,1112,"Observed"
+2015,"IBD","Prevalence","Elderly (65+)","Denmark",1123,1103,1143,"Observed"
+2016,"IBD","Prevalence","Elderly (65+)","Denmark",1152,1132,1172,"Observed"
+2017,"IBD","Prevalence","Elderly (65+)","Denmark",1181,1161,1202,"Observed"
+2018,"IBD","Prevalence","Elderly (65+)","Denmark",1218,1210,1226,"Forecasted"
+2019,"IBD","Prevalence","Elderly (65+)","Denmark",1255,1240,1269,"Forecasted"
+2020,"IBD","Prevalence","Elderly (65+)","Denmark",1290,1271,1310,"Forecasted"
+2021,"IBD","Prevalence","Elderly (65+)","Denmark",1326,1302,1350,"Forecasted"
+2022,"IBD","Prevalence","Elderly (65+)","Denmark",1361,1333,1389,"Forecasted"
+2023,"IBD","Prevalence","Elderly (65+)","Denmark",1396,1364,1428,"Forecasted"
+2024,"IBD","Prevalence","Elderly (65+)","Denmark",1431,1396,1467,"Forecasted"
+2025,"IBD","Prevalence","Elderly (65+)","Denmark",1466,1427,1505,"Forecasted"
+2026,"IBD","Prevalence","Elderly (65+)","Denmark",1501,1459,1543,"Forecasted"
+2027,"IBD","Prevalence","Elderly (65+)","Denmark",1536,1490,1581,"Forecasted"
+2028,"IBD","Prevalence","Elderly (65+)","Denmark",1571,1522,1619,"Forecasted"
+2029,"IBD","Prevalence","Elderly (65+)","Denmark",1605,1554,1657,"Forecasted"
+2030,"IBD","Prevalence","Elderly (65+)","Denmark",1640,1585,1695,"Forecasted"
+2031,"IBD","Prevalence","Elderly (65+)","Denmark",1675,1617,1733,"Forecasted"
+2032,"IBD","Prevalence","Elderly (65+)","Denmark",1710,1648,1771,"Forecasted"
+2033,"IBD","Prevalence","Elderly (65+)","Denmark",1745,1680,1809,"Forecasted"
+2034,"IBD","Prevalence","Elderly (65+)","Denmark",1779,1712,1847,"Forecasted"
+2035,"IBD","Prevalence","Elderly (65+)","Denmark",1814,1743,1885,"Forecasted"
+2007,"IBD","Prevalence","Elderly (65+)","Hungary",299,262,336,"Observed"
+2008,"IBD","Prevalence","Elderly (65+)","Hungary",328,289,367,"Observed"
+2009,"IBD","Prevalence","Elderly (65+)","Hungary",353,312,393,"Observed"
+2010,"IBD","Prevalence","Elderly (65+)","Hungary",386,344,428,"Observed"
+2011,"IBD","Prevalence","Elderly (65+)","Hungary",429,384,473,"Observed"
+2012,"IBD","Prevalence","Elderly (65+)","Hungary",464,418,510,"Observed"
+2013,"IBD","Prevalence","Elderly (65+)","Hungary",499,451,546,"Observed"
+2014,"IBD","Prevalence","Elderly (65+)","Hungary",545,495,595,"Observed"
+2015,"IBD","Prevalence","Elderly (65+)","Hungary",589,537,641,"Observed"
+2016,"IBD","Prevalence","Elderly (65+)","Hungary",647,592,701,"Observed"
+2017,"IBD","Prevalence","Elderly (65+)","Hungary",671,616,726,"Observed"
+2018,"IBD","Prevalence","Elderly (65+)","Hungary",706,691,721,"Forecasted"
+2019,"IBD","Prevalence","Elderly (65+)","Hungary",743,718,768,"Forecasted"
+2020,"IBD","Prevalence","Elderly (65+)","Hungary",780,747,812,"Forecasted"
+2021,"IBD","Prevalence","Elderly (65+)","Hungary",817,779,856,"Forecasted"
+2022,"IBD","Prevalence","Elderly (65+)","Hungary",855,812,898,"Forecasted"
+2023,"IBD","Prevalence","Elderly (65+)","Hungary",893,845,940,"Forecasted"
+2024,"IBD","Prevalence","Elderly (65+)","Hungary",930,879,982,"Forecasted"
+2025,"IBD","Prevalence","Elderly (65+)","Hungary",968,913,1024,"Forecasted"
+2026,"IBD","Prevalence","Elderly (65+)","Hungary",1006,947,1065,"Forecasted"
+2027,"IBD","Prevalence","Elderly (65+)","Hungary",1044,981,1107,"Forecasted"
+2028,"IBD","Prevalence","Elderly (65+)","Hungary",1082,1015,1148,"Forecasted"
+2029,"IBD","Prevalence","Elderly (65+)","Hungary",1120,1049,1190,"Forecasted"
+2030,"IBD","Prevalence","Elderly (65+)","Hungary",1157,1083,1232,"Forecasted"
+2031,"IBD","Prevalence","Elderly (65+)","Hungary",1195,1117,1273,"Forecasted"
+2032,"IBD","Prevalence","Elderly (65+)","Hungary",1233,1152,1315,"Forecasted"
+2033,"IBD","Prevalence","Elderly (65+)","Hungary",1271,1186,1356,"Forecasted"
+2034,"IBD","Prevalence","Elderly (65+)","Hungary",1309,1220,1398,"Forecasted"
+2035,"IBD","Prevalence","Elderly (65+)","Hungary",1347,1254,1439,"Forecasted"
+2005,"IBD","Prevalence","Elderly (65+)","ISRAEL",506,489,523,"Observed"
+2006,"IBD","Prevalence","Elderly (65+)","ISRAEL",542,524,559,"Observed"
+2007,"IBD","Prevalence","Elderly (65+)","ISRAEL",579,561,597,"Observed"
+2008,"IBD","Prevalence","Elderly (65+)","ISRAEL",603,585,621,"Observed"
+2009,"IBD","Prevalence","Elderly (65+)","ISRAEL",640,621,658,"Observed"
+2010,"IBD","Prevalence","Elderly (65+)","ISRAEL",674,655,692,"Observed"
+2011,"IBD","Prevalence","Elderly (65+)","ISRAEL",711,693,730,"Observed"
+2012,"IBD","Prevalence","Elderly (65+)","ISRAEL",742,723,760,"Observed"
+2013,"IBD","Prevalence","Elderly (65+)","ISRAEL",771,752,789,"Observed"
+2014,"IBD","Prevalence","Elderly (65+)","ISRAEL",804,785,822,"Observed"
+2015,"IBD","Prevalence","Elderly (65+)","ISRAEL",830,812,849,"Observed"
+2016,"IBD","Prevalence","Elderly (65+)","ISRAEL",859,841,877,"Observed"
+2017,"IBD","Prevalence","Elderly (65+)","ISRAEL",884,866,903,"Observed"
+2018,"IBD","Prevalence","Elderly (65+)","ISRAEL",910,892,928,"Observed"
+2019,"IBD","Prevalence","Elderly (65+)","ISRAEL",936,918,954,"Observed"
+2020,"IBD","Prevalence","Elderly (65+)","ISRAEL",957,939,975,"Observed"
+2021,"IBD","Prevalence","Elderly (65+)","ISRAEL",988,984,993,"Forecasted"
+2022,"IBD","Prevalence","Elderly (65+)","ISRAEL",1015,1010,1020,"Forecasted"
+2023,"IBD","Prevalence","Elderly (65+)","ISRAEL",1041,1036,1047,"Forecasted"
+2024,"IBD","Prevalence","Elderly (65+)","ISRAEL",1068,1061,1075,"Forecasted"
+2025,"IBD","Prevalence","Elderly (65+)","ISRAEL",1095,1087,1102,"Forecasted"
+2026,"IBD","Prevalence","Elderly (65+)","ISRAEL",1121,1113,1129,"Forecasted"
+2027,"IBD","Prevalence","Elderly (65+)","ISRAEL",1148,1139,1157,"Forecasted"
+2028,"IBD","Prevalence","Elderly (65+)","ISRAEL",1174,1165,1184,"Forecasted"
+2029,"IBD","Prevalence","Elderly (65+)","ISRAEL",1201,1190,1211,"Forecasted"
+2030,"IBD","Prevalence","Elderly (65+)","ISRAEL",1227,1216,1238,"Forecasted"
+2031,"IBD","Prevalence","Elderly (65+)","ISRAEL",1254,1242,1266,"Forecasted"
+2032,"IBD","Prevalence","Elderly (65+)","ISRAEL",1280,1268,1293,"Forecasted"
+2033,"IBD","Prevalence","Elderly (65+)","ISRAEL",1307,1294,1320,"Forecasted"
+2034,"IBD","Prevalence","Elderly (65+)","ISRAEL",1334,1319,1348,"Forecasted"
+2035,"IBD","Prevalence","Elderly (65+)","ISRAEL",1360,1345,1375,"Forecasted"
+2009,"IBD","Prevalence","Elderly (65+)","Scotland",907,854,961,"Observed"
+2010,"IBD","Prevalence","Elderly (65+)","Scotland",960,905,1015,"Observed"
+2011,"IBD","Prevalence","Elderly (65+)","Scotland",1028,972,1084,"Observed"
+2012,"IBD","Prevalence","Elderly (65+)","Scotland",1078,1021,1135,"Observed"
+2013,"IBD","Prevalence","Elderly (65+)","Scotland",1111,1055,1168,"Observed"
+2014,"IBD","Prevalence","Elderly (65+)","Scotland",1149,1092,1206,"Observed"
+2015,"IBD","Prevalence","Elderly (65+)","Scotland",1179,1121,1236,"Observed"
+2016,"IBD","Prevalence","Elderly (65+)","Scotland",1213,1156,1271,"Observed"
+2017,"IBD","Prevalence","Elderly (65+)","Scotland",1239,1182,1297,"Observed"
+2018,"IBD","Prevalence","Elderly (65+)","Scotland",1285,1266,1304,"Forecasted"
+2019,"IBD","Prevalence","Elderly (65+)","Scotland",1329,1294,1364,"Forecasted"
+2020,"IBD","Prevalence","Elderly (65+)","Scotland",1372,1324,1420,"Forecasted"
+2021,"IBD","Prevalence","Elderly (65+)","Scotland",1415,1356,1475,"Forecasted"
+2022,"IBD","Prevalence","Elderly (65+)","Scotland",1458,1387,1528,"Forecasted"
+2023,"IBD","Prevalence","Elderly (65+)","Scotland",1500,1420,1580,"Forecasted"
+2024,"IBD","Prevalence","Elderly (65+)","Scotland",1542,1453,1631,"Forecasted"
+2025,"IBD","Prevalence","Elderly (65+)","Scotland",1584,1486,1681,"Forecasted"
+2026,"IBD","Prevalence","Elderly (65+)","Scotland",1625,1519,1731,"Forecasted"
+2027,"IBD","Prevalence","Elderly (65+)","Scotland",1667,1553,1781,"Forecasted"
+2028,"IBD","Prevalence","Elderly (65+)","Scotland",1708,1586,1830,"Forecasted"
+2029,"IBD","Prevalence","Elderly (65+)","Scotland",1750,1620,1880,"Forecasted"
+2030,"IBD","Prevalence","Elderly (65+)","Scotland",1791,1653,1929,"Forecasted"
+2031,"IBD","Prevalence","Elderly (65+)","Scotland",1833,1687,1978,"Forecasted"
+2032,"IBD","Prevalence","Elderly (65+)","Scotland",1874,1721,2028,"Forecasted"
+2033,"IBD","Prevalence","Elderly (65+)","Scotland",1916,1754,2077,"Forecasted"
+2034,"IBD","Prevalence","Elderly (65+)","Scotland",1957,1788,2126,"Forecasted"
+2035,"IBD","Prevalence","Elderly (65+)","Scotland",1998,1822,2175,"Forecasted"
+2004,"IBD","Prevalence","Elderly (65+)","Sweden",563,551,575,"Observed"
+2005,"IBD","Prevalence","Elderly (65+)","Sweden",602,590,615,"Observed"
+2006,"IBD","Prevalence","Elderly (65+)","Sweden",644,632,657,"Observed"
+2007,"IBD","Prevalence","Elderly (65+)","Sweden",686,673,699,"Observed"
+2008,"IBD","Prevalence","Elderly (65+)","Sweden",733,720,747,"Observed"
+2009,"IBD","Prevalence","Elderly (65+)","Sweden",787,773,800,"Observed"
+2010,"IBD","Prevalence","Elderly (65+)","Sweden",844,830,858,"Observed"
+2011,"IBD","Prevalence","Elderly (65+)","Sweden",896,882,910,"Observed"
+2012,"IBD","Prevalence","Elderly (65+)","Sweden",943,929,958,"Observed"
+2013,"IBD","Prevalence","Elderly (65+)","Sweden",993,979,1008,"Observed"
+2014,"IBD","Prevalence","Elderly (65+)","Sweden",1040,1026,1055,"Observed"
+2015,"IBD","Prevalence","Elderly (65+)","Sweden",1086,1071,1101,"Observed"
+2016,"IBD","Prevalence","Elderly (65+)","Sweden",1133,1118,1148,"Observed"
+2017,"IBD","Prevalence","Elderly (65+)","Sweden",1182,1166,1197,"Observed"
+2018,"IBD","Prevalence","Elderly (65+)","Sweden",1227,1212,1242,"Observed"
+2019,"IBD","Prevalence","Elderly (65+)","Sweden",1272,1256,1287,"Observed"
+2020,"IBD","Prevalence","Elderly (65+)","Sweden",1318,1302,1334,"Observed"
+2021,"IBD","Prevalence","Elderly (65+)","Sweden",1354,1338,1369,"Observed"
+2022,"IBD","Prevalence","Elderly (65+)","Sweden",1407,1398,1415,"Forecasted"
+2023,"IBD","Prevalence","Elderly (65+)","Sweden",1452,1442,1463,"Forecasted"
+2024,"IBD","Prevalence","Elderly (65+)","Sweden",1498,1486,1510,"Forecasted"
+2025,"IBD","Prevalence","Elderly (65+)","Sweden",1544,1530,1558,"Forecasted"
+2026,"IBD","Prevalence","Elderly (65+)","Sweden",1589,1574,1605,"Forecasted"
+2027,"IBD","Prevalence","Elderly (65+)","Sweden",1635,1618,1653,"Forecasted"
+2028,"IBD","Prevalence","Elderly (65+)","Sweden",1681,1661,1700,"Forecasted"
+2029,"IBD","Prevalence","Elderly (65+)","Sweden",1726,1705,1748,"Forecasted"
+2030,"IBD","Prevalence","Elderly (65+)","Sweden",1772,1749,1795,"Forecasted"
+2031,"IBD","Prevalence","Elderly (65+)","Sweden",1818,1793,1843,"Forecasted"
+2032,"IBD","Prevalence","Elderly (65+)","Sweden",1864,1837,1890,"Forecasted"
+2033,"IBD","Prevalence","Elderly (65+)","Sweden",1909,1881,1938,"Forecasted"
+2034,"IBD","Prevalence","Elderly (65+)","Sweden",1955,1925,1985,"Forecasted"
+2035,"IBD","Prevalence","Elderly (65+)","Sweden",2001,1968,2033,"Forecasted"
+2035,"IBD","Prevalence","Elderly (65+)","Global",1590,1422,1875,
+2034,"IBD","Prevalence","Elderly (65+)","Global",1589,1433,1896,
+2033,"IBD","Prevalence","Elderly (65+)","Global",1576,1306,1824,
+2032,"IBD","Prevalence","Elderly (65+)","Global",1467,1296,1687,
+2031,"IBD","Prevalence","Elderly (65+)","Global",1441,1295,1611,
+2030,"IBD","Prevalence","Elderly (65+)","Global",1400,1202,1566,
+2029,"IBD","Prevalence","Elderly (65+)","Global",1345,1200,1529,
+2028,"IBD","Prevalence","Elderly (65+)","Global",1418,1242,1611,
+2027,"IBD","Prevalence","Elderly (65+)","Global",1299,1083,1523,
+2026,"IBD","Prevalence","Elderly (65+)","Global",1258,1115,1426,
+2025,"IBD","Prevalence","Elderly (65+)","Global",1256,1090,1435,
+2024,"IBD","Prevalence","Elderly (65+)","Global",1194,1026,1437,
+2023,"IBD","Prevalence","Elderly (65+)","Global",1140,973,1330,
+2022,"IBD","Prevalence","Elderly (65+)","Global",1135,978,1420,
+2021,"IBD","Prevalence","Elderly (65+)","Global",1163,925,1521,
+2020,"IBD","Prevalence","Elderly (65+)","Global",1026,866,1229,
+2019,"IBD","Prevalence","Elderly (65+)","Global",1024,863,1240,
+2018,"IBD","Prevalence","Elderly (65+)","Global",961,857,1077,
+2017,"IBD","Prevalence","Elderly (65+)","Global",885,678,1080,
+2016,"IBD","Prevalence","Elderly (65+)","Global",943,789,1120,
+2015,"IBD","Prevalence","Elderly (65+)","Global",872,729,1071,
+2014,"IBD","Prevalence","Elderly (65+)","Global",896,661,1166,
+2013,"IBD","Prevalence","Elderly (65+)","Global",795,690,971,
+2012,"IBD","Prevalence","Elderly (65+)","Global",806,639,1100,
+2011,"IBD","Prevalence","Elderly (65+)","Global",719,558,938,
+2010,"IBD","Prevalence","Elderly (65+)","Global",784,629,976,
+2009,"IBD","Prevalence","Elderly (65+)","Global",759,584,1069,
+2008,"IBD","Prevalence","Elderly (65+)","Global",598,434,911,
+2007,"IBD","Prevalence","Elderly (65+)","Global",608,491,871,
+2002,"IBD","Prevalence","Adults (18 to 64)","Canada",507,504,510,"Observed"
+2003,"IBD","Prevalence","Adults (18 to 64)","Canada",537,533,540,"Observed"
+2004,"IBD","Prevalence","Adults (18 to 64)","Canada",563,559,566,"Observed"
+2005,"IBD","Prevalence","Adults (18 to 64)","Canada",589,586,592,"Observed"
+2006,"IBD","Prevalence","Adults (18 to 64)","Canada",613,609,616,"Observed"
+2007,"IBD","Prevalence","Adults (18 to 64)","Canada",634,630,637,"Observed"
+2008,"IBD","Prevalence","Adults (18 to 64)","Canada",656,652,659,"Observed"
+2009,"IBD","Prevalence","Adults (18 to 64)","Canada",678,674,681,"Observed"
+2010,"IBD","Prevalence","Adults (18 to 64)","Canada",699,695,702,"Observed"
+2011,"IBD","Prevalence","Adults (18 to 64)","Canada",719,716,723,"Observed"
+2012,"IBD","Prevalence","Adults (18 to 64)","Canada",737,734,741,"Observed"
+2013,"IBD","Prevalence","Adults (18 to 64)","Canada",757,753,761,"Observed"
+2014,"IBD","Prevalence","Adults (18 to 64)","Canada",776,772,780,"Observed"
+2015,"IBD","Prevalence","Adults (18 to 64)","Canada",799,795,803,"Forecasted"
+2016,"IBD","Prevalence","Adults (18 to 64)","Canada",822,814,829,"Forecasted"
+2017,"IBD","Prevalence","Adults (18 to 64)","Canada",845,834,856,"Forecasted"
+2018,"IBD","Prevalence","Adults (18 to 64)","Canada",868,854,882,"Forecasted"
+2019,"IBD","Prevalence","Adults (18 to 64)","Canada",890,873,907,"Forecasted"
+2020,"IBD","Prevalence","Adults (18 to 64)","Canada",913,893,933,"Forecasted"
+2021,"IBD","Prevalence","Adults (18 to 64)","Canada",936,913,958,"Forecasted"
+2022,"IBD","Prevalence","Adults (18 to 64)","Canada",958,933,983,"Forecasted"
+2023,"IBD","Prevalence","Adults (18 to 64)","Canada",981,953,1008,"Forecasted"
+2024,"IBD","Prevalence","Adults (18 to 64)","Canada",1003,973,1033,"Forecasted"
+2025,"IBD","Prevalence","Adults (18 to 64)","Canada",1026,993,1058,"Forecasted"
+2026,"IBD","Prevalence","Adults (18 to 64)","Canada",1048,1014,1083,"Forecasted"
+2027,"IBD","Prevalence","Adults (18 to 64)","Canada",1071,1034,1108,"Forecasted"
+2028,"IBD","Prevalence","Adults (18 to 64)","Canada",1093,1054,1133,"Forecasted"
+2029,"IBD","Prevalence","Adults (18 to 64)","Canada",1116,1075,1157,"Forecasted"
+2030,"IBD","Prevalence","Adults (18 to 64)","Canada",1138,1095,1182,"Forecasted"
+2031,"IBD","Prevalence","Adults (18 to 64)","Canada",1161,1115,1206,"Forecasted"
+2032,"IBD","Prevalence","Adults (18 to 64)","Canada",1183,1136,1231,"Forecasted"
+2033,"IBD","Prevalence","Adults (18 to 64)","Canada",1206,1156,1256,"Forecasted"
+2034,"IBD","Prevalence","Adults (18 to 64)","Canada",1228,1177,1280,"Forecasted"
+2035,"IBD","Prevalence","Adults (18 to 64)","Canada",1251,1197,1304,"Forecasted"
+2011,"IBD","Prevalence","Adults (18 to 64)","Catalonia",292,288,297,"Observed"
+2012,"IBD","Prevalence","Adults (18 to 64)","Catalonia",326,321,331,"Observed"
+2013,"IBD","Prevalence","Adults (18 to 64)","Catalonia",359,354,365,"Observed"
+2014,"IBD","Prevalence","Adults (18 to 64)","Catalonia",394,388,399,"Observed"
+2015,"IBD","Prevalence","Adults (18 to 64)","Catalonia",424,419,430,"Observed"
+2016,"IBD","Prevalence","Adults (18 to 64)","Catalonia",452,446,458,"Observed"
+2017,"IBD","Prevalence","Adults (18 to 64)","Catalonia",487,481,493,"Observed"
+2018,"IBD","Prevalence","Adults (18 to 64)","Catalonia",513,506,519,"Observed"
+2019,"IBD","Prevalence","Adults (18 to 64)","Catalonia",535,528,541,"Observed"
+2020,"IBD","Prevalence","Adults (18 to 64)","Catalonia",542,536,549,"Observed"
+2021,"IBD","Prevalence","Adults (18 to 64)","Catalonia",528,522,535,"Observed"
+2022,"IBD","Prevalence","Adults (18 to 64)","Catalonia",544,538,551,"Observed"
+2023,"IBD","Prevalence","Adults (18 to 64)","Catalonia",547,541,554,"Observed"
+2024,"IBD","Prevalence","Adults (18 to 64)","Catalonia",554,527,580,"Forecasted"
+2025,"IBD","Prevalence","Adults (18 to 64)","Catalonia",559,527,591,"Forecasted"
+2026,"IBD","Prevalence","Adults (18 to 64)","Catalonia",564,527,602,"Forecasted"
+2027,"IBD","Prevalence","Adults (18 to 64)","Catalonia",570,526,613,"Forecasted"
+2028,"IBD","Prevalence","Adults (18 to 64)","Catalonia",575,526,624,"Forecasted"
+2029,"IBD","Prevalence","Adults (18 to 64)","Catalonia",580,526,635,"Forecasted"
+2030,"IBD","Prevalence","Adults (18 to 64)","Catalonia",586,525,646,"Forecasted"
+2031,"IBD","Prevalence","Adults (18 to 64)","Catalonia",591,525,657,"Forecasted"
+2032,"IBD","Prevalence","Adults (18 to 64)","Catalonia",596,524,669,"Forecasted"
+2033,"IBD","Prevalence","Adults (18 to 64)","Catalonia",602,524,680,"Forecasted"
+2034,"IBD","Prevalence","Adults (18 to 64)","Catalonia",607,524,691,"Forecasted"
+2035,"IBD","Prevalence","Adults (18 to 64)","Catalonia",613,523,702,"Forecasted"
+1990,"IBD","Prevalence","Adults (18 to 64)","Denmark",247,241,252,"Observed"
+1991,"IBD","Prevalence","Adults (18 to 64)","Denmark",266,260,271,"Observed"
+1992,"IBD","Prevalence","Adults (18 to 64)","Denmark",287,281,293,"Observed"
+1993,"IBD","Prevalence","Adults (18 to 64)","Denmark",319,313,325,"Observed"
+1994,"IBD","Prevalence","Adults (18 to 64)","Denmark",350,344,357,"Observed"
+1995,"IBD","Prevalence","Adults (18 to 64)","Denmark",382,375,389,"Observed"
+1996,"IBD","Prevalence","Adults (18 to 64)","Denmark",415,408,421,"Observed"
+1997,"IBD","Prevalence","Adults (18 to 64)","Denmark",446,439,453,"Observed"
+1998,"IBD","Prevalence","Adults (18 to 64)","Denmark",481,473,488,"Observed"
+1999,"IBD","Prevalence","Adults (18 to 64)","Denmark",516,508,523,"Observed"
+2000,"IBD","Prevalence","Adults (18 to 64)","Denmark",550,542,558,"Observed"
+2001,"IBD","Prevalence","Adults (18 to 64)","Denmark",583,574,591,"Observed"
+2002,"IBD","Prevalence","Adults (18 to 64)","Denmark",620,611,628,"Observed"
+2003,"IBD","Prevalence","Adults (18 to 64)","Denmark",654,646,663,"Observed"
+2004,"IBD","Prevalence","Adults (18 to 64)","Denmark",692,683,701,"Observed"
+2005,"IBD","Prevalence","Adults (18 to 64)","Denmark",731,722,740,"Observed"
+2006,"IBD","Prevalence","Adults (18 to 64)","Denmark",769,759,778,"Observed"
+2007,"IBD","Prevalence","Adults (18 to 64)","Denmark",804,794,813,"Observed"
+2008,"IBD","Prevalence","Adults (18 to 64)","Denmark",840,830,849,"Observed"
+2009,"IBD","Prevalence","Adults (18 to 64)","Denmark",878,868,888,"Observed"
+2010,"IBD","Prevalence","Adults (18 to 64)","Denmark",915,905,926,"Observed"
+2011,"IBD","Prevalence","Adults (18 to 64)","Denmark",953,942,963,"Observed"
+2012,"IBD","Prevalence","Adults (18 to 64)","Denmark",990,979,1000,"Observed"
+2013,"IBD","Prevalence","Adults (18 to 64)","Denmark",1026,1016,1037,"Observed"
+2014,"IBD","Prevalence","Adults (18 to 64)","Denmark",1060,1049,1071,"Observed"
+2015,"IBD","Prevalence","Adults (18 to 64)","Denmark",1095,1084,1106,"Observed"
+2016,"IBD","Prevalence","Adults (18 to 64)","Denmark",1130,1119,1141,"Observed"
+2017,"IBD","Prevalence","Adults (18 to 64)","Denmark",1163,1151,1174,"Observed"
+2018,"IBD","Prevalence","Adults (18 to 64)","Denmark",1199,1195,1203,"Forecasted"
+2019,"IBD","Prevalence","Adults (18 to 64)","Denmark",1235,1229,1242,"Forecasted"
+2020,"IBD","Prevalence","Adults (18 to 64)","Denmark",1272,1262,1281,"Forecasted"
+2021,"IBD","Prevalence","Adults (18 to 64)","Denmark",1308,1296,1320,"Forecasted"
+2022,"IBD","Prevalence","Adults (18 to 64)","Denmark",1344,1330,1358,"Forecasted"
+2023,"IBD","Prevalence","Adults (18 to 64)","Denmark",1380,1364,1396,"Forecasted"
+2024,"IBD","Prevalence","Adults (18 to 64)","Denmark",1416,1398,1434,"Forecasted"
+2025,"IBD","Prevalence","Adults (18 to 64)","Denmark",1452,1432,1471,"Forecasted"
+2026,"IBD","Prevalence","Adults (18 to 64)","Denmark",1488,1467,1509,"Forecasted"
+2027,"IBD","Prevalence","Adults (18 to 64)","Denmark",1524,1501,1547,"Forecasted"
+2028,"IBD","Prevalence","Adults (18 to 64)","Denmark",1560,1535,1584,"Forecasted"
+2029,"IBD","Prevalence","Adults (18 to 64)","Denmark",1596,1570,1621,"Forecasted"
+2030,"IBD","Prevalence","Adults (18 to 64)","Denmark",1631,1604,1659,"Forecasted"
+2031,"IBD","Prevalence","Adults (18 to 64)","Denmark",1667,1638,1696,"Forecasted"
+2032,"IBD","Prevalence","Adults (18 to 64)","Denmark",1703,1673,1734,"Forecasted"
+2033,"IBD","Prevalence","Adults (18 to 64)","Denmark",1739,1707,1771,"Forecasted"
+2034,"IBD","Prevalence","Adults (18 to 64)","Denmark",1775,1742,1808,"Forecasted"
+2035,"IBD","Prevalence","Adults (18 to 64)","Denmark",1811,1776,1846,"Forecasted"
+2007,"IBD","Prevalence","Adults (18 to 64)","Hungary",559,526,591,"Observed"
+2008,"IBD","Prevalence","Adults (18 to 64)","Hungary",575,541,608,"Observed"
+2009,"IBD","Prevalence","Adults (18 to 64)","Hungary",588,555,622,"Observed"
+2010,"IBD","Prevalence","Adults (18 to 64)","Hungary",609,575,643,"Observed"
+2011,"IBD","Prevalence","Adults (18 to 64)","Hungary",624,589,658,"Observed"
+2012,"IBD","Prevalence","Adults (18 to 64)","Hungary",641,606,676,"Observed"
+2013,"IBD","Prevalence","Adults (18 to 64)","Hungary",660,624,696,"Observed"
+2014,"IBD","Prevalence","Adults (18 to 64)","Hungary",672,636,708,"Observed"
+2015,"IBD","Prevalence","Adults (18 to 64)","Hungary",687,651,724,"Observed"
+2016,"IBD","Prevalence","Adults (18 to 64)","Hungary",687,650,723,"Observed"
+2017,"IBD","Prevalence","Adults (18 to 64)","Hungary",700,663,737,"Observed"
+2018,"IBD","Prevalence","Adults (18 to 64)","Hungary",717,709,726,"Forecasted"
+2019,"IBD","Prevalence","Adults (18 to 64)","Hungary",733,718,748,"Forecasted"
+2020,"IBD","Prevalence","Adults (18 to 64)","Hungary",749,729,768,"Forecasted"
+2021,"IBD","Prevalence","Adults (18 to 64)","Hungary",764,740,787,"Forecasted"
+2022,"IBD","Prevalence","Adults (18 to 64)","Hungary",778,751,806,"Forecasted"
+2023,"IBD","Prevalence","Adults (18 to 64)","Hungary",793,763,823,"Forecasted"
+2024,"IBD","Prevalence","Adults (18 to 64)","Hungary",808,774,841,"Forecasted"
+2025,"IBD","Prevalence","Adults (18 to 64)","Hungary",822,786,858,"Forecasted"
+2026,"IBD","Prevalence","Adults (18 to 64)","Hungary",837,798,876,"Forecasted"
+2027,"IBD","Prevalence","Adults (18 to 64)","Hungary",851,809,893,"Forecasted"
+2028,"IBD","Prevalence","Adults (18 to 64)","Hungary",866,821,910,"Forecasted"
+2029,"IBD","Prevalence","Adults (18 to 64)","Hungary",880,833,927,"Forecasted"
+2030,"IBD","Prevalence","Adults (18 to 64)","Hungary",894,845,944,"Forecasted"
+2031,"IBD","Prevalence","Adults (18 to 64)","Hungary",909,856,961,"Forecasted"
+2032,"IBD","Prevalence","Adults (18 to 64)","Hungary",923,868,979,"Forecasted"
+2033,"IBD","Prevalence","Adults (18 to 64)","Hungary",938,880,996,"Forecasted"
+2034,"IBD","Prevalence","Adults (18 to 64)","Hungary",952,891,1013,"Forecasted"
+2035,"IBD","Prevalence","Adults (18 to 64)","Hungary",967,903,1030,"Forecasted"
+2005,"IBD","Prevalence","Adults (18 to 64)","ISRAEL",472,465,478,"Observed"
+2006,"IBD","Prevalence","Adults (18 to 64)","ISRAEL",502,495,509,"Observed"
+2007,"IBD","Prevalence","Adults (18 to 64)","ISRAEL",531,523,538,"Observed"
+2008,"IBD","Prevalence","Adults (18 to 64)","ISRAEL",550,543,557,"Observed"
+2009,"IBD","Prevalence","Adults (18 to 64)","ISRAEL",574,567,581,"Observed"
+2010,"IBD","Prevalence","Adults (18 to 64)","ISRAEL",601,594,608,"Observed"
+2011,"IBD","Prevalence","Adults (18 to 64)","ISRAEL",624,616,631,"Observed"
+2012,"IBD","Prevalence","Adults (18 to 64)","ISRAEL",649,642,657,"Observed"
+2013,"IBD","Prevalence","Adults (18 to 64)","ISRAEL",674,666,681,"Observed"
+2014,"IBD","Prevalence","Adults (18 to 64)","ISRAEL",695,688,703,"Observed"
+2015,"IBD","Prevalence","Adults (18 to 64)","ISRAEL",719,711,726,"Observed"
+2016,"IBD","Prevalence","Adults (18 to 64)","ISRAEL",740,732,747,"Observed"
+2017,"IBD","Prevalence","Adults (18 to 64)","ISRAEL",761,753,769,"Observed"
+2018,"IBD","Prevalence","Adults (18 to 64)","ISRAEL",781,773,789,"Observed"
+2019,"IBD","Prevalence","Adults (18 to 64)","ISRAEL",799,791,807,"Observed"
+2020,"IBD","Prevalence","Adults (18 to 64)","ISRAEL",816,808,824,"Observed"
+2021,"IBD","Prevalence","Adults (18 to 64)","ISRAEL",838,835,841,"Forecasted"
+2022,"IBD","Prevalence","Adults (18 to 64)","ISRAEL",859,854,865,"Forecasted"
+2023,"IBD","Prevalence","Adults (18 to 64)","ISRAEL",881,873,888,"Forecasted"
+2024,"IBD","Prevalence","Adults (18 to 64)","ISRAEL",902,892,912,"Forecasted"
+2025,"IBD","Prevalence","Adults (18 to 64)","ISRAEL",923,911,934,"Forecasted"
+2026,"IBD","Prevalence","Adults (18 to 64)","ISRAEL",944,931,957,"Forecasted"
+2027,"IBD","Prevalence","Adults (18 to 64)","ISRAEL",965,950,980,"Forecasted"
+2028,"IBD","Prevalence","Adults (18 to 64)","ISRAEL",986,970,1002,"Forecasted"
+2029,"IBD","Prevalence","Adults (18 to 64)","ISRAEL",1007,989,1025,"Forecasted"
+2030,"IBD","Prevalence","Adults (18 to 64)","ISRAEL",1028,1009,1047,"Forecasted"
+2031,"IBD","Prevalence","Adults (18 to 64)","ISRAEL",1049,1028,1069,"Forecasted"
+2032,"IBD","Prevalence","Adults (18 to 64)","ISRAEL",1070,1048,1091,"Forecasted"
+2033,"IBD","Prevalence","Adults (18 to 64)","ISRAEL",1090,1067,1114,"Forecasted"
+2034,"IBD","Prevalence","Adults (18 to 64)","ISRAEL",1111,1087,1136,"Forecasted"
+2035,"IBD","Prevalence","Adults (18 to 64)","ISRAEL",1132,1106,1158,"Forecasted"
+2009,"IBD","Prevalence","Adults (18 to 64)","Scotland",717,695,740,"Observed"
+2010,"IBD","Prevalence","Adults (18 to 64)","Scotland",748,725,771,"Observed"
+2011,"IBD","Prevalence","Adults (18 to 64)","Scotland",773,750,797,"Observed"
+2012,"IBD","Prevalence","Adults (18 to 64)","Scotland",804,780,827,"Observed"
+2013,"IBD","Prevalence","Adults (18 to 64)","Scotland",829,805,853,"Observed"
+2014,"IBD","Prevalence","Adults (18 to 64)","Scotland",860,835,884,"Observed"
+2015,"IBD","Prevalence","Adults (18 to 64)","Scotland",886,862,911,"Observed"
+2016,"IBD","Prevalence","Adults (18 to 64)","Scotland",898,874,923,"Observed"
+2017,"IBD","Prevalence","Adults (18 to 64)","Scotland",917,893,942,"Observed"
+2018,"IBD","Prevalence","Adults (18 to 64)","Scotland",946,938,954,"Forecasted"
+2019,"IBD","Prevalence","Adults (18 to 64)","Scotland",973,959,987,"Forecasted"
+2020,"IBD","Prevalence","Adults (18 to 64)","Scotland",999,981,1018,"Forecasted"
+2021,"IBD","Prevalence","Adults (18 to 64)","Scotland",1025,1003,1048,"Forecasted"
+2022,"IBD","Prevalence","Adults (18 to 64)","Scotland",1051,1025,1077,"Forecasted"
+2023,"IBD","Prevalence","Adults (18 to 64)","Scotland",1076,1047,1105,"Forecasted"
+2024,"IBD","Prevalence","Adults (18 to 64)","Scotland",1102,1070,1133,"Forecasted"
+2025,"IBD","Prevalence","Adults (18 to 64)","Scotland",1127,1092,1162,"Forecasted"
+2026,"IBD","Prevalence","Adults (18 to 64)","Scotland",1152,1115,1190,"Forecasted"
+2027,"IBD","Prevalence","Adults (18 to 64)","Scotland",1178,1137,1218,"Forecasted"
+2028,"IBD","Prevalence","Adults (18 to 64)","Scotland",1203,1160,1246,"Forecasted"
+2029,"IBD","Prevalence","Adults (18 to 64)","Scotland",1228,1182,1274,"Forecasted"
+2030,"IBD","Prevalence","Adults (18 to 64)","Scotland",1253,1205,1302,"Forecasted"
+2031,"IBD","Prevalence","Adults (18 to 64)","Scotland",1279,1227,1330,"Forecasted"
+2032,"IBD","Prevalence","Adults (18 to 64)","Scotland",1304,1250,1358,"Forecasted"
+2033,"IBD","Prevalence","Adults (18 to 64)","Scotland",1329,1272,1386,"Forecasted"
+2034,"IBD","Prevalence","Adults (18 to 64)","Scotland",1354,1295,1414,"Forecasted"
+2035,"IBD","Prevalence","Adults (18 to 64)","Scotland",1380,1317,1442,"Forecasted"
+2004,"IBD","Prevalence","Adults (18 to 64)","Sweden",705,698,712,"Observed"
+2005,"IBD","Prevalence","Adults (18 to 64)","Sweden",738,730,745,"Observed"
+2006,"IBD","Prevalence","Adults (18 to 64)","Sweden",767,760,775,"Observed"
+2007,"IBD","Prevalence","Adults (18 to 64)","Sweden",793,785,800,"Observed"
+2008,"IBD","Prevalence","Adults (18 to 64)","Sweden",816,809,824,"Observed"
+2009,"IBD","Prevalence","Adults (18 to 64)","Sweden",845,838,853,"Observed"
+2010,"IBD","Prevalence","Adults (18 to 64)","Sweden",868,860,875,"Observed"
+2011,"IBD","Prevalence","Adults (18 to 64)","Sweden",889,881,897,"Observed"
+2012,"IBD","Prevalence","Adults (18 to 64)","Sweden",914,906,922,"Observed"
+2013,"IBD","Prevalence","Adults (18 to 64)","Sweden",935,927,943,"Observed"
+2014,"IBD","Prevalence","Adults (18 to 64)","Sweden",955,947,963,"Observed"
+2015,"IBD","Prevalence","Adults (18 to 64)","Sweden",973,965,981,"Observed"
+2016,"IBD","Prevalence","Adults (18 to 64)","Sweden",985,977,993,"Observed"
+2017,"IBD","Prevalence","Adults (18 to 64)","Sweden",996,988,1004,"Observed"
+2018,"IBD","Prevalence","Adults (18 to 64)","Sweden",1008,1000,1016,"Observed"
+2019,"IBD","Prevalence","Adults (18 to 64)","Sweden",1018,1010,1026,"Observed"
+2020,"IBD","Prevalence","Adults (18 to 64)","Sweden",1037,1029,1045,"Observed"
+2021,"IBD","Prevalence","Adults (18 to 64)","Sweden",1055,1047,1063,"Observed"
+2022,"IBD","Prevalence","Adults (18 to 64)","Sweden",1072,1065,1078,"Forecasted"
+2023,"IBD","Prevalence","Adults (18 to 64)","Sweden",1088,1077,1100,"Forecasted"
+2024,"IBD","Prevalence","Adults (18 to 64)","Sweden",1105,1089,1121,"Forecasted"
+2025,"IBD","Prevalence","Adults (18 to 64)","Sweden",1122,1101,1142,"Forecasted"
+2026,"IBD","Prevalence","Adults (18 to 64)","Sweden",1138,1114,1162,"Forecasted"
+2027,"IBD","Prevalence","Adults (18 to 64)","Sweden",1155,1127,1182,"Forecasted"
+2028,"IBD","Prevalence","Adults (18 to 64)","Sweden",1171,1140,1202,"Forecasted"
+2029,"IBD","Prevalence","Adults (18 to 64)","Sweden",1187,1153,1222,"Forecasted"
+2030,"IBD","Prevalence","Adults (18 to 64)","Sweden",1204,1167,1241,"Forecasted"
+2031,"IBD","Prevalence","Adults (18 to 64)","Sweden",1220,1180,1260,"Forecasted"
+2032,"IBD","Prevalence","Adults (18 to 64)","Sweden",1237,1194,1279,"Forecasted"
+2033,"IBD","Prevalence","Adults (18 to 64)","Sweden",1253,1207,1298,"Forecasted"
+2034,"IBD","Prevalence","Adults (18 to 64)","Sweden",1269,1221,1318,"Forecasted"
+2035,"IBD","Prevalence","Adults (18 to 64)","Sweden",1285,1234,1337,"Forecasted"
+2035,"IBD","Prevalence","Adults (18 to 64)","Global",1107,955,1325,
+2034,"IBD","Prevalence","Adults (18 to 64)","Global",1185,1022,1392,
+2033,"IBD","Prevalence","Adults (18 to 64)","Global",1151,963,1354,
+2032,"IBD","Prevalence","Adults (18 to 64)","Global",1093,921,1305,
+2031,"IBD","Prevalence","Adults (18 to 64)","Global",1034,920,1233,
+2030,"IBD","Prevalence","Adults (18 to 64)","Global",1041,825,1294,
+2029,"IBD","Prevalence","Adults (18 to 64)","Global",1079,882,1284,
+2028,"IBD","Prevalence","Adults (18 to 64)","Global",1061,865,1286,
+2027,"IBD","Prevalence","Adults (18 to 64)","Global",974,822,1149,
+2026,"IBD","Prevalence","Adults (18 to 64)","Global",1017,880,1182,
+2025,"IBD","Prevalence","Adults (18 to 64)","Global",920,785,1097,
+2024,"IBD","Prevalence","Adults (18 to 64)","Global",931,748,1075,
+2023,"IBD","Prevalence","Adults (18 to 64)","Global",935,790,1127,
+2022,"IBD","Prevalence","Adults (18 to 64)","Global",901,765,1071,
+2021,"IBD","Prevalence","Adults (18 to 64)","Global",849,713,1045,
+2020,"IBD","Prevalence","Adults (18 to 64)","Global",842,734,954,
+2019,"IBD","Prevalence","Adults (18 to 64)","Global",853,735,1031,
+2018,"IBD","Prevalence","Adults (18 to 64)","Global",849,713,1006,
+2017,"IBD","Prevalence","Adults (18 to 64)","Global",814,711,931,
+2016,"IBD","Prevalence","Adults (18 to 64)","Global",813,706,951,
+2015,"IBD","Prevalence","Adults (18 to 64)","Global",736,595,866,
+2014,"IBD","Prevalence","Adults (18 to 64)","Global",752,605,953,
+2013,"IBD","Prevalence","Adults (18 to 64)","Global",761,629,882,
+2012,"IBD","Prevalence","Adults (18 to 64)","Global",696,580,828,
+2011,"IBD","Prevalence","Adults (18 to 64)","Global",661,532,797,
+2010,"IBD","Prevalence","Adults (18 to 64)","Global",725,636,831,
+2009,"IBD","Prevalence","Adults (18 to 64)","Global",713,618,902,
+2008,"IBD","Prevalence","Adults (18 to 64)","Global",693,597,850,
+2007,"IBD","Prevalence","Adults (18 to 64)","Global",653,559,795,
+2002,"IBD","Prevalence","Peds (<18)","Canada",48,47,50,"Observed"
+2003,"IBD","Prevalence","Peds (<18)","Canada",50,48,52,"Observed"
+2004,"IBD","Prevalence","Peds (<18)","Canada",51,49,53,"Observed"
+2005,"IBD","Prevalence","Peds (<18)","Canada",54,52,55,"Observed"
+2006,"IBD","Prevalence","Peds (<18)","Canada",56,54,58,"Observed"
+2007,"IBD","Prevalence","Peds (<18)","Canada",59,58,61,"Observed"
+2008,"IBD","Prevalence","Peds (<18)","Canada",61,59,63,"Observed"
+2009,"IBD","Prevalence","Peds (<18)","Canada",62,61,64,"Observed"
+2010,"IBD","Prevalence","Peds (<18)","Canada",63,61,65,"Observed"
+2011,"IBD","Prevalence","Peds (<18)","Canada",65,63,66,"Observed"
+2012,"IBD","Prevalence","Peds (<18)","Canada",65,64,67,"Observed"
+2013,"IBD","Prevalence","Peds (<18)","Canada",66,65,68,"Observed"
+2014,"IBD","Prevalence","Peds (<18)","Canada",67,65,69,"Observed"
+2015,"IBD","Prevalence","Peds (<18)","Canada",69,68,69,"Forecasted"
+2016,"IBD","Prevalence","Peds (<18)","Canada",69,69,70,"Forecasted"
+2017,"IBD","Prevalence","Peds (<18)","Canada",71,70,71,"Forecasted"
+2018,"IBD","Prevalence","Peds (<18)","Canada",72,71,72,"Forecasted"
+2019,"IBD","Prevalence","Peds (<18)","Canada",73,72,73,"Forecasted"
+2020,"IBD","Prevalence","Peds (<18)","Canada",74,73,74,"Forecasted"
+2021,"IBD","Prevalence","Peds (<18)","Canada",75,74,76,"Forecasted"
+2022,"IBD","Prevalence","Peds (<18)","Canada",76,75,77,"Forecasted"
+2023,"IBD","Prevalence","Peds (<18)","Canada",77,76,78,"Forecasted"
+2024,"IBD","Prevalence","Peds (<18)","Canada",78,77,79,"Forecasted"
+2025,"IBD","Prevalence","Peds (<18)","Canada",79,78,80,"Forecasted"
+2026,"IBD","Prevalence","Peds (<18)","Canada",80,79,81,"Forecasted"
+2027,"IBD","Prevalence","Peds (<18)","Canada",81,80,82,"Forecasted"
+2028,"IBD","Prevalence","Peds (<18)","Canada",82,81,84,"Forecasted"
+2029,"IBD","Prevalence","Peds (<18)","Canada",83,82,85,"Forecasted"
+2030,"IBD","Prevalence","Peds (<18)","Canada",84,83,86,"Forecasted"
+2031,"IBD","Prevalence","Peds (<18)","Canada",85,84,87,"Forecasted"
+2032,"IBD","Prevalence","Peds (<18)","Canada",86,85,88,"Forecasted"
+2033,"IBD","Prevalence","Peds (<18)","Canada",88,86,89,"Forecasted"
+2034,"IBD","Prevalence","Peds (<18)","Canada",89,87,90,"Forecasted"
+2035,"IBD","Prevalence","Peds (<18)","Canada",90,88,92,"Forecasted"
+2011,"IBD","Prevalence","Peds (<18)","Catalonia",26,24,29,"Observed"
+2012,"IBD","Prevalence","Peds (<18)","Catalonia",28,25,31,"Observed"
+2013,"IBD","Prevalence","Peds (<18)","Catalonia",35,31,38,"Observed"
+2014,"IBD","Prevalence","Peds (<18)","Catalonia",38,35,41,"Observed"
+2015,"IBD","Prevalence","Peds (<18)","Catalonia",41,38,45,"Observed"
+2016,"IBD","Prevalence","Peds (<18)","Catalonia",45,41,48,"Observed"
+2017,"IBD","Prevalence","Peds (<18)","Catalonia",50,46,53,"Observed"
+2018,"IBD","Prevalence","Peds (<18)","Catalonia",56,52,59,"Observed"
+2019,"IBD","Prevalence","Peds (<18)","Catalonia",57,53,61,"Observed"
+2020,"IBD","Prevalence","Peds (<18)","Catalonia",57,53,61,"Observed"
+2021,"IBD","Prevalence","Peds (<18)","Catalonia",46,43,50,"Observed"
+2022,"IBD","Prevalence","Peds (<18)","Catalonia",49,46,53,"Observed"
+2023,"IBD","Prevalence","Peds (<18)","Catalonia",50,46,53,"Observed"
+2024,"IBD","Prevalence","Peds (<18)","Catalonia",46,33,59,"Forecasted"
+2025,"IBD","Prevalence","Peds (<18)","Catalonia",44,28,61,"Forecasted"
+2026,"IBD","Prevalence","Peds (<18)","Catalonia",43,23,62,"Forecasted"
+2027,"IBD","Prevalence","Peds (<18)","Catalonia",41,18,64,"Forecasted"
+2028,"IBD","Prevalence","Peds (<18)","Catalonia",39,12,65,"Forecasted"
+2029,"IBD","Prevalence","Peds (<18)","Catalonia",37,7,67,"Forecasted"
+2030,"IBD","Prevalence","Peds (<18)","Catalonia",35,2,69,"Forecasted"
+2031,"IBD","Prevalence","Peds (<18)","Catalonia",34,0,70,"Forecasted"
+2032,"IBD","Prevalence","Peds (<18)","Catalonia",32,0,72,"Forecasted"
+2033,"IBD","Prevalence","Peds (<18)","Catalonia",30,0,73,"Forecasted"
+2034,"IBD","Prevalence","Peds (<18)","Catalonia",28,0,75,"Forecasted"
+2035,"IBD","Prevalence","Peds (<18)","Catalonia",26,0,76,"Forecasted"
+1990,"IBD","Prevalence","Peds (<18)","Denmark",24,22,27,"Observed"
+1991,"IBD","Prevalence","Peds (<18)","Denmark",26,23,29,"Observed"
+1992,"IBD","Prevalence","Peds (<18)","Denmark",27,24,31,"Observed"
+1993,"IBD","Prevalence","Peds (<18)","Denmark",29,26,33,"Observed"
+1994,"IBD","Prevalence","Peds (<18)","Denmark",33,30,36,"Observed"
+1995,"IBD","Prevalence","Peds (<18)","Denmark",34,31,38,"Observed"
+1996,"IBD","Prevalence","Peds (<18)","Denmark",36,33,40,"Observed"
+1997,"IBD","Prevalence","Peds (<18)","Denmark",40,36,43,"Observed"
+1998,"IBD","Prevalence","Peds (<18)","Denmark",45,41,49,"Observed"
+1999,"IBD","Prevalence","Peds (<18)","Denmark",49,45,53,"Observed"
+2000,"IBD","Prevalence","Peds (<18)","Denmark",52,48,56,"Observed"
+2001,"IBD","Prevalence","Peds (<18)","Denmark",55,51,60,"Observed"
+2002,"IBD","Prevalence","Peds (<18)","Denmark",61,56,65,"Observed"
+2003,"IBD","Prevalence","Peds (<18)","Denmark",63,59,68,"Observed"
+2004,"IBD","Prevalence","Peds (<18)","Denmark",68,63,73,"Observed"
+2005,"IBD","Prevalence","Peds (<18)","Denmark",67,63,72,"Observed"
+2006,"IBD","Prevalence","Peds (<18)","Denmark",70,65,74,"Observed"
+2007,"IBD","Prevalence","Peds (<18)","Denmark",71,67,76,"Observed"
+2008,"IBD","Prevalence","Peds (<18)","Denmark",73,68,78,"Observed"
+2009,"IBD","Prevalence","Peds (<18)","Denmark",74,70,79,"Observed"
+2010,"IBD","Prevalence","Peds (<18)","Denmark",77,72,82,"Observed"
+2011,"IBD","Prevalence","Peds (<18)","Denmark",75,70,80,"Observed"
+2012,"IBD","Prevalence","Peds (<18)","Denmark",78,73,83,"Observed"
+2013,"IBD","Prevalence","Peds (<18)","Denmark",81,76,86,"Observed"
+2014,"IBD","Prevalence","Peds (<18)","Denmark",83,78,89,"Observed"
+2015,"IBD","Prevalence","Peds (<18)","Denmark",85,80,91,"Observed"
+2016,"IBD","Prevalence","Peds (<18)","Denmark",85,80,90,"Observed"
+2017,"IBD","Prevalence","Peds (<18)","Denmark",85,80,90,"Observed"
+2018,"IBD","Prevalence","Peds (<18)","Denmark",87,86,89,"Forecasted"
+2019,"IBD","Prevalence","Peds (<18)","Denmark",90,88,92,"Forecasted"
+2020,"IBD","Prevalence","Peds (<18)","Denmark",92,89,96,"Forecasted"
+2021,"IBD","Prevalence","Peds (<18)","Denmark",95,90,99,"Forecasted"
+2022,"IBD","Prevalence","Peds (<18)","Denmark",97,92,103,"Forecasted"
+2023,"IBD","Prevalence","Peds (<18)","Denmark",100,93,106,"Forecasted"
+2024,"IBD","Prevalence","Peds (<18)","Denmark",102,95,110,"Forecasted"
+2025,"IBD","Prevalence","Peds (<18)","Denmark",105,96,113,"Forecasted"
+2026,"IBD","Prevalence","Peds (<18)","Denmark",107,98,116,"Forecasted"
+2027,"IBD","Prevalence","Peds (<18)","Denmark",110,99,120,"Forecasted"
+2028,"IBD","Prevalence","Peds (<18)","Denmark",112,101,123,"Forecasted"
+2029,"IBD","Prevalence","Peds (<18)","Denmark",114,103,126,"Forecasted"
+2030,"IBD","Prevalence","Peds (<18)","Denmark",117,104,129,"Forecasted"
+2031,"IBD","Prevalence","Peds (<18)","Denmark",119,106,133,"Forecasted"
+2032,"IBD","Prevalence","Peds (<18)","Denmark",121,107,136,"Forecasted"
+2033,"IBD","Prevalence","Peds (<18)","Denmark",124,109,139,"Forecasted"
+2034,"IBD","Prevalence","Peds (<18)","Denmark",126,110,142,"Forecasted"
+2035,"IBD","Prevalence","Peds (<18)","Denmark",128,112,145,"Forecasted"
+2007,"IBD","Prevalence","Peds (<18)","Hungary",82,61,103,"Observed"
+2008,"IBD","Prevalence","Peds (<18)","Hungary",98,75,121,"Observed"
+2009,"IBD","Prevalence","Peds (<18)","Hungary",84,63,106,"Observed"
+2010,"IBD","Prevalence","Peds (<18)","Hungary",84,62,105,"Observed"
+2011,"IBD","Prevalence","Peds (<18)","Hungary",88,66,110,"Observed"
+2012,"IBD","Prevalence","Peds (<18)","Hungary",86,65,108,"Observed"
+2013,"IBD","Prevalence","Peds (<18)","Hungary",86,64,108,"Observed"
+2014,"IBD","Prevalence","Peds (<18)","Hungary",92,70,115,"Observed"
+2015,"IBD","Prevalence","Peds (<18)","Hungary",94,71,117,"Observed"
+2016,"IBD","Prevalence","Peds (<18)","Hungary",97,74,120,"Observed"
+2017,"IBD","Prevalence","Peds (<18)","Hungary",94,72,117,"Observed"
+2018,"IBD","Prevalence","Peds (<18)","Hungary",95,82,108,"Forecasted"
+2019,"IBD","Prevalence","Peds (<18)","Hungary",96,82,111,"Forecasted"
+2020,"IBD","Prevalence","Peds (<18)","Hungary",97,81,114,"Forecasted"
+2021,"IBD","Prevalence","Peds (<18)","Hungary",98,80,116,"Forecasted"
+2022,"IBD","Prevalence","Peds (<18)","Hungary",99,79,119,"Forecasted"
+2023,"IBD","Prevalence","Peds (<18)","Hungary",100,78,122,"Forecasted"
+2024,"IBD","Prevalence","Peds (<18)","Hungary",101,77,125,"Forecasted"
+2025,"IBD","Prevalence","Peds (<18)","Hungary",102,76,128,"Forecasted"
+2026,"IBD","Prevalence","Peds (<18)","Hungary",103,75,131,"Forecasted"
+2027,"IBD","Prevalence","Peds (<18)","Hungary",104,74,134,"Forecasted"
+2028,"IBD","Prevalence","Peds (<18)","Hungary",104,73,136,"Forecasted"
+2029,"IBD","Prevalence","Peds (<18)","Hungary",105,72,139,"Forecasted"
+2030,"IBD","Prevalence","Peds (<18)","Hungary",106,71,142,"Forecasted"
+2031,"IBD","Prevalence","Peds (<18)","Hungary",107,70,145,"Forecasted"
+2032,"IBD","Prevalence","Peds (<18)","Hungary",108,68,148,"Forecasted"
+2033,"IBD","Prevalence","Peds (<18)","Hungary",109,67,151,"Forecasted"
+2034,"IBD","Prevalence","Peds (<18)","Hungary",110,66,154,"Forecasted"
+2035,"IBD","Prevalence","Peds (<18)","Hungary",111,65,156,"Forecasted"
+2005,"IBD","Prevalence","Peds (<18)","ISRAEL",46,44,49,"Observed"
+2006,"IBD","Prevalence","Peds (<18)","ISRAEL",48,45,51,"Observed"
+2007,"IBD","Prevalence","Peds (<18)","ISRAEL",50,47,53,"Observed"
+2008,"IBD","Prevalence","Peds (<18)","ISRAEL",51,48,54,"Observed"
+2009,"IBD","Prevalence","Peds (<18)","ISRAEL",53,50,55,"Observed"
+2010,"IBD","Prevalence","Peds (<18)","ISRAEL",52,49,55,"Observed"
+2011,"IBD","Prevalence","Peds (<18)","ISRAEL",54,51,57,"Observed"
+2012,"IBD","Prevalence","Peds (<18)","ISRAEL",54,51,56,"Observed"
+2013,"IBD","Prevalence","Peds (<18)","ISRAEL",54,51,57,"Observed"
+2014,"IBD","Prevalence","Peds (<18)","ISRAEL",56,53,59,"Observed"
+2015,"IBD","Prevalence","Peds (<18)","ISRAEL",56,53,59,"Observed"
+2016,"IBD","Prevalence","Peds (<18)","ISRAEL",60,57,63,"Observed"
+2017,"IBD","Prevalence","Peds (<18)","ISRAEL",62,60,65,"Observed"
+2018,"IBD","Prevalence","Peds (<18)","ISRAEL",64,61,67,"Observed"
+2019,"IBD","Prevalence","Peds (<18)","ISRAEL",67,64,70,"Observed"
+2020,"IBD","Prevalence","Peds (<18)","ISRAEL",68,65,70,"Observed"
+2021,"IBD","Prevalence","Peds (<18)","ISRAEL",69,67,70,"Forecasted"
+2022,"IBD","Prevalence","Peds (<18)","ISRAEL",70,67,72,"Forecasted"
+2023,"IBD","Prevalence","Peds (<18)","ISRAEL",71,67,74,"Forecasted"
+2024,"IBD","Prevalence","Peds (<18)","ISRAEL",72,68,77,"Forecasted"
+2025,"IBD","Prevalence","Peds (<18)","ISRAEL",73,68,79,"Forecasted"
+2026,"IBD","Prevalence","Peds (<18)","ISRAEL",75,69,81,"Forecasted"
+2027,"IBD","Prevalence","Peds (<18)","ISRAEL",76,70,83,"Forecasted"
+2028,"IBD","Prevalence","Peds (<18)","ISRAEL",77,70,85,"Forecasted"
+2029,"IBD","Prevalence","Peds (<18)","ISRAEL",79,71,87,"Forecasted"
+2030,"IBD","Prevalence","Peds (<18)","ISRAEL",80,72,89,"Forecasted"
+2031,"IBD","Prevalence","Peds (<18)","ISRAEL",82,72,91,"Forecasted"
+2032,"IBD","Prevalence","Peds (<18)","ISRAEL",83,73,93,"Forecasted"
+2033,"IBD","Prevalence","Peds (<18)","ISRAEL",84,74,95,"Forecasted"
+2034,"IBD","Prevalence","Peds (<18)","ISRAEL",86,75,97,"Forecasted"
+2035,"IBD","Prevalence","Peds (<18)","ISRAEL",87,76,98,"Forecasted"
+2009,"IBD","Prevalence","Peds (<18)","Scotland",87,73,102,"Observed"
+2010,"IBD","Prevalence","Peds (<18)","Scotland",75,62,89,"Observed"
+2011,"IBD","Prevalence","Peds (<18)","Scotland",76,62,89,"Observed"
+2012,"IBD","Prevalence","Peds (<18)","Scotland",75,62,89,"Observed"
+2013,"IBD","Prevalence","Peds (<18)","Scotland",65,53,77,"Observed"
+2014,"IBD","Prevalence","Peds (<18)","Scotland",64,51,76,"Observed"
+2015,"IBD","Prevalence","Peds (<18)","Scotland",67,55,80,"Observed"
+2016,"IBD","Prevalence","Peds (<18)","Scotland",66,54,79,"Observed"
+2017,"IBD","Prevalence","Peds (<18)","Scotland",70,57,83,"Observed"
+2018,"IBD","Prevalence","Peds (<18)","Scotland",61,55,68,"Forecasted"
+2019,"IBD","Prevalence","Peds (<18)","Scotland",59,52,67,"Forecasted"
+2020,"IBD","Prevalence","Peds (<18)","Scotland",57,49,66,"Forecasted"
+2021,"IBD","Prevalence","Peds (<18)","Scotland",55,45,65,"Forecasted"
+2022,"IBD","Prevalence","Peds (<18)","Scotland",53,42,64,"Forecasted"
+2023,"IBD","Prevalence","Peds (<18)","Scotland",51,39,63,"Forecasted"
+2024,"IBD","Prevalence","Peds (<18)","Scotland",49,36,62,"Forecasted"
+2025,"IBD","Prevalence","Peds (<18)","Scotland",47,33,61,"Forecasted"
+2026,"IBD","Prevalence","Peds (<18)","Scotland",45,29,60,"Forecasted"
+2027,"IBD","Prevalence","Peds (<18)","Scotland",43,26,59,"Forecasted"
+2028,"IBD","Prevalence","Peds (<18)","Scotland",40,23,58,"Forecasted"
+2029,"IBD","Prevalence","Peds (<18)","Scotland",38,20,57,"Forecasted"
+2030,"IBD","Prevalence","Peds (<18)","Scotland",36,17,56,"Forecasted"
+2031,"IBD","Prevalence","Peds (<18)","Scotland",34,13,55,"Forecasted"
+2032,"IBD","Prevalence","Peds (<18)","Scotland",32,10,54,"Forecasted"
+2033,"IBD","Prevalence","Peds (<18)","Scotland",30,7,53,"Forecasted"
+2034,"IBD","Prevalence","Peds (<18)","Scotland",28,4,52,"Forecasted"
+2035,"IBD","Prevalence","Peds (<18)","Scotland",26,0,51,"Forecasted"
+2004,"IBD","Prevalence","Peds (<18)","Sweden",67,63,71,"Observed"
+2005,"IBD","Prevalence","Peds (<18)","Sweden",70,66,74,"Observed"
+2006,"IBD","Prevalence","Peds (<18)","Sweden",75,72,79,"Observed"
+2007,"IBD","Prevalence","Peds (<18)","Sweden",78,74,82,"Observed"
+2008,"IBD","Prevalence","Peds (<18)","Sweden",81,77,85,"Observed"
+2009,"IBD","Prevalence","Peds (<18)","Sweden",83,79,87,"Observed"
+2010,"IBD","Prevalence","Peds (<18)","Sweden",86,81,90,"Observed"
+2011,"IBD","Prevalence","Peds (<18)","Sweden",84,80,89,"Observed"
+2012,"IBD","Prevalence","Peds (<18)","Sweden",82,78,86,"Observed"
+2013,"IBD","Prevalence","Peds (<18)","Sweden",78,74,82,"Observed"
+2014,"IBD","Prevalence","Peds (<18)","Sweden",75,71,79,"Observed"
+2015,"IBD","Prevalence","Peds (<18)","Sweden",77,73,81,"Observed"
+2016,"IBD","Prevalence","Peds (<18)","Sweden",79,75,83,"Observed"
+2017,"IBD","Prevalence","Peds (<18)","Sweden",78,74,82,"Observed"
+2018,"IBD","Prevalence","Peds (<18)","Sweden",78,74,82,"Observed"
+2019,"IBD","Prevalence","Peds (<18)","Sweden",79,75,83,"Observed"
+2020,"IBD","Prevalence","Peds (<18)","Sweden",81,77,85,"Observed"
+2021,"IBD","Prevalence","Peds (<18)","Sweden",83,79,87,"Observed"
+2022,"IBD","Prevalence","Peds (<18)","Sweden",84,81,87,"Forecasted"
+2023,"IBD","Prevalence","Peds (<18)","Sweden",85,79,90,"Forecasted"
+2024,"IBD","Prevalence","Peds (<18)","Sweden",86,78,93,"Forecasted"
+2025,"IBD","Prevalence","Peds (<18)","Sweden",86,76,97,"Forecasted"
+2026,"IBD","Prevalence","Peds (<18)","Sweden",87,75,100,"Forecasted"
+2027,"IBD","Prevalence","Peds (<18)","Sweden",88,74,102,"Forecasted"
+2028,"IBD","Prevalence","Peds (<18)","Sweden",89,73,105,"Forecasted"
+2029,"IBD","Prevalence","Peds (<18)","Sweden",90,72,108,"Forecasted"
+2030,"IBD","Prevalence","Peds (<18)","Sweden",91,71,110,"Forecasted"
+2031,"IBD","Prevalence","Peds (<18)","Sweden",92,70,113,"Forecasted"
+2032,"IBD","Prevalence","Peds (<18)","Sweden",92,70,115,"Forecasted"
+2033,"IBD","Prevalence","Peds (<18)","Sweden",93,69,118,"Forecasted"
+2034,"IBD","Prevalence","Peds (<18)","Sweden",94,68,120,"Forecasted"
+2035,"IBD","Prevalence","Peds (<18)","Sweden",95,68,122,"Forecasted"
+2035,"IBD","Prevalence","Peds (<18)","Global",65,43,100,
+2034,"IBD","Prevalence","Peds (<18)","Global",67,44,104,
+2033,"IBD","Prevalence","Peds (<18)","Global",70,48,99,
+2032,"IBD","Prevalence","Peds (<18)","Global",70,50,101,
+2031,"IBD","Prevalence","Peds (<18)","Global",71,51,102,
+2030,"IBD","Prevalence","Peds (<18)","Global",73,50,107,
+2029,"IBD","Prevalence","Peds (<18)","Global",70,50,93,
+2028,"IBD","Prevalence","Peds (<18)","Global",72,53,99,
+2027,"IBD","Prevalence","Peds (<18)","Global",71,53,95,
+2026,"IBD","Prevalence","Peds (<18)","Global",73,55,96,
+2025,"IBD","Prevalence","Peds (<18)","Global",73,59,92,
+2024,"IBD","Prevalence","Peds (<18)","Global",73,56,93,
+2023,"IBD","Prevalence","Peds (<18)","Global",73,59,93,
+2022,"IBD","Prevalence","Peds (<18)","Global",73,62,89,
+2021,"IBD","Prevalence","Peds (<18)","Global",72,59,87,
+2020,"IBD","Prevalence","Peds (<18)","Global",73,62,86,
+2019,"IBD","Prevalence","Peds (<18)","Global",73,62,84,
+2018,"IBD","Prevalence","Peds (<18)","Global",71,60,83,
+2017,"IBD","Prevalence","Peds (<18)","Global",72,59,85,
+2016,"IBD","Prevalence","Peds (<18)","Global",69,57,82,
+2015,"IBD","Prevalence","Peds (<18)","Global",66,50,81,
+2014,"IBD","Prevalence","Peds (<18)","Global",65,53,82,
+2013,"IBD","Prevalence","Peds (<18)","Global",63,49,77,
+2012,"IBD","Prevalence","Peds (<18)","Global",64,49,80,
+2011,"IBD","Prevalence","Peds (<18)","Global",65,48,88,
+2010,"IBD","Prevalence","Peds (<18)","Global",72,60,86,
+2009,"IBD","Prevalence","Peds (<18)","Global",74,61,89,
+2008,"IBD","Prevalence","Peds (<18)","Global",71,57,95,
+2007,"IBD","Prevalence","Peds (<18)","Global",67,53,82,
