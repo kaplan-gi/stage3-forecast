@@ -221,8 +221,9 @@ incidenceServer <- function(id) {
     # build map
     output$map <- renderLeaflet({
       leaflet(options = leafletOptions(worldCopyJump = TRUE, minZoom = 1, maxZoom = 4, zoomControl = FALSE)) %>%
-        addProviderTiles("CartoDB.Positron") %>%
-        setView(lng = 30, lat = 20, zoom = 2) %>%
+        # addProviderTiles("CartoDB.Positron") %>% # removed due to API key requirement
+        addProviderTiles("Esri.WorldGrayCanvas") %>%
+        setView(lng = 15, lat = 35, zoom = 2) %>%
         addLegend(position = "bottomleft",
                   title = "Incidence (per 100,000)",
                   colors = c("#DBFEF4", "#8EFEDC", "#1B9E77", "#016245", "#002B1E"),

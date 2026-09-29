@@ -213,8 +213,8 @@ prevalenceServer <- function(id) {
     # base map
     output$map <- renderLeaflet({
       leaflet(options = leafletOptions(worldCopyJump = TRUE, minZoom = 2, maxZoom = 4, zoomControl = FALSE)) %>%
-        addProviderTiles("CartoDB.Positron") %>%
-        setView(lng = -0, lat = 20, zoom = 2) %>%
+        addProviderTiles("Esri.WorldGrayCanvas") %>%
+        setView(lng = 15, lat = 35, zoom = 2) %>%
         addLegend(position = "bottomleft",
                   title = "Prevalence (per 100,000)",
                   colors = c("#FDE1CC", "#FEAF73", "#D95F02", "#7C3601", "#1D0D00"),
