@@ -7,7 +7,7 @@
 # Running under: macOS Sequoia 15.6.1
 
 
-# link: 
+# link: https://kaplan-global-epi-stage3-forecast.share.connect.posit.cloud/
 
 
 # version notes:
@@ -175,7 +175,7 @@ server <- function(input, output, session) {
     title = "Welcome!",
     HTML("<p style = 'font-size: 100%;'>Thank you for visiting our data repository.<br><br>
                     <b>To cite:</b><br>
-                    <i>S. Coward - Manuscript under review. Citation will be updated after publication.</i><br><br>
+                    Coward S, Brunet-Mas E, Burisch J, et al. Forecasting the incidence and prevalence of inflammatory bowel disease across nine epidemiologic stage 3 regions. <i>Gastroenterology</i>. 2026;171(1):154-157. doi:<a href='https://doi.org/10.1053/j.gastro.2026.01.009', target='_blank'>10.1053/j.gastro.2026.01.009</a><br><br>
                     <b>To contact:</b><br>
                     For more information about this project, please refer to the publication above or feel free to contact us with the email subject line \"Stage 3 incidence and prevalence (ARIMA) data repository\" using the <i>Contact</i> button at the top of the webpage.</p>"),
     size = "l",
